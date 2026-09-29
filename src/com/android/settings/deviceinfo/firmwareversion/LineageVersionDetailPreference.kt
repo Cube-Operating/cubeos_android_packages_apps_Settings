@@ -62,8 +62,12 @@ class LineageVersionDetailPreference :
         preference.onPreferenceClickListener = this
     }
 
+    // CubeOS version first; the LineageOS version only if a build lacks it.
     override fun getSummary(context: Context): CharSequence =
-        SystemProperties.get(LINEAGE_VERSION_PROPERTY, context.getString(R.string.unknown));
+        SystemProperties.get(
+            CUBE_VERSION_PROPERTY,
+            SystemProperties.get(LINEAGE_VERSION_PROPERTY, context.getString(R.string.unknown)),
+        )
 
     // return true swallows the click event, while return false will start the intent
     override fun onPreferenceClick(preference: Preference): Boolean {
@@ -102,6 +106,7 @@ class LineageVersionDetailPreference :
         const val ACTIVITY_TRIGGER_COUNT = 3
         const val DELAY_TIMER_MILLIS = 500L
 
+        const val CUBE_VERSION_PROPERTY: String = "ro.cube.display.version"
         const val LINEAGE_VERSION_PROPERTY: String = "ro.lineage.version"
 
         const val PLATLOGO_PACKAGE_NAME: String = "org.lineageos.lineageparts"
