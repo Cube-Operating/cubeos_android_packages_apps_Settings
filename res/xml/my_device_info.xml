@@ -154,6 +154,15 @@
             android:summary="@string/summary_placeholder"
             settings:enableCopying="true"
             settings:controller="com.android.settings.deviceinfo.firmwareversion.LineageVersionDetailPreferenceController"/>
+
+        <!-- CubeOS release channel -->
+        <Preference
+            android:key="cube_release_channel"
+            android:order="44"
+            android:title="@string/cubeos_release_channel"
+            android:summary="@string/summary_placeholder"
+            settings:enableCopying="true"
+            settings:controller="com.android.settings.deviceinfo.firmwareversion.CubeReleaseChannelPreferenceController"/>
     </PreferenceCategory>
 
     <PreferenceCategory
