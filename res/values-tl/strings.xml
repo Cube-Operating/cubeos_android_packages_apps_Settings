@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Masyadong maraming beses na pumalya ang biometrics. Subukan ulit."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Puwede mong pamahalaan ang Pagsusuri sa Pagkakakilanlan sa mga setting ng proteksyon sa pagnanakaw. Pumunta sa Mga Setting"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Nire-require ang biometric para magpatuloy"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Naka-on ang Pagsusuri sa Pagkakakilanlan at nagre-require ito ng biometric, pero hindi available ang iyong sensor para sa mukha o fingerprint\n"<ul><li>"Tiyaking naka-on ang iyong camera at subukan ulit"</li>\n<li>"Mao-off mo ang Pagsusuri sa Pagkakakilanlan gamit ang iyong Google Account"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Naka-on ang Pagsusuri sa Pagkakakilanlan at nagre-require ito ng biometric, pero hindi available ang iyong sensor para sa mukha o fingerprint\n"<ul><li>"Tiyaking naka-on ang iyong camera at subukan ulit"</li>\n<li>"Mao-off mo ang Pagsusuri sa Pagkakakilanlan gamit ang iyong Cube Account"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Kanselahin"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"OK"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Pumunta sa pagsusuri sa pagkakakilanlan"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Kanselahin"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"I-set up"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Pribadong space"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"I-hide o i-lock ang mga pribadong space sa isang hiwalay na space. Gumamit ng nakalaang Google Account para sa karagdagang seguridad."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"I-hide o i-lock ang mga pribadong space sa isang hiwalay na space. Gumamit ng nakalaang Cube Account para sa karagdagang seguridad."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Paano ito gumagana"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Gumawa ng Google Account para sa iyong space"</b>\n"Kung gumagamit ka ng nakalaang account, nakakatulong ito para hindi makita sa labas ng iyong space ang mga naka-sync na file, larawan, at email"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Gumawa ng Cube Account para sa iyong space"</b>\n"Kung gumagamit ka ng nakalaang account, nakakatulong ito para hindi makita sa labas ng iyong space ang mga naka-sync na file, larawan, at email"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Magtakda ng lock"</b>\n"I-lock ang iyong space para mapigilan ang ibang taong buksan ito"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Mag-install ng mga app"</b>\n"Mag-install ng mga app na gusto mong panatilihing pribado sa iyong space"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Tandaan"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Hindi mabura ang mga eSIM"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Nagkaproblema at hindi nabura ang iyong mga eSIM.\n\nI-restart ang device mo at subukan ulit."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"I-delete ang pribadong space"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Kung mayroon kang pribadong space sa iyong device, permanente itong made-delete at aalisin ang Google Account na idinagdag sa space mo. \n\nPermanente ring made-delete ang lahat ng app sa iyong space at ang data ng mga ito sa "<b>"internal storage"</b>" ng telepono mo."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Kung mayroon kang pribadong space sa iyong device, permanente itong made-delete at aalisin ang Cube Account na idinagdag sa space mo. \n\nPermanente ring made-delete ang lahat ng app sa iyong space at ang data ng mga ito sa "<b>"internal storage"</b>" ng telepono mo."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Burahin ang data (factory reset)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Burahin lahat (factory reset)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Musika"</li>\n<li>"Mga Larawan"</li>\n<li>"Ibang data ng user"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"I-verify ang PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"I-verify ang password"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"I-verify na ikaw"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Para maglipat ng mga Google Account, setting, at higit pa, ilagay ang pattern ng isa mo pang device. Naka-encrypt ang pattern mo."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Para maglipat ng mga Google Account, setting, at higit pa, ilagay ang PIN ng isa mo pang device. Naka-encrypt ang PIN mo."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Para maglipat ng mga Gogole Account, setting, at higit pa, ilagay ang password ng isa mo pang device. Naka-encrypt ang password mo."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Para maglipat ng mga Cube Account, setting, at higit pa, ilagay ang pattern ng isa mo pang device. Naka-encrypt ang pattern mo."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Para maglipat ng mga Cube Account, setting, at higit pa, ilagay ang PIN ng isa mo pang device. Naka-encrypt ang PIN mo."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Para maglipat ng mga Cube Account, setting, at higit pa, ilagay ang password ng isa mo pang device. Naka-encrypt ang password mo."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Gamitin din ang pattern para i-unlock ito"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Gamitin din ang PIN para i-unlock ito"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Gamitin din ang password para i-unlock ito"</string>

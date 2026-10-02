@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Biometri misslyckades för många gånger. Försök igen."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Du kan hantera identitetskontrollen i inställningarna för stöldskydd. Öppna inställningarna"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Biometri krävs för att fortsätta"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Identitetskontrollen är aktiverad och kräver biometri, men ansikts- eller fingeravtryckssensorn är inte tillgänglig\n"<ul><li>"Kontrollera att kameran är på och försök igen"</li>\n<li>"Du kan inaktivera identitetskontroll med ditt Google-konto"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Identitetskontrollen är aktiverad och kräver biometri, men ansikts- eller fingeravtryckssensorn är inte tillgänglig\n"<ul><li>"Kontrollera att kameran är på och försök igen"</li>\n<li>"Du kan inaktivera identitetskontroll med ditt Cube-konto"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Avbryt"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"OK"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Gå till identitetskontrollen"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Avbryt"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Ställ in"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Privat utrymme"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Dölj eller lås privata appar i ett separat utrymme. Använd ett dedikerat Google-konto för extra säkerhet."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Dölj eller lås privata appar i ett separat utrymme. Använd ett dedikerat Cube-konto för extra säkerhet."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Så fungerar det"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Skapa ett Google-konto för ditt privata utrymme"</b>\n"Om du använder ett separat konto förhindrar det att synkroniserade filer, foton och e-postmeddelanden visas utanför det privata utrymmet"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Skapa ett Cube-konto för ditt privata utrymme"</b>\n"Om du använder ett separat konto förhindrar det att synkroniserade filer, foton och e-postmeddelanden visas utanför det privata utrymmet"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Ställ in ett lås"</b>\n"Lås ditt utrymme så att andra inte kan öppna det"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Installera appar"</b>\n"Installera appar som du vill hålla privata i utrymmet"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Viktigt att tänka på"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Det gick inte att rensa dessa eSIM"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Något gick fel och dina eSIM rensades inte.\n\nStarta om enheten och försök igen."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Radera privat utrymme"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Om du har ett privat utrymme på din enhet tas det bort permanent och Google-kontot som lagts till för ditt utrymme att tas bort. \n\nAlla appar i ditt utrymme och tillhörande data tas även bort från telefonens "<b>"interna lagringsutrymme"</b>"."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Om du har ett privat utrymme på din enhet tas det bort permanent och Cube-kontot som lagts till för ditt utrymme att tas bort. \n\nAlla appar i ditt utrymme och tillhörande data tas även bort från telefonens "<b>"interna lagringsutrymme"</b>"."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Rensa all data (återställ standardinst.)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Rensa all data (återställ standardinst.)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"musik"</li>\n<li>"foton"</li>\n<li>"annan användardata"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Bekräfta pinkoden"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Bekräfta lösenordet"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Styrk vem du är"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Ange den andra enhetens mönster för att överföra Google-konton, inställningar med mera. Mönstret krypteras."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Ange den andra enhetens pinkod för att överföra Google-konton, inställningar med mera. Pinkoden krypteras."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Ange den andra enhetens lösenord för att överföra Google-konton, inställningar med mera. Lösenordet krypteras."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Ange den andra enhetens mönster för att överföra Cube-konton, inställningar med mera. Mönstret krypteras."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Ange den andra enhetens pinkod för att överföra Cube-konton, inställningar med mera. Pinkoden krypteras."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Ange den andra enhetens lösenord för att överföra Cube-konton, inställningar med mera. Lösenordet krypteras."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Kräv även mönster för att låsa upp enheten"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Kräv även pinkod för att låsa upp enheten"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Kräv även lösenord för att låsa upp enheten"</string>

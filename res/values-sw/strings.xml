@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Imeshindwa kuthibitisha taarifa za kibayometri mara nyingi mno. Jaribu tena."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Unaweza kudhibiti kipengele cha Ukaguzi wa Utambulisho katika mipangilio ya ulinzi dhidi ya wizi. Nenda kwenye Mipangilio"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Taarifa za kibayometri zinahitajika ili kuendelea"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Kipengele cha Ukaguzi wa Utambulisho kimewashwa na kinahitaji taarifa za kibayometri, lakini kitambuzi chako cha uso au alama ya kidole hakipatikani\n"<ul><li>"Hakikisha kuwa umewasha kamera kisha ujaribu tena"</li>\n<li>"Unaweza kuzima kipengele cha Ukaguzi wa Utambulisho kwa kutumia Akaunti yako ya Google"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Kipengele cha Ukaguzi wa Utambulisho kimewashwa na kinahitaji taarifa za kibayometri, lakini kitambuzi chako cha uso au alama ya kidole hakipatikani\n"<ul><li>"Hakikisha kuwa umewasha kamera kisha ujaribu tena"</li>\n<li>"Unaweza kuzima kipengele cha Ukaguzi wa Utambulisho kwa kutumia Akaunti yako ya Cube"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Ondoa"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"Sawa"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Nenda kwenye mipangilio ya ukaguzi wa utambulisho"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Acha"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Weka mipangilio"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Sehemu ya faragha"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Ficha au ufunge programu za faragha katika sehemu tofauti. Tumia Akaunti maalum ya Google ili upate usalama zaidi."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Ficha au ufunge programu za faragha katika sehemu tofauti. Tumia Akaunti maalum ya Cube ili upate usalama zaidi."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Utaratibu wake"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Fungua Akaunti ya Google ya sehemu yako ya faragha"</b>\n"Ukitumia akaunti maalum, inasaidia kuzuia faili, picha na barua pepe zilizosawazishwa zisionekane nje ya sehemu yako ya faragha"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Fungua Akaunti ya Cube ya sehemu yako ya faragha"</b>\n"Ukitumia akaunti maalum, inasaidia kuzuia faili, picha na barua pepe zilizosawazishwa zisionekane nje ya sehemu yako ya faragha"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Weka mipangilio ya kufunga"</b>\n"Funga sehemu yako ili ukomeshe watu wengine wasiifungue"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Weka programu"</b>\n"Weka programu ambazo ungependa ziwe za faragha katika sehemu yako ya faragha"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Kumbuka"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Imeshindwa kufuta eSIM"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Hitilafu fulani imetokea na eSIM zako hazijafutwa.\n\nZima kisha uwashe kifaa chako na ujaribu tena."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Futa sehemu ya faragha"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Iwapo una sehemu ya faragha kwenye kifaa chako, itafutwa kabisa na Akaunti ya Google iliyowekwa kwenye sehemu hiyo itaondolewa. \n\nProgramu zote zilizo kwenye sehemu yako na data iliyomo pia zitafutwa kabisa kwenye "<b>"hifadhi ya mfumo"</b>" ya simu yako."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Iwapo una sehemu ya faragha kwenye kifaa chako, itafutwa kabisa na Akaunti ya Cube iliyowekwa kwenye sehemu hiyo itaondolewa. \n\nProgramu zote zilizo kwenye sehemu yako na data iliyomo pia zitafutwa kabisa kwenye "<b>"hifadhi ya mfumo"</b>" ya simu yako."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Futa data yote (rejesha mipangilio iliyotoka nayo kiwandani)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Futa data yote (rejesha mipangilio Iliyotoka nayo kiwandani)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Muziki"</li>\n<li>"Picha"</li>\n<li>"data nyingine ya mtumiaji"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Thibitisha PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Thibitisha nenosiri"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Thibitisha kwamba ni wewe"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Ili uhamishe Akaunti za Google, mipangilio na zaidi, weka mchoro wa kifaa chako kingine. Mchoro wako umesimbwa kwa njia fiche."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Ili uhamishe Akaunti za Google, mipangilio na zaidi, weka PIN ya kifaa chako kingine. PIN yako imesimbwa kwa njia fiche."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Ili uhamishe Akaunti za Google, mipangilio na zaidi, weka nenosiri la kifaa chako kingine. Nenosiri lako limesimbwa kwa njia fiche."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Ili uhamishe Akaunti za Cube, mipangilio na zaidi, weka mchoro wa kifaa chako kingine. Mchoro wako umesimbwa kwa njia fiche."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Ili uhamishe Akaunti za Cube, mipangilio na zaidi, weka PIN ya kifaa chako kingine. PIN yako imesimbwa kwa njia fiche."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Ili uhamishe Akaunti za Cube, mipangilio na zaidi, weka nenosiri la kifaa chako kingine. Nenosiri lako limesimbwa kwa njia fiche."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Pia, tumia mchoro ili ufungue kifaa hiki"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Pia, tumia PIN ufungue kifaa hiki"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Pia, tumia nenosiri ili ufungue kifaa hiki"</string>

@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"生物識別資料驗證失敗太多次。請再試一次。"</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"你可前往防盜設定管理身分檢查功能。前往「設定」"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"需要生物識別資料才可繼續"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"身分檢查功能已開啟，需要生物識別資料，但你的面孔或指紋感應器無法使用\n"<ul><li>"請檢查相機是否已開啟，然後再試一次"</li>\n<li>"你可使用 Google 帳戶關閉身分檢查功能"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"身分檢查功能已開啟，需要生物識別資料，但你的面孔或指紋感應器無法使用\n"<ul><li>"請檢查相機是否已開啟，然後再試一次"</li>\n<li>"你可使用 Cube 帳戶關閉身分檢查功能"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"取消"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"確定"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"前往身分檢查"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"取消"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"設定"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"私人空間"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"在獨立空間隱藏或鎖定私人應用程式。使用專屬的 Google 帳戶，進一步加強安全保障。"</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"在獨立空間隱藏或鎖定私人應用程式。使用專屬的 Cube 帳戶，進一步加強安全保障。"</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"運作方式"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"為你的私人空間建立 Google 帳戶"</b>\n"使用專屬帳戶有助防止已同步的檔案、相片和電郵在私人空間以外的空間顯示"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"為你的私人空間建立 Cube 帳戶"</b>\n"使用專屬帳戶有助防止已同步的檔案、相片和電郵在私人空間以外的空間顯示"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"設定鎖定方式"</b>\n"鎖定私人空間，以防止其他人開啟"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"安裝應用程式"</b>\n"在私人空間中安裝你想設定為私人的應用程式"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"注意事項"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"無法清除 eSIM 卡"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"發生問題，未清除 eSIM 卡。\n\n請重新啟動裝置並再試一次。"</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"刪除私人空間"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"如裝置上有私人空間，系統將永久刪除裝置上的私人空間，同時移除新增至空間的 Google 帳戶。\n\n空間中的所有應用程式及其資料亦會從手機的"<b>"內部儲存空間"</b>"中永久刪除。"</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"如裝置上有私人空間，系統將永久刪除裝置上的私人空間，同時移除新增至空間的 Cube 帳戶。\n\n空間中的所有應用程式及其資料亦會從手機的"<b>"內部儲存空間"</b>"中永久刪除。"</string>
     <string name="main_clear_title" msgid="277664302144837723">"清除所有資料 (回復原廠設定)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"清除所有資料 (回復原廠設定)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"音樂"</li>\n<li>"相片"</li>\n<li>"其他使用者資料"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"驗證 PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"驗證密碼"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"驗證你的身分"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"請輸入其他裝置的上鎖圖案，才能轉移 Google 帳戶、設定等內容。你的上鎖圖案已加密。"</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"請輸入其他裝置的 PIN，才能轉移 Google 帳戶、設定等內容。你的 PIN 已加密。"</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"請輸入其他裝置的密碼，才能轉移 Google 帳戶、設定等內容。你的密碼已加密。"</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"請輸入其他裝置的上鎖圖案，才能轉移 Cube 帳戶、設定等內容。你的上鎖圖案已加密。"</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"請輸入其他裝置的 PIN，才能轉移 Cube 帳戶、設定等內容。你的 PIN 已加密。"</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"請輸入其他裝置的密碼，才能轉移 Cube 帳戶、設定等內容。你的密碼已加密。"</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"亦可使用上鎖圖案解鎖此裝置"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"亦可使用 PIN 解鎖此裝置"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"亦可使用密碼解鎖此裝置"</string>

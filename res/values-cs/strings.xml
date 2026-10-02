@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Biometrie příliš mnohokrát selhala. Zkuste to znovu."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Kontrolu identity můžete spravovat v nastavení ochrany pro případ krádeže. Přejít do Nastavení"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"K pokračování jsou potřeba biometrické údaje"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Ověření totožnosti je zapnuté a vyžaduje biometrickou kontrolu, ale váš obličej nebo snímač otisků prstů není k dispozici.\n"<ul><li>"Zkontrolujte, zda je zapnutý fotoaparát, a zkuste to znovu."</li>\n<li>"Kontrolu identity můžete pomocí účtu Google vypnout."</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Ověření totožnosti je zapnuté a vyžaduje biometrickou kontrolu, ale váš obličej nebo snímač otisků prstů není k dispozici.\n"<ul><li>"Zkontrolujte, zda je zapnutý fotoaparát, a zkuste to znovu."</li>\n<li>"Kontrolu identity můžete pomocí účtu Cube vypnout."</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Zrušit"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"OK"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Přejít na kontrolu identity"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Zrušit"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Nastavit"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Soukromý prostor"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Můžete si skrýt nebo uzamknout soukromé aplikace v odděleném prostoru. Vyhrazený účet Google zajistí lepší zabezpečení."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Můžete si skrýt nebo uzamknout soukromé aplikace v odděleném prostoru. Vyhrazený účet Cube zajistí lepší zabezpečení."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Jak to funguje"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Vytvořte si pro prostor účet Google"</b>\n"Když použijete vyhrazený účet, pomůže to předejít zobrazování synchronizovaných souborů, fotografií a e‑mailů mimo prostor"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Vytvořte si pro prostor účet Cube"</b>\n"Když použijete vyhrazený účet, pomůže to předejít zobrazování synchronizovaných souborů, fotografií a e‑mailů mimo prostor"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Nastavte si zámek"</b>\n"Prostor můžete uzamknout, aby ho ostatní nemohli otevřít"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Nainstalujte aplikace"</b>\n"Nainstalujte aplikace, které chcete mít soukromé ve svém prostoru"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Upozornění"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIM karty nelze vymazat"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Něco se pokazilo a vaše eSIM karty nebyly vymazány.\n\nRestartujte zařízení a zkuste to znovu."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Smazat soukromý prostor"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Pokud máte v zařízení soukromý prostor, bude trvale smazán a účet Google přidaný do vašeho prostoru bude odstraněn. \n\nZ "<b>"interního úložiště"</b>" telefonu budou také trvale vymazány všechny aplikace ve vašem prostoru a jejich data."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Pokud máte v zařízení soukromý prostor, bude trvale smazán a účet Cube přidaný do vašeho prostoru bude odstraněn. \n\nZ "<b>"interního úložiště"</b>" telefonu budou také trvale vymazány všechny aplikace ve vašem prostoru a jejich data."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Vymazat data (tovární reset)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Vymazat data (tovární reset)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"hudbu"</li>\n<li>"fotky"</li>\n<li>"další uživatelská data"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Ověřte PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Ověřte heslo"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Ověřte svoji totožnost"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Pokud chcete přenést účty Google, nastavení a další možnosti, zadejte gesto druhého zařízení. Gesto je šifrováno."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Pokud chcete přenést účty Google, nastavení a další možnosti, zadejte PIN druhého zařízení. PIN je šifrován."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Pokud chcete přenést účty Google, nastavení a další možnosti, zadejte heslo druhého zařízení. Heslo je šifrováno."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Pokud chcete přenést účty Cube, nastavení a další možnosti, zadejte gesto druhého zařízení. Gesto je šifrováno."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Pokud chcete přenést účty Cube, nastavení a další možnosti, zadejte PIN druhého zařízení. PIN je šifrován."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Pokud chcete přenést účty Cube, nastavení a další možnosti, zadejte heslo druhého zařízení. Heslo je šifrováno."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"K odemykání zařízení používat i gesto"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"K odemykání zařízení používat i PIN"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"K odemykání zařízení používat i heslo"</string>

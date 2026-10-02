@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"De biometriske data mislykkedes for mange gange. Prøv igen."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Du kan administrere identitetstjek i indstillingerne for tyveribeskyttelse. Gå til Indstillinger"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Biometriske data er påkrævet for at fortsætte"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Identitetstjek er aktiveret og kræver biometriske data, men din ansigts- eller fingeraftrykssensor er ikke tilgængelig\n"<ul><li>"Tjek, at dit kamera er tændt, og prøv igen"</li>\n<li>"Du kan deaktivere identitetstjek via din Google-konto"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Identitetstjek er aktiveret og kræver biometriske data, men din ansigts- eller fingeraftrykssensor er ikke tilgængelig\n"<ul><li>"Tjek, at dit kamera er tændt, og prøv igen"</li>\n<li>"Du kan deaktivere identitetstjek via din Cube-konto"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Annuller"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"OK"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Gå til identitetstjek"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Annuller"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Konfigurer"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Privat område"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Skjul eller lås private apps i et separat område. Anvend en dedikeret Google-konto for at få ekstra beskyttelse."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Skjul eller lås private apps i et separat område. Anvend en dedikeret Cube-konto for at få ekstra beskyttelse."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Sådan fungerer det"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Opret en Google-konto til dit område"</b>\n"Hvis du bruger en dedikeret konto, kan det være med til at forhindre, at synkroniserede filer, billeder og mails vises uden for dit område"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Opret en Cube-konto til dit område"</b>\n"Hvis du bruger en dedikeret konto, kan det være med til at forhindre, at synkroniserede filer, billeder og mails vises uden for dit område"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Konfigurer en lås"</b>\n"Lås dit område for at forhindre andre i at åbne det."</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Installer apps"</b>\n"Installer apps, du vil holde private i dit område"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Husk!"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIM kunne ikke ryddes"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Noget gik galt, og dine eSIM blev ikke ryddet.\n\nGenstart din enhed, og prøv igen."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Slet privat område"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Hvis du har et privat område på din enhed, slettes det permanent, og den Google-konto, der er føjet til dit område, fjernes. \n\nAlle apps i dit område og de tilhørende data slettes permanent fra din telefons "<b>"interne lagerplads"</b>"."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Hvis du har et privat område på din enhed, slettes det permanent, og den Cube-konto, der er føjet til dit område, fjernes. \n\nAlle apps i dit område og de tilhørende data slettes permanent fra din telefons "<b>"interne lagerplads"</b>"."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Ryd alle data (gendan fabriksindstillinger)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Ryd alle data (gendan fabriksindstillinger)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Musik"</li>\n<li>"Billeder"</li>\n<li>"Andre brugerdata"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Verificer pinkode"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Verificer adgangskode"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Verificer identitet"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Angiv mønsteret til din anden enhed for at overføre dine Google-konti, indstillinger m.m. Dit mønster er krypteret."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Angiv pinkoden til din anden enhed for at overføre dine Google-konti, indstillinger m.m. Din pinkode er krypteret."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Angiv adgangskoden til din anden enhed for at overføre dine Google-konti, indstillinger m.m. Din adgangskode er krypteret."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Angiv mønsteret til din anden enhed for at overføre dine Cube-konti, indstillinger m.m. Dit mønster er krypteret."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Angiv pinkoden til din anden enhed for at overføre dine Cube-konti, indstillinger m.m. Din pinkode er krypteret."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Angiv adgangskoden til din anden enhed for at overføre dine Cube-konti, indstillinger m.m. Din adgangskode er krypteret."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Brug også mønster til at låse enheden op"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Brug også pinkode til at låse enheden op"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Brug også adgangskode til at låse enheden op"</string>

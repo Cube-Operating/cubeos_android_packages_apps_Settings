@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"बायोमेट्रिक खूप वेळा यशस्वी झाले नाही. पुन्हा प्रयत्न करा."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"तुम्ही चोरीपासून संरक्षण सेटिंग्जमध्ये ओळख तपासणी व्यवस्थापित करू शकता. सेटिंग्ज वर जा"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"पुढे सुरू ठेवण्यासाठी बायोमेट्रिक आवश्यक आहे"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ओळख तपासणी सुरू आहे बायोमेट्रिक आवश्यक आहे, पण तुमचा चेहरा किंवा फिंगरप्रिंट सेन्सर उपलब्ध नाही\n"<ul><li>"तुमचा कॅमेरा सुरू असल्याचे तपासा आणि पुन्हा प्रयत्न करा"</li>\n<li>"तुम्ही तुमचे Google खाते वापरून ओळख तपासणी बंद करू शकता"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ओळख तपासणी सुरू आहे बायोमेट्रिक आवश्यक आहे, पण तुमचा चेहरा किंवा फिंगरप्रिंट सेन्सर उपलब्ध नाही\n"<ul><li>"तुमचा कॅमेरा सुरू असल्याचे तपासा आणि पुन्हा प्रयत्न करा"</li>\n<li>"तुम्ही तुमचे Cube खाते वापरून ओळख तपासणी बंद करू शकता"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"रद्द करा"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"ओके"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"ओळख तपासणीवर जा"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"रद्द करा"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"सेट करा"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"खाजगी स्पेस"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"वेगळ्या स्पेसमध्ये खाजगी अ‍ॅप्स लपवा किंवा लॉक करा. अतिरिक्त सुरक्षेसाठी समर्पित Google खाते वापरा."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"वेगळ्या स्पेसमध्ये खाजगी अ‍ॅप्स लपवा किंवा लॉक करा. अतिरिक्त सुरक्षेसाठी समर्पित Cube खाते वापरा."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"हे कसे काम करते"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"तुमच्या स्पेससाठी Google खाते तयार करा"</b>\n"तुम्ही समर्पित खाते वापरत असल्यास, ते सिंक केलेल्या फाइल, फोटो आणि ईमेल तुमच्या स्पेसबाहेर दिसणे थांबवण्यात मदत करते"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"तुमच्या स्पेससाठी Cube खाते तयार करा"</b>\n"तुम्ही समर्पित खाते वापरत असल्यास, ते सिंक केलेल्या फाइल, फोटो आणि ईमेल तुमच्या स्पेसबाहेर दिसणे थांबवण्यात मदत करते"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"लॉक सेट करा"</b>\n"तुमची स्पेस इतर लोकांनी उघडण्यापासून थांबवण्यासाठी ती लॉक करा"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"अ‍ॅप्स इंस्टॉल करा"</b>\n"तुम्ही तुमच्या स्पेसमध्ये खाजगी ठेवायची असलेली ॲप्स इंस्टॉल करा"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"लक्षात ठेवा"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIMs मिटवू शकत नाही"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"काहीतरी चुकले आणि तुमचे eSIMs मिटवली गेली नाहीत.\n\nतुमचे डिव्हाइस रीस्टार्ट करा आणि पुन्हा प्रयत्न करा."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"खाजगी स्पेस हटवा"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"तुमच्या डिव्हाइसवर तुमच्याकडे खाजगी स्पेस असल्यास, ती कायमची हटवली जाईल आणि तुमच्या स्पेसमध्ये जोडलेले Google खाते काढून टाकले जाईल. \n\nतुमच्या स्पेसमधील सर्व ॲप्स आणि त्यांचा डेटा तुमच्या फोनच्या "<b>"अंतर्गत स्टोरेज"</b>" मधून देखील कायमचा हटवला जाईल."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"तुमच्या डिव्हाइसवर तुमच्याकडे खाजगी स्पेस असल्यास, ती कायमची हटवली जाईल आणि तुमच्या स्पेसमध्ये जोडलेले Cube खाते काढून टाकले जाईल. \n\nतुमच्या स्पेसमधील सर्व ॲप्स आणि त्यांचा डेटा तुमच्या फोनच्या "<b>"अंतर्गत स्टोरेज"</b>" मधून देखील कायमचा हटवला जाईल."</string>
     <string name="main_clear_title" msgid="277664302144837723">"सर्व डेटा मिटवा (फॅक्टरी रीसेट)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"सर्व डेटा मिटवा (फॅक्टरी रीसेट)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"संगीत"</li>\n<li>"फोटो"</li>\n<li>"इतर वापरकर्ता डेटा"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"पिनची पडताळणी करा"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"पासवर्डची पडताळणी करा"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"तुम्हीच असल्याची पडताळणी करा"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google Accounts, सेटिंग्ज आणि आणखी बऱ्याच गोष्टी ट्रान्सफर करण्यासाठी, तुमच्या इतर डिव्हाइसचा पॅटर्न एंटर करा. तुमचा पॅटर्न एंक्रिप्ट केलेला आहे."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google खाती, सेटिंग्ज आणि आणखी बऱ्याच गोष्टी ट्रान्सफर करण्यासाठी, तुमच्या इतर डिव्हाइसचा पिन एंटर करा. तुमचा पिन एन्क्रिप्‍ट केलेला आहे."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google Accounts, सेटिंग्ज आणि आणखी बऱ्याच गोष्टी ट्रान्सफर करण्यासाठी, तुमच्या इतर डिव्हाइसचा पासवर्ड एंटर करा. तुमचा पासवर्ड एंक्रिप्ट केलेला आहे."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube Accounts, सेटिंग्ज आणि आणखी बऱ्याच गोष्टी ट्रान्सफर करण्यासाठी, तुमच्या इतर डिव्हाइसचा पॅटर्न एंटर करा. तुमचा पॅटर्न एंक्रिप्ट केलेला आहे."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube खाती, सेटिंग्ज आणि आणखी बऱ्याच गोष्टी ट्रान्सफर करण्यासाठी, तुमच्या इतर डिव्हाइसचा पिन एंटर करा. तुमचा पिन एन्क्रिप्‍ट केलेला आहे."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube Accounts, सेटिंग्ज आणि आणखी बऱ्याच गोष्टी ट्रान्सफर करण्यासाठी, तुमच्या इतर डिव्हाइसचा पासवर्ड एंटर करा. तुमचा पासवर्ड एंक्रिप्ट केलेला आहे."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"डिव्हाइस अनलॉक करण्यासाठी पॅटर्नही वापरा"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"डिव्हाइस अनलॉक करण्यासाठी पिनही वापरा"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"डिव्हाइस अनलॉक करण्यासाठी पासवर्डही वापरा"</string>

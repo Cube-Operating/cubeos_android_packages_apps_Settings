@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"ବାୟୋମେଟ୍ରିକ ଅନେକ ଥର ବିଫଳ ହୋଇଛି। ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"ଆପଣ ଚୋରି ସୁରକ୍ଷା ସେଟିଂସରେ ପରିଚୟ ଯାଞ୍ଚକୁ ପରିଚାଳନା କରିପାରିବେ। ସେଟିଂସକୁ ଯାଆନ୍ତୁ"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"ଜାରି ରଖିବାକୁ ବାୟୋମେଟ୍ରିକ ଆବଶ୍ୟକ"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ପରିଚୟ ଯାଞ୍ଚ ଚାଲୁ ଅଛି ଏବଂ ସେଥିପାଇଁ ବାୟୋମେଟ୍ରିକ ଆବଶ୍ୟକ, କିନ୍ତୁ ଆପଣଙ୍କ ଫେସ କିମ୍ବା ଟିପଚିହ୍ନ ସେନ୍ସର ଉପଲବ୍ଧ ନାହିଁ\n"<ul><li>"ଆପଣଙ୍କ କେମେରା ଚାଲୁ ଅଛି ନା ନାହିଁ ତାହା ଯାଞ୍ଚ କରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ"</li>\n<li>"ଆପଣ ଆପଣଙ୍କ Google ଆକାଉଣ୍ଟକୁ ବ୍ୟବହାର କରି ପରିଚୟ ଯାଞ୍ଚକୁ ବନ୍ଦ କରିପାରିବେ"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ପରିଚୟ ଯାଞ୍ଚ ଚାଲୁ ଅଛି ଏବଂ ସେଥିପାଇଁ ବାୟୋମେଟ୍ରିକ ଆବଶ୍ୟକ, କିନ୍ତୁ ଆପଣଙ୍କ ଫେସ କିମ୍ବା ଟିପଚିହ୍ନ ସେନ୍ସର ଉପଲବ୍ଧ ନାହିଁ\n"<ul><li>"ଆପଣଙ୍କ କେମେରା ଚାଲୁ ଅଛି ନା ନାହିଁ ତାହା ଯାଞ୍ଚ କରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ"</li>\n<li>"ଆପଣ ଆପଣଙ୍କ Cube ଆକାଉଣ୍ଟକୁ ବ୍ୟବହାର କରି ପରିଚୟ ଯାଞ୍ଚକୁ ବନ୍ଦ କରିପାରିବେ"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"ବାତିଲ କରନ୍ତୁ"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"ଠିକ ଅଛି"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"ପରିଚୟ ଯାଞ୍ଚକୁ ଯାଆନ୍ତୁ"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"ବାତିଲ କରନ୍ତୁ"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"ସେଟ ଅପ କରନ୍ତୁ"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"ପ୍ରାଇଭେଟ ସ୍ପେସ"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"ଏକ ଅଲଗା ସ୍ପେସରେ ପ୍ରାଇଭେଟ ଆପ୍ସକୁ ଲୁଚାନ୍ତୁ କିମ୍ବା ଲକ କରନ୍ତୁ। ଅତିରିକ୍ତ ସୁରକ୍ଷା ପାଇଁ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ Google ଆକାଉଣ୍ଟ ବ୍ୟବହାର କରନ୍ତୁ।"</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"ଏକ ଅଲଗା ସ୍ପେସରେ ପ୍ରାଇଭେଟ ଆପ୍ସକୁ ଲୁଚାନ୍ତୁ କିମ୍ବା ଲକ କରନ୍ତୁ। ଅତିରିକ୍ତ ସୁରକ୍ଷା ପାଇଁ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ Cube ଆକାଉଣ୍ଟ ବ୍ୟବହାର କରନ୍ତୁ।"</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"ଏହା କିପରି କାମ କରେ"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"ଆପଣଙ୍କ ସ୍ପେସ ପାଇଁ ଏକ Google ଆକାଉଣ୍ଟ ତିଆରି କରନ୍ତୁ"</b>\n"ଯଦି ଆପଣ ଏକ ସ୍ୱତନ୍ତ୍ର ଆକାଉଣ୍ଟ ବ୍ୟବହାର କରନ୍ତି ତେବେ ଏହା ଆପଣଙ୍କ ସ୍ପେସ ବାହାରେ ଦେଖାଯାଉଥିବା ସିଙ୍କ ହୋଇଥିବା ଫାଇଲ, ଫଟୋ ଏବଂ ଇମେଲଗୁଡ଼ିକୁ ବନ୍ଦ କରିବାରେ ସାହାଯ୍ୟ କରେ"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"ଆପଣଙ୍କ ସ୍ପେସ ପାଇଁ ଏକ Cube ଆକାଉଣ୍ଟ ତିଆରି କରନ୍ତୁ"</b>\n"ଯଦି ଆପଣ ଏକ ସ୍ୱତନ୍ତ୍ର ଆକାଉଣ୍ଟ ବ୍ୟବହାର କରନ୍ତି ତେବେ ଏହା ଆପଣଙ୍କ ସ୍ପେସ ବାହାରେ ଦେଖାଯାଉଥିବା ସିଙ୍କ ହୋଇଥିବା ଫାଇଲ, ଫଟୋ ଏବଂ ଇମେଲଗୁଡ଼ିକୁ ବନ୍ଦ କରିବାରେ ସାହାଯ୍ୟ କରେ"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"ଏକ ଲକ ସେଟ କରନ୍ତୁ"</b>\n"ଆପଣଙ୍କ ସ୍ପେସକୁ ଖୋଲିବାରୁ ଅନ୍ୟ ଲୋକଙ୍କୁ ବାରଣ କରିବା ପାଇଁ ଏହାକୁ ଲକ କରନ୍ତୁ"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"ଆପ୍ସ ଇନଷ୍ଟଲ କରନ୍ତୁ"</b>\n"ଆପଣଙ୍କ ସ୍ପେସରେ ଆପଣ ପ୍ରାଇଭେଟ ରଖିବାକୁ ଚାହୁଁଥିବା ଆପ୍ସ ଇନଷ୍ଟଲ କରନ୍ତୁ"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"ମନେ ରଖନ୍ତୁ"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIMକୁ ଇରେଜ କରାଯାଇପାରିବ ନାହିଁ"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"କିଛି ତ୍ରୁଟି ହୋଇଛି ଏବଂ ଆପଣଙ୍କ eSIMକୁ ଇରେଜ କରାଯାଇନାହିଁ।\n\nଆପଣଙ୍କ ଡିଭାଇସକୁ ରିଷ୍ଟାର୍ଟ କରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"ପ୍ରାଇଭେଟ ସ୍ପେସକୁ ଡିଲିଟ କରନ୍ତୁ"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"ଯଦି ଆପଣଙ୍କ ଡିଭାଇସରେ ଆପଣଙ୍କର ଏକ ପ୍ରାଇଭେଟ ସ୍ପେସ ଅଛି, ତେବେ ଏହାକୁ ସ୍ଥାୟୀ ଭାବରେ ଡିଲିଟ କରିଦିଆଯିବ ଏବଂ ଆପଣଙ୍କ ସ୍ପେସରେ ଯୋଗ କରାଯାଇଥିବା Google ଆକାଉଣ୍ଟକୁ କାଢ଼ି ଦିଆଯିବ। \n\nଆପଣଙ୍କ ଫୋନର "<b>"ଇଣ୍ଟର୍ନାଲ ଷ୍ଟୋରେଜ"</b>"ରୁ ଆପଣଙ୍କ ସ୍ପେସରେ ଥିବା ସମସ୍ତ ଆପ୍ସ ଏବଂ ସେଗୁଡ଼ିକର ଡାଟାକୁ ମଧ୍ୟ ସ୍ଥାୟୀ ଭାବେ ଡିଲିଟ କରାଯିବ।"</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"ଯଦି ଆପଣଙ୍କ ଡିଭାଇସରେ ଆପଣଙ୍କର ଏକ ପ୍ରାଇଭେଟ ସ୍ପେସ ଅଛି, ତେବେ ଏହାକୁ ସ୍ଥାୟୀ ଭାବରେ ଡିଲିଟ କରିଦିଆଯିବ ଏବଂ ଆପଣଙ୍କ ସ୍ପେସରେ ଯୋଗ କରାଯାଇଥିବା Cube ଆକାଉଣ୍ଟକୁ କାଢ଼ି ଦିଆଯିବ। \n\nଆପଣଙ୍କ ଫୋନର "<b>"ଇଣ୍ଟର୍ନାଲ ଷ୍ଟୋରେଜ"</b>"ରୁ ଆପଣଙ୍କ ସ୍ପେସରେ ଥିବା ସମସ୍ତ ଆପ୍ସ ଏବଂ ସେଗୁଡ଼ିକର ଡାଟାକୁ ମଧ୍ୟ ସ୍ଥାୟୀ ଭାବେ ଡିଲିଟ କରାଯିବ।"</string>
     <string name="main_clear_title" msgid="277664302144837723">"ସବୁ ଡାଟାକୁ ଇରେଜ କରନ୍ତୁ (ଫେକ୍ଟୋରୀ ରିସେଟ)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"ସମସ୍ତ ଡାଟା ଇରେଜ କରନ୍ତୁ (ଫେକ୍ଟୋରୀ ରିସେଟ)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"ମ୍ୟୁଜିକ"</li>\n<li>"ଫଟୋ"</li>\n<li>"ଅନ୍ୟ ୟୁଜର ଡାଟା"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"ପିନ୍‌ ଯାଞ୍ଚ କରନ୍ତୁ"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"ପାସ୍‌ୱର୍ଡ ଯାଞ୍ଚ କରନ୍ତୁ:"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"ଆପଣ ବୋଲି ଯାଞ୍ଚ କର"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google ଆକାଉଣ୍ଟ, ସେଟିଂସ ଏବଂ ଆହୁରି ଅନେକ କିଛି ଟ୍ରାନ୍ସଫର କରିବାକୁ ଆପଣଙ୍କ ଅନ୍ୟ ଡିଭାଇସର ପାଟର୍ନ ଲେଖନ୍ତୁ। ଆପଣଙ୍କ ପାଟର୍ନକୁ ଏନକ୍ରିପ୍ଟ କରାଯାଇଛି।"</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google ଆକାଉଣ୍ଟ, ସେଟିଂସ ଏବଂ ଆହୁରି ଅନେକ କିଛି ଟ୍ରାନ୍ସଫର କରିବାକୁ ଆପଣଙ୍କ ଅନ୍ୟ ଡିଭାଇସର PIN ଲେଖନ୍ତୁ। ଆପଣଙ୍କ PINକୁ ଏନକ୍ରିପ୍ଟ କରାଯାଇଛି।"</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google ଆକାଉଣ୍ଟ, ସେଟିଂସ ଏବଂ ଆହୁରି ଅନେକ କିଛି ଟ୍ରାନ୍ସଫର କରିବାକୁ ଆପଣଙ୍କ ଅନ୍ୟ ଡିଭାଇସର ପାସୱାର୍ଡ ଲେଖନ୍ତୁ। ଆପଣଙ୍କ ପାସୱାର୍ଡକୁ ଏନକ୍ରିପ୍ଟ କରାଯାଇଛି।"</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube ଆକାଉଣ୍ଟ, ସେଟିଂସ ଏବଂ ଆହୁରି ଅନେକ କିଛି ଟ୍ରାନ୍ସଫର କରିବାକୁ ଆପଣଙ୍କ ଅନ୍ୟ ଡିଭାଇସର ପାଟର୍ନ ଲେଖନ୍ତୁ। ଆପଣଙ୍କ ପାଟର୍ନକୁ ଏନକ୍ରିପ୍ଟ କରାଯାଇଛି।"</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube ଆକାଉଣ୍ଟ, ସେଟିଂସ ଏବଂ ଆହୁରି ଅନେକ କିଛି ଟ୍ରାନ୍ସଫର କରିବାକୁ ଆପଣଙ୍କ ଅନ୍ୟ ଡିଭାଇସର PIN ଲେଖନ୍ତୁ। ଆପଣଙ୍କ PINକୁ ଏନକ୍ରିପ୍ଟ କରାଯାଇଛି।"</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube ଆକାଉଣ୍ଟ, ସେଟିଂସ ଏବଂ ଆହୁରି ଅନେକ କିଛି ଟ୍ରାନ୍ସଫର କରିବାକୁ ଆପଣଙ୍କ ଅନ୍ୟ ଡିଭାଇସର ପାସୱାର୍ଡ ଲେଖନ୍ତୁ। ଆପଣଙ୍କ ପାସୱାର୍ଡକୁ ଏନକ୍ରିପ୍ଟ କରାଯାଇଛି।"</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"ଏ ଡିଭାଇସ ଅନଲକ ପାଇଁ ପାଟର୍ନ ମଧ୍ୟ ବ୍ୟବହାର କର"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"ଏ ଡିଭାଇସ ଅନଲକ ପାଇଁ PIN ମଧ୍ୟ ବ୍ୟବହାର କରନ୍ତୁ"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"ଏ ଡିଭାଇସ ଅନଲକ ପାଇଁ ପାସୱାର୍ଡ ମଧ୍ୟ ବ୍ୟବହାର କର"</string>

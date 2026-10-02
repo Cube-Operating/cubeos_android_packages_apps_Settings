@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"బయోమెట్రిక్ డేటా చాలా సార్లు విఫలమయ్యింది. మళ్లీ ట్రై చేయండి."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"మీరు దొంగతనం నుండి రక్షణ సెట్టింగ్‌లలో గుర్తింపును వెరిఫై చేయడాన్ని మేనేజ్ చేయవచ్చు. సెట్టింగ్‌లకు వెళ్లండి"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"కొనసాగించడానికి బయోమెట్రిక్ అవసరం"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"గుర్తింపును వెరిఫై చేసే సెట్టింగ్ ఆన్‌లో ఉంది, దానికి మీ బయోమెట్రిక్ అవసరం, కానీ మీ ఫేస్ లేదా వేలిముద్ర సెన్సార్ అందుబాటులో లేదు\n"<ul><li>" మీ కెమెరా ఆన్‌లో ఉందో లేదో చెక్ చేసి, మళ్లీ ట్రై చేయండి"</li>\n<li>"మీ Google ఖాతాను ఉపయోగించి మీరు గుర్తింపును వెరిఫై చేసే సెట్టింగ్‌ను ఆఫ్ చేయవచ్చు"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"గుర్తింపును వెరిఫై చేసే సెట్టింగ్ ఆన్‌లో ఉంది, దానికి మీ బయోమెట్రిక్ అవసరం, కానీ మీ ఫేస్ లేదా వేలిముద్ర సెన్సార్ అందుబాటులో లేదు\n"<ul><li>" మీ కెమెరా ఆన్‌లో ఉందో లేదో చెక్ చేసి, మళ్లీ ట్రై చేయండి"</li>\n<li>"మీ Cube ఖాతాను ఉపయోగించి మీరు గుర్తింపును వెరిఫై చేసే సెట్టింగ్‌ను ఆఫ్ చేయవచ్చు"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"రద్దు చేయండి"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"సరే"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"గుర్తింపును వెరిఫై చేసే సెట్టింగ్‌లకు వెళ్లండి"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"రద్దు చేయండి"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"సెటప్ చేయండి"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"ప్రైవేట్ స్పేస్"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"ప్రైవేట్ యాప్‌లను ప్రత్యేక స్పేస్‌లో దాచండి లేదా లాక్ చేయండి. అదనపు సెక్యూరిటీ కోసం ప్రత్యేక Google ఖాతాను ఉపయోగించండి."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"ప్రైవేట్ యాప్‌లను ప్రత్యేక స్పేస్‌లో దాచండి లేదా లాక్ చేయండి. అదనపు సెక్యూరిటీ కోసం ప్రత్యేక Cube ఖాతాను ఉపయోగించండి."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"ఇది ఎలా పని చేస్తుంది"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"మీ స్పేస్ కోసం ఒక Google ఖాతాను క్రియేట్ చేయండి"</b>\n"మీరు ఒక ప్రత్యేకమైన ఖాతాను ఉపయోగిస్తే, సింక్ అయిన ఫైళ్లు, ఫోటోలు, ఈమెయిళ్లు మీ స్పేస్ బయట కనిపించకుండా అది సహాయపడుతుంది"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"మీ స్పేస్ కోసం ఒక Cube ఖాతాను క్రియేట్ చేయండి"</b>\n"మీరు ఒక ప్రత్యేకమైన ఖాతాను ఉపయోగిస్తే, సింక్ అయిన ఫైళ్లు, ఫోటోలు, ఈమెయిళ్లు మీ స్పేస్ బయట కనిపించకుండా అది సహాయపడుతుంది"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"లాక్‌ను సెట్ చేయండి"</b>\n"మీ స్పేస్‌ను ఇతర వ్యక్తులు తెరవకుండా ఆపడానికి దాన్ని లాక్ చేయండి"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"యాప్‌లను ఇన్‌స్టాల్ చేయండి"</b>\n"మీ స్పేస్‌లో మీరు ప్రైవేట్‌గా ఉంచాలనుకునే యాప్‌లను ఇన్‌స్టాల్ చేయండి"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"గుర్తుంచుకోండి"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIMలను ఫ్యాక్టరీ రీసెట్ చేయడం సాధ్యపడదు"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"ఏదో పొరపాటు జరిగింది, మీ eSIMలు ఫ్యాక్టరీ రీసెట్ చేయబడలేదు.\n\nమీ పరికరాన్ని రీస్టార్ట్ చేసి, మళ్లీ ట్రై చేయండి."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"ప్రైవేట్ స్పేస్‌ను తొలగించండి"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"మీ పరికరంలో మీకు ప్రైవేట్ స్పేస్ ఉంటే, అది శాశ్వతంగా తొలగించబడుతుంది, మీ స్పేస్‌కు జోడించబడిన Google ఖాతా తీసివేయబడుతుంది. \n\nమీ స్పేస్‌లోని అన్ని యాప్‌లు, వాటి డేటా కూడా మీ ఫోన్ "<b>"అంతర్గత స్టోరేజ్"</b>" నుండి శాశ్వతంగా తొలగించబడతాయి."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"మీ పరికరంలో మీకు ప్రైవేట్ స్పేస్ ఉంటే, అది శాశ్వతంగా తొలగించబడుతుంది, మీ స్పేస్‌కు జోడించబడిన Cube ఖాతా తీసివేయబడుతుంది. \n\nమీ స్పేస్‌లోని అన్ని యాప్‌లు, వాటి డేటా కూడా మీ ఫోన్ "<b>"అంతర్గత స్టోరేజ్"</b>" నుండి శాశ్వతంగా తొలగించబడతాయి."</string>
     <string name="main_clear_title" msgid="277664302144837723">"మొత్తం డేటాను తొలగించండి (ఫ్యాక్టరీ రీసెట్)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"మొత్తం డేటాను తొలగించండి (ఫ్యాక్టరీ రీసెట్)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"మ్యూజిక్"</li>\n<li>"ఫోటోలు"</li>\n<li>"ఇతర యూజర్ డేటా"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"పిన్‌ని ధృవీకరించండి"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"పాస్‌వర్డ్‌ని ధృవీకరించండి"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"ఇది మీరే అని వెరిఫై చేయండి"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google ఖాతాలు, సెట్టింగ్‌లు మరియు మరిన్నింటిని బదిలీ చేయడానికి, మీ ఇతర పరికర ఆకృతిని నమోదు చేయండి. మీ ఆకృతి ఎన్‌క్రిప్ట్ చేయబడింది."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google ఖాతాలు, సెట్టింగ్‌లు మరియు మరిన్నింటిని బదిలీ చేయడానికి, మీ ఇతర పరికర PINను నమోదు చేయండి. మీ PIN ఎన్‌క్రిప్ట్ చేయబడింది."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google ఖాతాలు, సెట్టింగ్‌లు మరియు మరిన్నింటిని బదిలీ చేయడానికి, మీ ఇతర పరికర పాస్‌వర్డ్‌ను నమోదు చేయండి. మీ పాస్‌వర్డ్ ఎన్‌క్రిప్ట్ చేయబడింది."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube ఖాతాలు, సెట్టింగ్‌లు మరియు మరిన్నింటిని బదిలీ చేయడానికి, మీ ఇతర పరికర ఆకృతిని నమోదు చేయండి. మీ ఆకృతి ఎన్‌క్రిప్ట్ చేయబడింది."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube ఖాతాలు, సెట్టింగ్‌లు మరియు మరిన్నింటిని బదిలీ చేయడానికి, మీ ఇతర పరికర PINను నమోదు చేయండి. మీ PIN ఎన్‌క్రిప్ట్ చేయబడింది."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube ఖాతాలు, సెట్టింగ్‌లు మరియు మరిన్నింటిని బదిలీ చేయడానికి, మీ ఇతర పరికర పాస్‌వర్డ్‌ను నమోదు చేయండి. మీ పాస్‌వర్డ్ ఎన్‌క్రిప్ట్ చేయబడింది."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"ఈ పరికరాన్ని అన్‌లాక్ చేయడానికి ఆకృతిని కూడా ఉపయోగించండి"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"ఈ పరికరాన్ని అన్‌లాక్ చేయడానికి PINను కూడా ఉపయోగించండి"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"ఈ పరికరాన్ని అన్‌లాక్ చేయడానికి పాస్‌వర్డ్‌ను కూడా ఉపయోగించండి"</string>

@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"생체 인식 실패 횟수가 너무 많습니다. 다시 시도해 보세요."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"도난 방지 설정에서 신원 확인을 관리할 수 있습니다. 설정으로 이동"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"계속하려면 생체 인식 필요"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"신원 확인이 사용 설정되어 있으며 생체 인식이 필요하지만 얼굴 또는 지문 센서를 사용할 수 없습니다.\n"<ul><li>"카메라가 켜져 있는지 확인한 후 다시 시도해 주세요."</li>\n<li>"Google 계정을 사용하여 신원 확인을 사용 중지할 수 있습니다."</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"신원 확인이 사용 설정되어 있으며 생체 인식이 필요하지만 얼굴 또는 지문 센서를 사용할 수 없습니다.\n"<ul><li>"카메라가 켜져 있는지 확인한 후 다시 시도해 주세요."</li>\n<li>"Cube 계정을 사용하여 신원 확인을 사용 중지할 수 있습니다."</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"취소"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"확인"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"신원 확인으로 이동"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"취소"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"설정"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"비공개 스페이스"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"별도의 스페이스에서 비공개 앱을 숨기거나 잠글 수 있습니다. 추가 보안을 위해 전용 Google 계정을 사용하세요."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"별도의 스페이스에서 비공개 앱을 숨기거나 잠글 수 있습니다. 추가 보안을 위해 전용 Cube 계정을 사용하세요."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"작동 원리"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"스페이스를 위한 Google 계정 만들기"</b>\n"전용 계정을 사용하면 동기화된 파일, 사진, 이메일이 스페이스 외부에 표시되는 것을 방지할 수 있습니다."</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"스페이스를 위한 Cube 계정 만들기"</b>\n"전용 계정을 사용하면 동기화된 파일, 사진, 이메일이 스페이스 외부에 표시되는 것을 방지할 수 있습니다."</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"잠금 설정"</b>\n"다른 사용자가 스페이스를 열지 못하게 하려면 스페이스를 잠급니다."</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"앱 설치"</b>\n"스페이스에서 비공개로 유지할 앱을 설치하세요."</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"주의사항"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIM을 삭제할 수 없음"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"문제가 발생하여 이 eSIM이 삭제되지 않았습니다.\n\n기기를 다시 시작하고 다시 시도하세요."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"비공개 스페이스 삭제"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"기기에 비공개 스페이스가 있는 경우 해당 스페이스가 영구적으로 삭제되며 스페이스에 추가된 Google 계정이 삭제됩니다. \n\n해당 스페이스에 있는 모든 앱과 관련 데이터도 휴대전화의 "<b>"내부 저장소"</b>"에서 영구적으로 삭제됩니다."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"기기에 비공개 스페이스가 있는 경우 해당 스페이스가 영구적으로 삭제되며 스페이스에 추가된 Cube 계정이 삭제됩니다. \n\n해당 스페이스에 있는 모든 앱과 관련 데이터도 휴대전화의 "<b>"내부 저장소"</b>"에서 영구적으로 삭제됩니다."</string>
     <string name="main_clear_title" msgid="277664302144837723">"모든 데이터 삭제(초기화)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"모든 데이터 삭제(초기화)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"음악"</li>\n<li>"사진"</li>\n<li>"기타 사용자 데이터"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"PIN 확인"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"비밀번호 확인"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"본인 인증"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google 계정, 설정 등을 이전하려면 다른 기기의 패턴을 입력하세요. 패턴은 암호화됩니다."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google 계정, 설정 등을 이전하려면 다른 기기의 PIN을 입력하세요. PIN은 암호화됩니다."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google 계정, 설정 등을 이전하려면 다른 기기의 비밀번호를 입력하세요. 비밀번호는 암호화됩니다."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube 계정, 설정 등을 이전하려면 다른 기기의 패턴을 입력하세요. 패턴은 암호화됩니다."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube 계정, 설정 등을 이전하려면 다른 기기의 PIN을 입력하세요. PIN은 암호화됩니다."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube 계정, 설정 등을 이전하려면 다른 기기의 비밀번호를 입력하세요. 비밀번호는 암호화됩니다."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"또한 패턴을 사용하여 이 기기를 잠금 해제하세요."</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"기기 잠금 해제에도 PIN 사용"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"또한 비밀번호를 사용하여 이 기기를 잠금 해제하세요."</string>

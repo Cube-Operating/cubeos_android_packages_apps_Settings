@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"ກວດສອບລະບົບຊີວະມິຕິຜິດພາດຫຼາຍເທື່ອເກີນໄປ. ກະລຸນາລອງໃໝ່."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"ທ່ານສາມາດຈັດການການກວດສອບຕົວຕົນໄດ້ໃນການຕັ້ງຄ່າການປົກປ້ອງຈາກການລັກ. ໄປຫາການຕັ້ງຄ່າ"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"ຕ້ອງໃຊ້ລະບົບຊີວະມິຕິເພື່ອສືບຕໍ່"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ການກວດສອບຕົວຕົນເປີດຢູ່ ແລະ ຕ້ອງໃຊ້ລະບົບຊີວະມິຕິ,​ ແຕ່ເຊັນເຊີໃບໜ້າ ຫຼື ເຊັນ​ເຊີລາຍນິ້ວ​ມືຂອງທ່ານບໍ່ສາມາດໃຊ້ໄດ້\n"<ul><li>"ໃຫ້ກວດສອບວ່າກ້ອງຂອງທ່ານເປີດຢູ່ແລ້ວລອງໃໝ່"</li>\n<li>"ທ່ານສາມາດປິດການກວດສອບຕົວຕົນໄດ້ໂດຍໃຊ້ບັນຊີ Google ຂອງທ່ານ"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ການກວດສອບຕົວຕົນເປີດຢູ່ ແລະ ຕ້ອງໃຊ້ລະບົບຊີວະມິຕິ,​ ແຕ່ເຊັນເຊີໃບໜ້າ ຫຼື ເຊັນ​ເຊີລາຍນິ້ວ​ມືຂອງທ່ານບໍ່ສາມາດໃຊ້ໄດ້\n"<ul><li>"ໃຫ້ກວດສອບວ່າກ້ອງຂອງທ່ານເປີດຢູ່ແລ້ວລອງໃໝ່"</li>\n<li>"ທ່ານສາມາດປິດການກວດສອບຕົວຕົນໄດ້ໂດຍໃຊ້ບັນຊີ Cube ຂອງທ່ານ"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"ຍົກເລີກ"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"ຕົກລົງ"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"ໄປຫາການກວດສອບຕົວຕົນ"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"ຍົກເລີກ"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"ຕັ້ງຄ່າ"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"ພື້ນທີ່ສ່ວນບຸກຄົນ"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"ເຊື່ອງ ຫຼື ລັອກແອັບສ່ວນຕົວໃນພື້ນທີ່ແຍກຕ່າງຫາກ. ໃຊ້ບັນຊີ Google ສະເພາະເພື່ອຄວາມປອດໄພພິເສດ."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"ເຊື່ອງ ຫຼື ລັອກແອັບສ່ວນຕົວໃນພື້ນທີ່ແຍກຕ່າງຫາກ. ໃຊ້ບັນຊີ Cube ສະເພາະເພື່ອຄວາມປອດໄພພິເສດ."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"ມັນເຮັດວຽກແນວໃດ"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"ສ້າງບັນຊີ Google ສຳລັບພື້ນທີ່ຂອງທ່ານ"</b>\n"ຫາກທ່ານໃຊ້ບັນຊີເພື່ອການດຳເນີນການນີ້ໂດຍສະເພາະ, ກໍຈະຊ່ວຍປ້ອງກັນບໍ່ໃຫ້ໄຟລ໌, ຮູບພາບ ແລະ ອີເມວທີ່ຊິ້ງໄວ້ປາກົດຢູ່ນອກພື້ນທີ່ຂອງທ່ານໄດ້"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"ສ້າງບັນຊີ Cube ສຳລັບພື້ນທີ່ຂອງທ່ານ"</b>\n"ຫາກທ່ານໃຊ້ບັນຊີເພື່ອການດຳເນີນການນີ້ໂດຍສະເພາະ, ກໍຈະຊ່ວຍປ້ອງກັນບໍ່ໃຫ້ໄຟລ໌, ຮູບພາບ ແລະ ອີເມວທີ່ຊິ້ງໄວ້ປາກົດຢູ່ນອກພື້ນທີ່ຂອງທ່ານໄດ້"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"ຕັ້ງລັອກ"</b>\n"ລັອກພື້ນທີ່ຂອງທ່ານ ເພື່ອບໍ່ໃຫ້ຄົນອື່ນເປີດມັນ"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"ຕິດຕັ້ງແອັບ"</b>\n"ຕິດຕັ້ງແອັບທີ່ທ່ານຕ້ອງການເກັບໄວ້ເປັນສ່ວນຕົວໃນພື້ນທີ່ຂອງທ່ານ"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"ຂໍ້ຄວນຈື່"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"ບໍ່ສາມາດລຶບ eSIM ໄດ້"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"ມີບາງຢ່າງຜິດພາດເກີດຂຶ້ນ ແລະ ບໍ່ສາມາດລຶບ eSIM ຂອງທ່ານໄດ້.\n\nກະລຸນາຣີສະຕາດອຸປະກອນຂອງທ່ານ ແລ້ວລອງໃໝ່."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"ລຶບພື້ນທີ່ສ່ວນບຸກຄົນ"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"ຫາກທ່ານມີພື້ນທີ່ສ່ວນບຸກຄົນໃນອຸປະກອນຂອງທ່ານ, ລະບົບຈະລຶບອອກຢ່າງຖາວອນ ແລະ ຈະລຶບບັນຊີ Google ທີ່ເພີ່ມໃສ່ພື້ນທີ່ຂອງທ່ານອອກ. \n\nພ້ອມທັງລຶບແອັບ ແລະ ຂໍ້ມູນຂອງແອັບທັງໝົດໃນພື້ນທີ່ຂອງທ່ານອອກຈາກ "<b>"ພື້ນທີ່ຈັດເກັບພາຍໃນ"</b>" ຂອງໂທລະສັບຂອງທ່ານຢ່າງຖາວອນນຳ."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"ຫາກທ່ານມີພື້ນທີ່ສ່ວນບຸກຄົນໃນອຸປະກອນຂອງທ່ານ, ລະບົບຈະລຶບອອກຢ່າງຖາວອນ ແລະ ຈະລຶບບັນຊີ Cube ທີ່ເພີ່ມໃສ່ພື້ນທີ່ຂອງທ່ານອອກ. \n\nພ້ອມທັງລຶບແອັບ ແລະ ຂໍ້ມູນຂອງແອັບທັງໝົດໃນພື້ນທີ່ຂອງທ່ານອອກຈາກ "<b>"ພື້ນທີ່ຈັດເກັບພາຍໃນ"</b>" ຂອງໂທລະສັບຂອງທ່ານຢ່າງຖາວອນນຳ."</string>
     <string name="main_clear_title" msgid="277664302144837723">"ລຶບຂໍ້ມູນທັງໝົດ (ຣີເຊັດເປັນຄ່າຈາກໂຮງງານ)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"ລຶບຂໍ້ມູນທັງໝົດ (ຣີເຊັດເປັນຄ່າຈາກໂຮງງານ)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"ເພງ"</li>\n<li>"ຮູບພາບ"</li>\n<li>"ຂໍ້ມູນຜູ້ໃຊ້ອື່ນໆ"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"ຢັ້ງຢືນລະຫັດ PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"ຢັ້ງຢືນລະຫັດຜ່ານ"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"ຢັ້ງຢືນວ່າແມ່ນທ່ານ"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"ເພື່ອໂອນຍ້າຍບັນຊີ Google, ຕັ້ງຄ່າ ແລະ ອື່ນໆ, ໃຫ້ປ້ອນຮູບແບບຂອງອຸປະກອນອື່ນຂອງທ່ານໃສ່. ຮູບແບບຂອງທ່ານແມ່ນໄດ້ຖືກເຂົ້າລະຫັດ."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"ເພື່ອໂອນຍ້າຍບັນຊີ Google, ຕັ້ງຄ່າ ແລະ ອື່ນໆ, ໃຫ້ປ້ອນ PIN ຂອງອຸປະກອນອື່ນຂອງທ່ານໃສ່. PIN ຂອງທ່ານແມ່ນໄດ້ຖືກເຂົ້າລະຫັດ."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"ເພື່ອໂອນຍ້າຍບັນຊີ Google, ຕັ້ງຄ່າ ແລະ ອື່ນໆ, ໃຫ້ປ້ອນລະຫັດຜ່ານຂອງອຸປະກອນອື່ນຂອງທ່ານໃສ່. ລະຫັດຜ່ານຂອງທ່ານແມ່ນໄດ້ຖືກເຂົ້າລະຫັດ."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"ເພື່ອໂອນຍ້າຍບັນຊີ Cube, ຕັ້ງຄ່າ ແລະ ອື່ນໆ, ໃຫ້ປ້ອນຮູບແບບຂອງອຸປະກອນອື່ນຂອງທ່ານໃສ່. ຮູບແບບຂອງທ່ານແມ່ນໄດ້ຖືກເຂົ້າລະຫັດ."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"ເພື່ອໂອນຍ້າຍບັນຊີ Cube, ຕັ້ງຄ່າ ແລະ ອື່ນໆ, ໃຫ້ປ້ອນ PIN ຂອງອຸປະກອນອື່ນຂອງທ່ານໃສ່. PIN ຂອງທ່ານແມ່ນໄດ້ຖືກເຂົ້າລະຫັດ."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"ເພື່ອໂອນຍ້າຍບັນຊີ Cube, ຕັ້ງຄ່າ ແລະ ອື່ນໆ, ໃຫ້ປ້ອນລະຫັດຜ່ານຂອງອຸປະກອນອື່ນຂອງທ່ານໃສ່. ລະຫັດຜ່ານຂອງທ່ານແມ່ນໄດ້ຖືກເຂົ້າລະຫັດ."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"ຍັງໃຊ້ຮູບແບບເພື່ອປົດລັອກອຸປະກອນນີ້ນຳ"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"ຍັງໃຊ້ PIN ເພື່ອປົດລັອກອຸປະກອນນີ້ນຳ"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"ຍັງໃຊ້ລະຫັດຜ່ານເພື່ອປົດລັອກອຸປະກອນນີ້ນຳ"</string>

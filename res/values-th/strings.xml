@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"ตรวจสอบข้อมูลไบโอเมตริกไม่ผ่านหลายครั้งเกินไป โปรดลองอีกครั้ง"</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"คุณจัดการการตรวจสอบตัวตนได้ในการตั้งค่าการป้องกันการขโมย ไปที่การตั้งค่า"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"ต้องใช้ข้อมูลไบโอเมตริกเพื่อดำเนินการต่อ"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"การตรวจสอบตัวตนเปิดอยู่และต้องใช้ข้อมูลไบโอเมตริก แต่เซ็นเซอร์ใบหน้าหรือลายนิ้วมือไม่พร้อมใช้งาน\n"<ul><li>"ตรวจสอบว่ากล้องเปิดอยู่และลองอีกครั้ง"</li>\n<li>"คุณปิดการตรวจสอบตัวตนได้โดยใช้บัญชี Google"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"การตรวจสอบตัวตนเปิดอยู่และต้องใช้ข้อมูลไบโอเมตริก แต่เซ็นเซอร์ใบหน้าหรือลายนิ้วมือไม่พร้อมใช้งาน\n"<ul><li>"ตรวจสอบว่ากล้องเปิดอยู่และลองอีกครั้ง"</li>\n<li>"คุณปิดการตรวจสอบตัวตนได้โดยใช้บัญชี Cube"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"ยกเลิก"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"ตกลง"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"ไปที่การตรวจสอบตัวตน"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"ยกเลิก"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"ตั้งค่า"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"พื้นที่ส่วนตัว"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"ซ่อนหรือล็อกแอปส่วนตัวในพื้นที่แยกต่างหาก ใช้บัญชี Google ที่เฉพาะเจาะจงเพื่อเพิ่มความปลอดภัย"</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"ซ่อนหรือล็อกแอปส่วนตัวในพื้นที่แยกต่างหาก ใช้บัญชี Cube ที่เฉพาะเจาะจงเพื่อเพิ่มความปลอดภัย"</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"วิธีการทำงาน"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"สร้างบัญชี Google สำหรับพื้นที่ทำงานของคุณ"</b>\n"หากคุณใช้บัญชีเพื่อการดำเนินการนี้โดยเฉพาะ ก็จะช่วยป้องกันไม่ให้ไฟล์ รูปภาพ และอีเมลที่ซิงค์ไว้ปรากฏนอกพื้นที่ทำงานได้"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"สร้างบัญชี Cube สำหรับพื้นที่ทำงานของคุณ"</b>\n"หากคุณใช้บัญชีเพื่อการดำเนินการนี้โดยเฉพาะ ก็จะช่วยป้องกันไม่ให้ไฟล์ รูปภาพ และอีเมลที่ซิงค์ไว้ปรากฏนอกพื้นที่ทำงานได้"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"ตั้งค่าการล็อก"</b>\n"ล็อกพื้นที่ของคุณไม่ให้คนอื่นเปิดได้"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"ติดตั้งแอป"</b>\n"ติดตั้งแอปที่คุณต้องการเก็บไว้เป็นส่วนตัวในพื้นที่ทำงาน"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"ข้อควรจำ"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"ลบ eSIM ไม่ได้"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"เกิดข้อผิดพลาดทำให้ลบ eSIM ไม่ได้\n\nโปรดรีสตาร์ทอุปกรณ์แล้วลองอีกครั้ง"</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"ลบพื้นที่ส่วนตัว"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"หากคุณมีพื้นที่ส่วนตัวในอุปกรณ์ ระบบจะลบออกอย่างถาวรและจะนำบัญชี Google ที่เพิ่มไปยังพื้นที่ของคุณออก \n\nรวมถึงลบแอปและข้อมูลทั้งหมดในพื้นที่ทำงานออกจาก"<b>"ที่จัดเก็บข้อมูลภายใน"</b>"ของโทรศัพท์อย่างถาวรด้วย"</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"หากคุณมีพื้นที่ส่วนตัวในอุปกรณ์ ระบบจะลบออกอย่างถาวรและจะนำบัญชี Cube ที่เพิ่มไปยังพื้นที่ของคุณออก \n\nรวมถึงลบแอปและข้อมูลทั้งหมดในพื้นที่ทำงานออกจาก"<b>"ที่จัดเก็บข้อมูลภายใน"</b>"ของโทรศัพท์อย่างถาวรด้วย"</string>
     <string name="main_clear_title" msgid="277664302144837723">"ลบข้อมูลทั้งหมด (รีเซ็ตเป็นค่าเริ่มต้น)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"ลบข้อมูลทั้งหมด (รีเซ็ตเป็นค่าเริ่มต้น)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"เพลง"</li>\n<li>"รูปภาพ"</li>\n<li>"ข้อมูลผู้ใช้อื่นๆ"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"ยืนยัน PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"ยืนยันรหัสผ่าน"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"ยืนยันว่าเป็นคุณ"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"หากต้องการโอนบัญชี Google, การตั้งค่า และอื่นๆ ให้ป้อนรูปแบบของอุปกรณ์อื่น โดยจะมีการเข้ารหัสให้กับรูปแบบของคุณ"</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"หากต้องการโอนบัญชี Google, การตั้งค่า และอื่นๆ ให้ป้อน PIN ของอุปกรณ์อื่น โดยจะมีการเข้ารหัสให้กับ PIN ของคุณ"</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"หากต้องการโอนบัญชี Google, การตั้งค่า และอื่นๆ ให้ป้อนรหัสผ่านของอุปกรณ์อื่น โดยจะมีการเข้ารหัสให้กับรหัสผ่านของคุณ"</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"หากต้องการโอนบัญชี Cube, การตั้งค่า และอื่นๆ ให้ป้อนรูปแบบของอุปกรณ์อื่น โดยจะมีการเข้ารหัสให้กับรูปแบบของคุณ"</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"หากต้องการโอนบัญชี Cube, การตั้งค่า และอื่นๆ ให้ป้อน PIN ของอุปกรณ์อื่น โดยจะมีการเข้ารหัสให้กับ PIN ของคุณ"</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"หากต้องการโอนบัญชี Cube, การตั้งค่า และอื่นๆ ให้ป้อนรหัสผ่านของอุปกรณ์อื่น โดยจะมีการเข้ารหัสให้กับรหัสผ่านของคุณ"</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"ใช้รูปแบบเพื่อปลดล็อกอุปกรณ์นี้ด้วย"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"ใช้ PIN เพื่อปลดล็อกอุปกรณ์นี้ด้วย"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"ใช้รหัสผ่านเพื่อปลดล็อกอุปกรณ์นี้ด้วย"</string>

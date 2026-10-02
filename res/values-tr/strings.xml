@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Biyometrik doğrulama çok fazla kez yapılamadı. Tekrar deneyin."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Kimlik kontrolünü, hırsızlığa karşı koruma ayarlarından yönetebilirsiniz. Ayarlar\'a git"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Devam etmek için biyometrik doğrulama gerekiyor"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Kimlik kontrolü açık ve biyometrik doğrulama gerektiriyor ancak yüz veya parmak izi sensörünüz kullanılamıyor.\n"<ul><li>"Kameranızın açık olduğundan emin olup tekrar deneyin."</li>\n<li>"Google Hesabınızı kullanarak kimlik kontrolünü kapatabilirsiniz."</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Kimlik kontrolü açık ve biyometrik doğrulama gerektiriyor ancak yüz veya parmak izi sensörünüz kullanılamıyor.\n"<ul><li>"Kameranızın açık olduğundan emin olup tekrar deneyin."</li>\n<li>"Cube Hesabınızı kullanarak kimlik kontrolünü kapatabilirsiniz."</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"İptal"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"Tamam"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Kimlik kontrolüne git"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"İptal"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Kur"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Özel alan"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Özel uygulamaları ayrı bir alanda gizleyin veya kilitleyin. Daha fazla güvenlik için ayrı bir Google Hesabı kullanın."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Özel uygulamaları ayrı bir alanda gizleyin veya kilitleyin. Daha fazla güvenlik için ayrı bir Cube Hesabı kullanın."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"İşleyiş şekli"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Alanınız için bir Google Hesabı oluşturun"</b>\n"Özel bir hesap kullanıyorsanız bu hesap; senkronize edilen dosyaların, fotoğrafların ve e-postaların alanınızın dışında görünmesini engeller"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Alanınız için bir Cube Hesabı oluşturun"</b>\n"Özel bir hesap kullanıyorsanız bu hesap; senkronize edilen dosyaların, fotoğrafların ve e-postaların alanınızın dışında görünmesini engeller"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Kilit ayarlayın"</b>\n"Alanınızı kilitleyerek diğer kullanıcıların açmasını önleyin"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Uygulamaları yükleyin"</b>\n"Alanınızda gizli tutmak istediğiniz uygulamaları yükleyin"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Unutmayın"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIM\'ler silinemiyor"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Bir hata oluştu ve eSIM\'leriniz silinmedi.\n\nCihazınızı yeniden başlatıp tekrar deneyin."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Özel alanı sil"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Cihazınızda özel alan varsa kalıcı olacak silinir ve alanınıza eklenen Google Hesabı kaldırılır. \n\nAlanınızdaki tüm uygulamalar ve verileri de telefonunuzun "<b>"dahili depolamasından"</b>" kalıcı olarak silinir."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Cihazınızda özel alan varsa kalıcı olacak silinir ve alanınıza eklenen Cube Hesabı kaldırılır. \n\nAlanınızdaki tüm uygulamalar ve verileri de telefonunuzun "<b>"dahili depolamasından"</b>" kalıcı olarak silinir."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Tüm verileri sil (fabrika ayarlarına sıfırla)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Tüm verileri sil (fabrika ayarlarına sıfırla)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Müzik"</li>\n<li>"Fotoğraflar"</li>\n<li>"Diğer kullanıcı verileri"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"PIN\'i doğrulayın"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Şifreyi doğrulayın"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Kimliğinizi doğrulayın"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google Hesapları, ayarlar ve diğer öğeleri aktarmak için diğer cihazınızın desenini girin. Deseniniz şifrelenir."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google Hesapları, ayarlar ve diğer öğeleri aktarmak için diğer cihazınızın PIN\'ini girin. PIN\'iniz şifrelenir."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google Hesapları, ayarlar ve diğer öğeleri aktarmak için diğer cihazınızın şifresini girin. Şifreniz şifrelenir."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube Hesapları, ayarlar ve diğer öğeleri aktarmak için diğer cihazınızın desenini girin. Deseniniz şifrelenir."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube Hesapları, ayarlar ve diğer öğeleri aktarmak için diğer cihazınızın PIN\'ini girin. PIN\'iniz şifrelenir."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube Hesapları, ayarlar ve diğer öğeleri aktarmak için diğer cihazınızın şifresini girin. Şifreniz şifrelenir."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Bu cihazın kilidini desenle de aç"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Cihazın kilidini açmak için PIN de kullan"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Bu cihazın kilidini şifreyle de aç"</string>

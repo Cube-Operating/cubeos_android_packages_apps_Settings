@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Biometrinių duomenų nepavyko gauti per daug kartų. Bandykite dar kartą."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Tapatybės patikrą galite valdyti apsaugos nuo vagystės nustatymuose. Eiti į nustatymus"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Norint tęsti reikalingi biometriniai duomenys"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Tapatybės patikra įjungta ir reikia biometrinių duomenų, bet veido ar piršto atspaudo jutiklis nepasiekiamas\n"<ul><li>"Patikrinkite, ar fotoaparatas įjungtas, ir bandykite dar kartą"</li>\n<li>"Galite išjungti tapatybės patikrą naudodami „Google“ paskyrą"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Tapatybės patikra įjungta ir reikia biometrinių duomenų, bet veido ar piršto atspaudo jutiklis nepasiekiamas\n"<ul><li>"Patikrinkite, ar fotoaparatas įjungtas, ir bandykite dar kartą"</li>\n<li>"Galite išjungti tapatybės patikrą naudodami „Cube“ paskyrą"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Atšaukti"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"Gerai"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Eiti į tapatybės patikros puslapį"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Atšaukti"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Nustatyti"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Privati erdvė"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Paslėpkite ir užrakinkite privačias programas atskiroje erdvėje. Norėdami užtikrinti papildomą saugą naudokite specialiai tam skirtą „Google“ paskyrą."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Paslėpkite ir užrakinkite privačias programas atskiroje erdvėje. Norėdami užtikrinti papildomą saugą naudokite specialiai tam skirtą „Cube“ paskyrą."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Kaip tai veikia"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Sukurkite „Google“ paskyrą savo erdvei"</b>\n"Jei naudosite specialiai tam skirtą paskyrą, sinchronizuoti failai, nuotraukos ir el. laiškai nebus pasiekiami už erdvės ribų"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Sukurkite „Cube“ paskyrą savo erdvei"</b>\n"Jei naudosite specialiai tam skirtą paskyrą, sinchronizuoti failai, nuotraukos ir el. laiškai nebus pasiekiami už erdvės ribų"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Nustatykite užraktą"</b>\n"Užrakinkite erdvę, kad į ją nepatektų kiti žmonės."</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Įdiekite programų"</b>\n"Įdiekite programų, kurias norite laikyti privačiai savo erdvėje"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Ką verta atminti"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Nepavyko ištrinti „eSIM“ kortelių"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Kažkas nepavyko ir „eSIM“ kortelės nebuvo ištrintos.\n\nIš naujo paleiskite įrenginį ir bandykite dar kartą."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Ištrinti privačią erdvę"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Jei turite privačią erdvę įrenginyje, ji bus visam laikui ištrinta ir prie erdvės pridėta „Google“ paskyra bus pašalinta. \n\nVisos programos jūsų erdvėje ir jų duomenys taip pat bus visam laikui ištrinti iš telefono "<b>"vidinės atminties"</b>"."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Jei turite privačią erdvę įrenginyje, ji bus visam laikui ištrinta ir prie erdvės pridėta „Cube“ paskyra bus pašalinta. \n\nVisos programos jūsų erdvėje ir jų duomenys taip pat bus visam laikui ištrinti iš telefono "<b>"vidinės atminties"</b>"."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Ištrinti visus duomenis (atkurti gamyklinius nustatymus)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Ištr. duom. (atk. gam. nust.)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Muzika"</li>\n<li>"Nuotraukos"</li>\n<li>"Kiti naudotojo duomenys"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Patvirtinkite PIN kodą"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Patvirtinkite slaptažodį"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Tapatybės patvirtinimas"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Jei norite perkelti „Google“ paskyras, nustatymus ir kt., įveskite kito įrenginio atrakinimo piešinį. Atrakinimo piešinys šifruotas."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Jei norite perkelti „Google“ paskyras, nustatymus ir kt., įveskite kito įrenginio PIN kodą. PIN kodas šifruotas."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Jei norite perkelti „Google“ paskyras, nustatymus ir kt., įveskite kito įrenginio slaptažodį. Slaptažodis šifruotas."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Jei norite perkelti „Cube“ paskyras, nustatymus ir kt., įveskite kito įrenginio atrakinimo piešinį. Atrakinimo piešinys šifruotas."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Jei norite perkelti „Cube“ paskyras, nustatymus ir kt., įveskite kito įrenginio PIN kodą. PIN kodas šifruotas."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Jei norite perkelti „Cube“ paskyras, nustatymus ir kt., įveskite kito įrenginio slaptažodį. Slaptažodis šifruotas."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Įrenginį atrakinkite ir atrakinimo piešiniu"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Įrenginį atrakinkite ir PIN kodu"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Įrenginį atrakinkite ir slaptažodžiu"</string>

@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"تعذَّر استخدام المقاييس الحيوية عدة مرّات. يُرجى إعادة المحاولة."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"يمكنك إدارة الإعداد \"التحقّق من الهوية\" في إعدادات \"الحماية من السرقة\". الانتقال إلى الإعدادات"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"يجب استخدام أحد المقاييس الحيوية للمتابعة"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"‏الإعداد \"التحقّق من الهوية\" مفعَّل ويتطلّب استخدام أحد المقاييس الحيوية، ولكن أداة استشعار الوجه أو بصمة الإصبع غير متاحة.\n"<ul><li>"تأكَّد من أنّ الكاميرا مفعَّلة ثم أعِد المحاولة"</li>\n<li>"يمكنك إيقاف الإعداد \"التحقّق من الهوية\" باستخدام حسابك على Google."</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"‏الإعداد \"التحقّق من الهوية\" مفعَّل ويتطلّب استخدام أحد المقاييس الحيوية، ولكن أداة استشعار الوجه أو بصمة الإصبع غير متاحة.\n"<ul><li>"تأكَّد من أنّ الكاميرا مفعَّلة ثم أعِد المحاولة"</li>\n<li>"يمكنك إيقاف الإعداد \"التحقّق من الهوية\" باستخدام حسابك على Cube."</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"إلغاء"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"حسنًا"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"الانتقال إلى إعدادات \"التحقّق من الهوية\""</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"إلغاء"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"إعداد"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"المساحة الخاصة"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"‏يمكنك إخفاء التطبيقات الخاصة أو قفلها في مساحة منفصلة. ولمزيد من الأمان، استخدِم حساب Google مخصَّصًا."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"‏يمكنك إخفاء التطبيقات الخاصة أو قفلها في مساحة منفصلة. ولمزيد من الأمان، استخدِم حساب Cube مخصَّصًا."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"طريقة العمل"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320">"‏"<b>"إنشاء حساب Google لمساحتك الخاصّة"</b>\n"يساعد استخدام حساب مخصَّص للمساحة الخاصّة في منع الملفات والصور والرسائل الإلكترونية التي تتم مزامنتها من الظهور خارج مساحتك الخاصّة"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320">"‏"<b>"إنشاء حساب Cube لمساحتك الخاصّة"</b>\n"يساعد استخدام حساب مخصَّص للمساحة الخاصّة في منع الملفات والصور والرسائل الإلكترونية التي تتم مزامنتها من الظهور خارج مساحتك الخاصّة"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"ضبط قفل"</b>\n"يمكنك قفل مساحتك الخاصة لمنع غيرك من فتحها"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"تثبيت التطبيقات"</b>\n"بإمكانك تثبيت التطبيقات التي تريد الحفاظ على خصوصيتها في مساحتك الخاصّة"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"ملاحظة"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"‏يتعذّر محو بيانات شرائح eSIM"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"‏تعذَّر محو بيانات شرائح eSIM هذه بسبب حدوث خطأ.\n\nيمكنك إعادة تشغيل الجهاز وإعادة المحاولة."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"حذف المساحة الخاصة"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"‏إذا كانت لديك مساحة خاصة على جهازك، سيتم حذفها نهائيًا وستتم إزالة حساب Google الذي أضفته إلى مساحتك. \n\nوسيتم حذف جميع التطبيقات في مساحتك وبياناتها نهائيًا من "<b>"وحدة التخزين الداخلية"</b>" في هاتفك."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"‏إذا كانت لديك مساحة خاصة على جهازك، سيتم حذفها نهائيًا وستتم إزالة حساب Cube الذي أضفته إلى مساحتك. \n\nوسيتم حذف جميع التطبيقات في مساحتك وبياناتها نهائيًا من "<b>"وحدة التخزين الداخلية"</b>" في هاتفك."</string>
     <string name="main_clear_title" msgid="277664302144837723">"محو جميع البيانات (إعادة الضبط على الإعدادات الأصلية)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"محو جميع البيانات (إعادة الضبط على الإعدادات الأصلية)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"الموسيقى"</li>\n<li>"الصور"</li>\n<li>"بيانات المستخدم الأخرى"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"التحقق من رقم التعريف الشخصي"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"التحقق من كلمة المرور"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"إثبات هويتك"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"‏لنقل حسابات Google والإعدادات وغير ذلك، أدخِل نقش جهازك الآخر. النقش مشفَّر."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"‏لنقل حسابات Google والإعدادات وغير ذلك، أدخِل رقم التعريف الشخصي لجهازك الآخر. رقم التعريف الشخصي مشفر."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"‏لنقل حسابات Google والإعدادات وغير ذلك، أدخِل كلمة مرور جهازك الآخر. كلمة المرور مشفَّرة."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"‏لنقل حسابات Cube والإعدادات وغير ذلك، أدخِل نقش جهازك الآخر. النقش مشفَّر."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"‏لنقل حسابات Cube والإعدادات وغير ذلك، أدخِل رقم التعريف الشخصي لجهازك الآخر. رقم التعريف الشخصي مشفر."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"‏لنقل حسابات Cube والإعدادات وغير ذلك، أدخِل كلمة مرور جهازك الآخر. كلمة المرور مشفَّرة."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"استخدام نقش أيضًا لفتح هذا الجهاز"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"إضافة رقم تعريف شخصي أيضًا لفتح هذا الجهاز"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"استخدام كلمة مرور أيضًا لفتح هذا الجهاز"</string>

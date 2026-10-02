@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Die biometrische Authentifizierung ist zu oft fehlgeschlagen. Versuche es noch einmal."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Du kannst die Einstellungen für die Identitätsprüfung in den Einstellungen für den Diebstahlschutz verwalten. Zu den Einstellungen"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Zum Fortfahren ist eine biometrische Authentifizierung erforderlich"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Die Identitätsüberprüfung ist aktiviert und erfordert eine biometrische Authentifizierung, aber die Gesichtserkennung oder der Fingerabdrucksensor ist nicht verfügbar\n"<ul><li>"Prüfe, ob die Kamera eingeschaltet ist, und versuche es noch einmal"</li>\n<li>"Du kannst die Identitätsüberprüfung über dein Google-Konto deaktivieren"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Die Identitätsüberprüfung ist aktiviert und erfordert eine biometrische Authentifizierung, aber die Gesichtserkennung oder der Fingerabdrucksensor ist nicht verfügbar\n"<ul><li>"Prüfe, ob die Kamera eingeschaltet ist, und versuche es noch einmal"</li>\n<li>"Du kannst die Identitätsüberprüfung über dein Cube-Konto deaktivieren"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Abbrechen"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"Ok"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Zur Identitätsprüfung"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Abbrechen"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Einrichten"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Vertrauliches Profil"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Du kannst private Apps in einem separaten Profil verbergen, das sich sperren lässt. Für zusätzliche Sicherheit kannst du dafür ein eigenes Google-Konto verwenden."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Du kannst private Apps in einem separaten Profil verbergen, das sich sperren lässt. Für zusätzliche Sicherheit kannst du dafür ein eigenes Cube-Konto verwenden."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Funktionsweise"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Google-Konto für dein Profil erstellen"</b>\n"Wenn du ein eigenes Konto verwendest, vermeidest du, dass synchronisierte Dateien, Fotos und E‑Mails außerhalb deines Profils erscheinen"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Cube-Konto für dein Profil erstellen"</b>\n"Wenn du ein eigenes Konto verwendest, vermeidest du, dass synchronisierte Dateien, Fotos und E‑Mails außerhalb deines Profils erscheinen"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Sperre einrichten"</b>\n"Du kannst deinen privaten Bereich sperren, damit andere nicht darauf zugreifen können"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Apps installieren"</b>\n"Du kannst in deinem Profil Apps installieren, die privat bleiben sollen"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Wichtige Hinweise"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Löschen der eSIMs nicht möglich"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Ein Fehler ist aufgetreten und deine eSIMs wurden nicht gelöscht.\n\nStarte dein Gerät neu und versuche es noch einmal."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Vertrauliches Profil löschen"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Wenn du ein vertrauliches Profil auf deinem Gerät hast, wird dieses endgültig gelöscht und das deinem Profil hinzugefügte Google-Konto wird entfernt. \n\nAlle Apps in deinem Profil sowie zugehörige Daten werden ebenfalls dauerhaft aus dem "<b>"internen Speicher"</b>" deines Smartphones gelöscht."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Wenn du ein vertrauliches Profil auf deinem Gerät hast, wird dieses endgültig gelöscht und das deinem Profil hinzugefügte Cube-Konto wird entfernt. \n\nAlle Apps in deinem Profil sowie zugehörige Daten werden ebenfalls dauerhaft aus dem "<b>"internen Speicher"</b>" deines Smartphones gelöscht."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Alle Daten löschen (auf Werkseinstellungen zurücksetzen)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Alle Daten löschen"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Musik"</li>\n<li>"Fotos"</li>\n<li>"Sonstige Nutzerdaten"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"PIN bestätigen"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Passwort bestätigen"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Identität bestätigen"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Gib das Muster für dein anderes Gerät ein, um Google-Konten, Einstellungen und mehr zu übertragen. Dein Muster wird verschlüsselt."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Gib die PIN für dein anderes Gerät ein, um Google-Konten, Einstellungen und mehr zu übertragen. Deine PIN wird verschlüsselt."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Gib das Passwort für dein anderes Gerät ein, um Google-Konten, Einstellungen und mehr zu übertragen. Dein Passwort wird verschlüsselt."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Gib das Muster für dein anderes Gerät ein, um Cube-Konten, Einstellungen und mehr zu übertragen. Dein Muster wird verschlüsselt."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Gib die PIN für dein anderes Gerät ein, um Cube-Konten, Einstellungen und mehr zu übertragen. Deine PIN wird verschlüsselt."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Gib das Passwort für dein anderes Gerät ein, um Cube-Konten, Einstellungen und mehr zu übertragen. Dein Passwort wird verschlüsselt."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Muster auch zum Entsperren verwenden"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"PIN auch zum Entsperren verwenden"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Passwort auch zum Entsperren verwenden"</string>

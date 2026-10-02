@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Биометр хэт олон удаа амжилтгүй боллоо. Дахин оролдоно уу."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Та Хувийн мэдээлэл шалгагчийг хулгайн хамгаалалтын тохиргоонд удирдах боломжтой. Тохиргоо руу очих"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Үргэлжлүүлэхэд биометр шаардлагатай"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Хувийн мэдээлэл шалгагч асаалттай бөгөөд биометрийг шаардаж байгаа ч таны царай эсвэл хурууны хээ мэдрэгч боломжгүй байна\n"<ul><li>"Таны камер асаалттай болохыг шалгаад, дахин оролдоно уу"</li>\n<li>"Та Google Бүртгэлээ ашиглан Хувийн мэдээлэл шалгагчийг унтраах боломжтой"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Хувийн мэдээлэл шалгагч асаалттай бөгөөд биометрийг шаардаж байгаа ч таны царай эсвэл хурууны хээ мэдрэгч боломжгүй байна\n"<ul><li>"Таны камер асаалттай болохыг шалгаад, дахин оролдоно уу"</li>\n<li>"Та Cube Бүртгэлээ ашиглан Хувийн мэдээлэл шалгагчийг унтраах боломжтой"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Цуцлах"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"OK"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Хувийн мэдээлэл шалгагч руу очих"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Цуцлах"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Тохируулах"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Хаалттай орон зай"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Тусдаа орон зайд хувийн аппуудыг нуух эсвэл түгжинэ үү. Нэмэлт хамгаалалтад зориулалтын Google Бүртгэл ашиглана уу."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Тусдаа орон зайд хувийн аппуудыг нуух эсвэл түгжинэ үү. Нэмэлт хамгаалалтад зориулалтын Cube Бүртгэл ашиглана уу."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Энэ хэрхэн ажилладаг вэ?"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Орон зайдаа зориулж Google Бүртгэл үүсгэх"</b>\n"Хэрэв та зориулалтын бүртгэл ашиглавал энэ нь синк хийсэн файл, зураг, имэйлийг таны орон зайнаас гадуур харагдахыг зогсооход тусална"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Орон зайдаа зориулж Cube Бүртгэл үүсгэх"</b>\n"Хэрэв та зориулалтын бүртгэл ашиглавал энэ нь синк хийсэн файл, зураг, имэйлийг таны орон зайнаас гадуур харагдахыг зогсооход тусална"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Түгжээ тохируулах"</b>\n"Орон зайгаа түгжиж, бусад хүнийг үүнийг нээхийг зогсоогоорой"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Аппуудыг суулгах"</b>\n"Та орон зайдаа хувийн байлгахыг хүсэж буй аппуудаа суулгана уу"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Санамж"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIM-үүдийг устгах боломжгүй"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Ямар нэг алдаа гарсан бөгөөд таны eSIM-үүдийг устгаагүй.\n\nТөхөөрөмжөө дахин эхлүүлээд, дахин оролдоно уу."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Хаалттай орон зайг устгах"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Хэрэв таны төхөөрөмж дээр хаалттай орон зай байвал тус хаалттай орон зайг бүрмөсөн устгаж, орон зайд тань нэмсэн Google Бүртгэлийг хасна. \n\nТаны орон зай дахь бүх апп, тэдгээрийн өгөгдлийг мөн таны утасны "<b>"дотоод сангаас"</b>" бүрмөсөн устгана."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Хэрэв таны төхөөрөмж дээр хаалттай орон зай байвал тус хаалттай орон зайг бүрмөсөн устгаж, орон зайд тань нэмсэн Cube Бүртгэлийг хасна. \n\nТаны орон зай дахь бүх апп, тэдгээрийн өгөгдлийг мөн таны утасны "<b>"дотоод сангаас"</b>" бүрмөсөн устгана."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Бүх өгөгдлийг устгах (үйлдвэрийн тохиргоонд шинэчлэх)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Бүх өгөгдлийг устгах (үйлдвэрийн тохиргоонд шинэчлэх)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Хөгжим"</li>\n<li>"Зураг"</li>\n<li>"Бусад хэрэглэгчийн өгөгдөл"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"ПИН баталгаажуулах"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Нууц үг баталгаажуулах"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Өөрийгөө мөн болохыг баталгаажуулна уу"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google Бүртгэлүүд, тохиргоо болон бусад зүйлийг шилжүүлэхийн тулд нөгөө төхөөрөмжийнхөө хээг оруулна уу. Таны хээг шифрлэсэн."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google Бүртгэлүүд, тохиргоо болон бусад зүйлийг шилжүүлэхийн тулд нөгөө төхөөрөмжийнхөө ПИН-г оруулна уу. Таны ПИН-г шифрлэсэн."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google Бүртгэлүүд, тохиргоо болон бусад зүйлийг шилжүүлэхийн тулд нөгөө төхөөрөмжийнхөө нууц үгийг оруулна уу. Таны нууц үгийг шифрлэсэн."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube Бүртгэлүүд, тохиргоо болон бусад зүйлийг шилжүүлэхийн тулд нөгөө төхөөрөмжийнхөө хээг оруулна уу. Таны хээг шифрлэсэн."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube Бүртгэлүүд, тохиргоо болон бусад зүйлийг шилжүүлэхийн тулд нөгөө төхөөрөмжийнхөө ПИН-г оруулна уу. Таны ПИН-г шифрлэсэн."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube Бүртгэлүүд, тохиргоо болон бусад зүйлийг шилжүүлэхийн тулд нөгөө төхөөрөмжийнхөө нууц үгийг оруулна уу. Таны нууц үгийг шифрлэсэн."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Мөн энэ төхөөрөмжийн түгжээг тайлахад хээ ашиглах"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Мөн энэ төхөөрөмжийн түгжээг тайлахад ПИН ашиглах"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Мөн энэ төхөөрөмжийн түгжээг тайлахад нууц үг ашиглах"</string>

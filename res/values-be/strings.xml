@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Занадта многа няўдалых праверак біяметрычных даных. Паўтарыце спробу."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Кіраваць функцыяй праверкі асобы можна ў наладах абароны ад крадзяжу. Перайсці ў налады"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Каб працягнуць, патрабуюцца біяметрычныя даныя"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Функцыя праверкі асобы ўключана. Ёй патрэбныя біяметрычныя даныя, але сканер адбіткаў пальцаў ці датчык аўтэнтыфікацыі твару недаступныя\n"<ul><li>"Пераканайцеся, што камера ўключана, і паўтарыце спробу"</li>\n<li>"Вы можаце выключыць функцыю праверкі асобы з дапамогай Уліковага запісу Google"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Функцыя праверкі асобы ўключана. Ёй патрэбныя біяметрычныя даныя, але сканер адбіткаў пальцаў ці датчык аўтэнтыфікацыі твару недаступныя\n"<ul><li>"Пераканайцеся, што камера ўключана, і паўтарыце спробу"</li>\n<li>"Вы можаце выключыць функцыю праверкі асобы з дапамогай Уліковага запісу Cube"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Скасаваць"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"ОК"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Перайсці да праверкі асобы"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Скасаваць"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Наладзіць"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Прыватная прастора"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Праграмы ў асабістай прасторы можна схаваць або абараніць з дапамогай блакіроўкі. У мэтах бяспекі выкарыстоўвайце асобны Уліковы запіс Google."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Праграмы ў асабістай прасторы можна схаваць або абараніць з дапамогай блакіроўкі. У мэтах бяспекі выкарыстоўвайце асобны Уліковы запіс Cube."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Як гэта працуе"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Стварыце Уліковы запіс Google для сваёй прасторы"</b>\n"Пры выкарыстанні асобнага ўліковага запісу сінхранізаваныя файлы, фота і электронныя лісты не будуць з’яўляцца па-за межамі прасторы"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Стварыце Уліковы запіс Cube для сваёй прасторы"</b>\n"Пры выкарыстанні асобнага ўліковага запісу сінхранізаваныя файлы, фота і электронныя лісты не будуць з’яўляцца па-за межамі прасторы"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Устаноўка блакіроўкі"</b>\n"Абараніце прыватную прастору з дапамогай блакіроўкі, каб іншыя карыстальнікі не маглі яе адкрыць."</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Усталюйце праграмы"</b>\n"Усталюйце праграмы, якія будуць заставацца прыватнымі дзякуючы прасторы"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Што трэба мець на ўвазе"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Не ўдалося выдаліць eSIM-карты"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Адбылася памылка, і eSIM-карты не былі выдалены.\n\nПеразапусціце прыладу і паўтарыце спробу."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Выдаліць прыватную прастору"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Калі на прыладзе ёсць прыватная прастора, яна будзе назаўсёды выдалена разам з Уліковым запісам Google, дададзеным у прастору. \n\nУсе праграмы ў прасторы і іх даныя таксама будуць назаўсёды выдалены з "<b>"унутранага сховішча"</b>" тэлефона."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Калі на прыладзе ёсць прыватная прастора, яна будзе назаўсёды выдалена разам з Уліковым запісам Cube, дададзеным у прастору. \n\nУсе праграмы ў прасторы і іх даныя таксама будуць назаўсёды выдалены з "<b>"унутранага сховішча"</b>" тэлефона."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Сцерці ўсе даныя (скід да заводскіх налад)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Сцерці ўсе даныя (скід да заводскіх налад)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"музыку;"</li>\n<li>"фота;"</li>\n<li>"іншую інфармацыю карыстальніка."</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Пацвердзіць PIN-код"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Пацвердзіць пароль"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Пацвердзіце сваю асобу"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Каб пераносіць Уліковыя запісы Google, налады і іншае, увядзіце ўзор вашай іншай прылады. Узор разблакіроўкі зашыфраваны."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Каб пераносіць Уліковыя запісы Google, налады і іншае, увядзіце PIN-код вашай іншай прылады. PIN-код зашыфраваны."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Каб пераносіць Уліковыя запісы Google, наладкі і іншае, увядзіце пароль вашай іншай прылады. Пароль зашыфраваны."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Каб пераносіць Уліковыя запісы Cube, налады і іншае, увядзіце ўзор вашай іншай прылады. Узор разблакіроўкі зашыфраваны."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Каб пераносіць Уліковыя запісы Cube, налады і іншае, увядзіце PIN-код вашай іншай прылады. PIN-код зашыфраваны."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Каб пераносіць Уліковыя запісы Cube, наладкі і іншае, увядзіце пароль вашай іншай прылады. Пароль зашыфраваны."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Выкарыстоўваць узор разблакіроўкі для гэтай прылады"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Выкарыстоўваць PIN-код для разблакіроўкі гэтай прылады"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Выкарыстоўваць пароль для разблакіроўкі гэтай прылады"</string>

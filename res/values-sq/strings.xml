@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Të dhënat biometrike dështuan shumë herë. Provo përsëri."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Mund ta menaxhosh \"Kontrollin e identitetit\" te cilësimet e mbrojtjes nga vjedhja. Shko te \"Cilësimet\""</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Kërkohen të dhënat biometrike për të vazhduar"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"\"Kontrolli i identitetit\" është aktiv dhe kërkon të dhënat biometrike, por sensori i fytyrës ose gjurmës së gishtit është i padisponueshëm\n"<ul><li>"Kontrollo që kamera të jetë aktive dhe provo përsëri"</li>\n<li>"Mund ta çaktivizosh \"Kontrollin e identitetit\" duke përdorur \"Llogarinë tënde të Google\""</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"\"Kontrolli i identitetit\" është aktiv dhe kërkon të dhënat biometrike, por sensori i fytyrës ose gjurmës së gishtit është i padisponueshëm\n"<ul><li>"Kontrollo që kamera të jetë aktive dhe provo përsëri"</li>\n<li>"Mund ta çaktivizosh \"Kontrollin e identitetit\" duke përdorur \"Llogarinë tënde të Cube\""</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Anulo"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"Në rregull"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Shko te kontrolli i identitetit"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Anulo"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Konfiguro"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Hapësira private"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Fshih ose kyç aplikacionet private në një hapësirë të veçantë. Përdor një \"Llogari të posaçme të Google\" për më shumë siguri."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Fshih ose kyç aplikacionet private në një hapësirë të veçantë. Përdor një \"Llogari të posaçme të Cube\" për më shumë siguri."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Si funksionon"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Krijo një \"Llogari të Google\" për hapësirën tënde"</b>\n"Nëse përdor një llogari të posaçme, kjo të ndihmon të ndalosh që skedarët, fotografitë dhe email-et e sinkronizuara të mos shfaqen jashtë hapësirës sate"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Krijo një \"Llogari të Cube\" për hapësirën tënde"</b>\n"Nëse përdor një llogari të posaçme, kjo të ndihmon të ndalosh që skedarët, fotografitë dhe email-et e sinkronizuara të mos shfaqen jashtë hapësirës sate"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Cakto një kyçje"</b>\n"Kyçe hapësirën tënde për t\'i ndaluar të tjerët që të mos e hapin atë"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Instalo aplikacionet"</b>\n"Instalo aplikacionet që dëshiron t\'i mbash private në hapësirën tënde"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Ki parasysh"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Kartat eSIM nuk mund të spastrohen"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Ndodhi një gabim dhe kartat e tua eSIM nuk u spastruan.\n\nRinis pajisjen dhe provo përsëri."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Fshi hapësirën private"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Nëse ke një hapësirë private në pajisjen tënde, ajo do të fshihet përgjithmonë dhe \"Llogaria e Google\" e shtuar në hapësirën tënde do të hiqet. \n\nTë gjitha aplikacionet në hapësirën tënde dhe të dhënat e tyre do të fshihen gjithashtu përgjithmonë nga "<b>"hapësira ruajtëse e brendshme"</b>" e telefonit tënd."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Nëse ke një hapësirë private në pajisjen tënde, ajo do të fshihet përgjithmonë dhe \"Llogaria e Cube\" e shtuar në hapësirën tënde do të hiqet. \n\nTë gjitha aplikacionet në hapësirën tënde dhe të dhënat e tyre do të fshihen gjithashtu përgjithmonë nga "<b>"hapësira ruajtëse e brendshme"</b>" e telefonit tënd."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Spastro të gjitha të dhënat (rivendosja e fabrikës)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Spastro të gjitha të dhënat (rivendosja e fabrikës)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Muzika"</li>\n<li>"Fotografitë"</li>\n<li>"Të dhëna të tjera të përdoruesit"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Verifiko kodin PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Verifiko fjalëkalimin"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Verifiko që je ti"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Për të transferuar \"Llogaritë e Google\", cilësimet dhe të tjera, fut motivin e pajisjes tjetër. Motivi yt është i enkriptuar."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Për të transferuar \"Llogaritë e Google\", cilësimet dhe të tjera, fut kodin PIN të pajisjes tjetër. Kodi yt PIN është i enkriptuar."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Për të transferuar \"Llogaritë e Google\", cilësimet dhe të tjera, fut fjalëkalimin e pajisjes tjetër. Fjalëkalimi yt është i enkriptuar."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Për të transferuar \"Llogaritë e Cube\", cilësimet dhe të tjera, fut motivin e pajisjes tjetër. Motivi yt është i enkriptuar."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Për të transferuar \"Llogaritë e Cube\", cilësimet dhe të tjera, fut kodin PIN të pajisjes tjetër. Kodi yt PIN është i enkriptuar."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Për të transferuar \"Llogaritë e Cube\", cilësimet dhe të tjera, fut fjalëkalimin e pajisjes tjetër. Fjalëkalimi yt është i enkriptuar."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Përdor motivin për të shkyçur pajisjen"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Përdor PIN-in për të shkyçur këtë pajisje"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Përdor fjalëkalimin për të shkyçur pajisjen"</string>

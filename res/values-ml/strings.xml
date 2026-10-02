@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"ബയോമെട്രിക്‌സ് നിരവധി തവണ ഉപയോഗിച്ചതിനാൽ പരിശോധിച്ചുറപ്പിക്കാൻ കഴിഞ്ഞില്ല. വീണ്ടും ശ്രമിക്കുക."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"മോഷണം തടയൽ ക്രമീകരണത്തിൽ നിങ്ങൾക്ക് ഐഡന്റിറ്റി പരിശോധന മാനേജ് ചെയ്യാം. ക്രമീകരണത്തിലേക്ക് പോകുക"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"തുടരുന്നതിന് ബയോമെട്രിക് ആവശ്യമാണ്"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ഐഡന്റിറ്റി പരിശോധന ഓണാണ്, അതിന് ബയോമെട്രിക് ആവശ്യമാണ്, എന്നാൽ നിങ്ങളുടെ മുഖമോ ഫിംഗർപ്രിന്റ് സെൻസറോ ലഭ്യമല്ല\n"<ul><li>"നിങ്ങളുടെ ക്യാമറ ഓണാണോയെന്ന് പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക"</li>\n<li>"നിങ്ങളുടെ Google Account ഉപയോഗിച്ച് ഐഡന്റിറ്റി പരിശോധന ഓഫാക്കാം"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ഐഡന്റിറ്റി പരിശോധന ഓണാണ്, അതിന് ബയോമെട്രിക് ആവശ്യമാണ്, എന്നാൽ നിങ്ങളുടെ മുഖമോ ഫിംഗർപ്രിന്റ് സെൻസറോ ലഭ്യമല്ല\n"<ul><li>"നിങ്ങളുടെ ക്യാമറ ഓണാണോയെന്ന് പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക"</li>\n<li>"നിങ്ങളുടെ Cube Account ഉപയോഗിച്ച് ഐഡന്റിറ്റി പരിശോധന ഓഫാക്കാം"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"റദ്ദാക്കുക"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"ശരി"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"ഐഡന്റിറ്റി പരിശോധനയിലേക്ക് പോകുക"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"റദ്ദാക്കുക"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"സജ്ജീകരിക്കുക"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"സ്വകാര്യ സ്പേസ്"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"സ്വകാര്യ ആപ്പുകൾ ഒരു പ്രത്യേക സ്പേസിൽ മറയ്ക്കുക അല്ലെങ്കിൽ ലോക്ക് ചെയ്യുക. അധിക സുരക്ഷയ്ക്ക് പ്രത്യേകമായുള്ള ഒരു Google Account ഉപയോഗിക്കുക."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"സ്വകാര്യ ആപ്പുകൾ ഒരു പ്രത്യേക സ്പേസിൽ മറയ്ക്കുക അല്ലെങ്കിൽ ലോക്ക് ചെയ്യുക. അധിക സുരക്ഷയ്ക്ക് പ്രത്യേകമായുള്ള ഒരു Cube Account ഉപയോഗിക്കുക."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"നിങ്ങളുടെ സ്പേസിന് ഒരു Google Account സൃഷ്ടിക്കുക"</b>\n"നിങ്ങൾ ഒരു സമർപ്പിത അക്കൗണ്ടാണ് ഉപയോഗിക്കുന്നതെങ്കിൽ, സമന്വയിപ്പിച്ച ഫയലുകൾ, ഫോട്ടോകൾ, ഇമെയിലുകൾ എന്നിവ നിങ്ങളുടെ സ്പേസിന്റെ പുറത്ത് ദൃശ്യമാകുന്നത് തടയാൻ ഇത് സഹായിക്കുന്നു"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"നിങ്ങളുടെ സ്പേസിന് ഒരു Cube Account സൃഷ്ടിക്കുക"</b>\n"നിങ്ങൾ ഒരു സമർപ്പിത അക്കൗണ്ടാണ് ഉപയോഗിക്കുന്നതെങ്കിൽ, സമന്വയിപ്പിച്ച ഫയലുകൾ, ഫോട്ടോകൾ, ഇമെയിലുകൾ എന്നിവ നിങ്ങളുടെ സ്പേസിന്റെ പുറത്ത് ദൃശ്യമാകുന്നത് തടയാൻ ഇത് സഹായിക്കുന്നു"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"ഒരു ലോക്ക് സജ്ജീകരിക്കുക"</b>\n"നിങ്ങളുടെ സ്‌പേസ് മറ്റ് ആളുകൾ തുറക്കുന്നത് തടയാൻ അത് ലോക്ക് ചെയ്യുക"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"ആപ്പുകൾ ഇൻസ്റ്റാൾ ചെയ്യുക"</b>\n"നിങ്ങളുടെ സ്പേസിൽ സ്വകാര്യമായി സൂക്ഷിക്കേണ്ട ആപ്പുകൾ ഇൻസ്റ്റാൾ ചെയ്യുക"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങൾ"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"ഇ-സിമ്മുകൾ മായ്ക്കാനാകുന്നില്ല"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"എന്തോ കുഴപ്പമുണ്ടായതിനാൽ നിങ്ങളുടെ ഇ-സിമ്മുകൾ മായ്‌ച്ചിട്ടില്ല.\n\nനിങ്ങളുടെ ഉപകരണം റീസ്‌റ്റാർട്ട് ചെയ്‌ത് വീണ്ടും ശ്രമിക്കുക."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"സ്വകാര്യ സ്പേസ് ഇല്ലാതാക്കുക"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"നിങ്ങളുടെ ഉപകരണത്തിൽ സ്വകാര്യ സ്‌പേസ് ഉണ്ടെങ്കിൽ, അത് ശാശ്വതമായി ഇല്ലാതാക്കും, നിങ്ങളുടെ സ്‌പേസിലേക്ക് ചേർത്തിട്ടുള്ള Google Account നീക്കം ചെയ്യും. \n\nസ്‌പേസിലെ എല്ലാ ആപ്പുകളും അവയുടെ ഡാറ്റയും നിങ്ങളുടെ ഫോണിന്റെ "<b>"ഉള്ളിലെ മെമ്മറിയിൽ"</b>" നിന്ന് ശാശ്വതമായി ഇല്ലാതാക്കും."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"നിങ്ങളുടെ ഉപകരണത്തിൽ സ്വകാര്യ സ്‌പേസ് ഉണ്ടെങ്കിൽ, അത് ശാശ്വതമായി ഇല്ലാതാക്കും, നിങ്ങളുടെ സ്‌പേസിലേക്ക് ചേർത്തിട്ടുള്ള Cube Account നീക്കം ചെയ്യും. \n\nസ്‌പേസിലെ എല്ലാ ആപ്പുകളും അവയുടെ ഡാറ്റയും നിങ്ങളുടെ ഫോണിന്റെ "<b>"ഉള്ളിലെ മെമ്മറിയിൽ"</b>" നിന്ന് ശാശ്വതമായി ഇല്ലാതാക്കും."</string>
     <string name="main_clear_title" msgid="277664302144837723">"എല്ലാ ഡാറ്റയും മായ്‌ക്കുക (ഫാക്‌ടറി റീസെറ്റ്)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"എല്ലാ ഡാറ്റയും മായ്‌ക്കുക (ഫാക്‌ടറി റീസെറ്റ്)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"സംഗീതം"</li>\n<li>"ഫോട്ടോകൾ"</li>\n<li>"മറ്റ് ഉപയോക്തൃ ഡാറ്റ"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"പിൻ പരിശോധിക്കുക"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"പാസ്‌വേഡ് പരിശോധിക്കുക"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"നിങ്ങളാണെന്ന് പരിശോധിച്ചുറപ്പിക്കൂ"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google അക്കൗണ്ടുകളും ക്രമീകരണങ്ങളും മറ്റും കൈമാറാൻ, നിങ്ങളുടെ മറ്റ് ഉപകരണത്തിന്റെ പാറ്റേൺ നൽകുക. നിങ്ങളുടെ പാറ്റേൺ എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google Account-കളും ക്രമീകരണങ്ങളും മറ്റും കൈമാറാൻ, നിങ്ങളുടെ മറ്റ് ഉപകരണത്തിന്റെ പിൻ നൽകുക. നിങ്ങളുടെ പിൻ എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google അക്കൗണ്ടുകളും ക്രമീകരണവും മറ്റും കൈമാറാൻ, നിങ്ങളുടെ മറ്റ് ഉപകരണത്തിന്റെ പാസ്‌വേഡ് നൽകുക. നിങ്ങളുടെ പാസ്‌വേഡ് എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube അക്കൗണ്ടുകളും ക്രമീകരണങ്ങളും മറ്റും കൈമാറാൻ, നിങ്ങളുടെ മറ്റ് ഉപകരണത്തിന്റെ പാറ്റേൺ നൽകുക. നിങ്ങളുടെ പാറ്റേൺ എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube Account-കളും ക്രമീകരണങ്ങളും മറ്റും കൈമാറാൻ, നിങ്ങളുടെ മറ്റ് ഉപകരണത്തിന്റെ പിൻ നൽകുക. നിങ്ങളുടെ പിൻ എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube അക്കൗണ്ടുകളും ക്രമീകരണവും മറ്റും കൈമാറാൻ, നിങ്ങളുടെ മറ്റ് ഉപകരണത്തിന്റെ പാസ്‌വേഡ് നൽകുക. നിങ്ങളുടെ പാസ്‌വേഡ് എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"ഈ ഉപകരണം അൺലോക്ക് ചെയ്യാനും പാറ്റേൺ നൽകൂ"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"ഈ ഉപകരണം അൺലോക്ക് ചെയ്യാനും പിൻ നൽകൂ"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"ഈ ഉപകരണം അൺലോക്ക് ചെയ്യാനും പാസ്‌വേഡ് നൽകൂ"</string>

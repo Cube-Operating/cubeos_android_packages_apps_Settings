@@ -42,6 +42,17 @@
     <!-- Device Info screen. CubeOS release channel (e.g. UNOFFICIAL). -->
     <string name="cubeos_release_channel">CubeOS release channel</string>
 
+    <!-- Settings home. Cube Account card at the top. -->
+    <string name="cube_account_title" translatable="false">Cube Account</string>
+    <string name="cube_account_summary">Sign in for backup, sync and AppHub</string>
+    <!-- Cube Account screen shown until the account service exists. -->
+    <string name="cube_account_coming_soon">Coming soon</string>
+    <string name="cube_account_coming_soon_body">Sign in with a Cube Account to back up your phone, sync across devices and get apps from AppHub. Cube Account isn’t available yet.</string>
+
+    <!-- About phone header. -->
+    <string name="cube_device_marketing_name" translatable="false">Cube Phone</string>
+    <string name="cube_device_credit" translatable="false">Modelled by Egoras for Cube</string>
+
     <!-- Device Info screen. LineageOS legal. -->
     <string name="lineagelicense_title">CubeOS legal</string>
 

@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Биометрияны алу талпынысы тым көп рет сәтсіз аяқталды. Қайталап көріңіз."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Identity Check функциясын ұрлықтан қорғау параметрлері арқылы басқара аласыз. Параметрлерге өту"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Жалғастыру үшін биометрия қажет"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Identity Check функциясы қосулы және оған биометрия қажет, бірақ бет немесе саусақ ізін оқу сканері қолжетімсіз.\n"<ul><li>"Камераңыз қосулы екенін тексеріңіз де, әрекетті қайталап көріңіз."</li>\n<li>"Identity Check функциясын Google аккаунты арқылы өшіруіңізге болады."</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Identity Check функциясы қосулы және оған биометрия қажет, бірақ бет немесе саусақ ізін оқу сканері қолжетімсіз.\n"<ul><li>"Камераңыз қосулы екенін тексеріңіз де, әрекетті қайталап көріңіз."</li>\n<li>"Identity Check функциясын Cube аккаунты арқылы өшіруіңізге болады."</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Бас тарту"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"Жарайды"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Жеке басты тексеру параметрлеріне өту"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Бас тарту"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Реттеу"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Құпия кеңістік"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Жеке қолданбаларыңызды бөлек кеңістікке жасырып қоюға немесе құлыппен жауып қоюға болады. Қосымша қауіпсіздік үшін арнайы Google аккаунтын пайдаланыңыз."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Жеке қолданбаларыңызды бөлек кеңістікке жасырып қоюға немесе құлыппен жауып қоюға болады. Қосымша қауіпсіздік үшін арнайы Cube аккаунтын пайдаланыңыз."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Бұл қалай жұмыс істейді?"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Кеңістік үшін Google аккаунтын жасау"</b>\n"Арнайы аккаунтыңыз болса, синхрондалған файлдар, фотосуреттер мен электрондық хаттар кеңістігіңізден тыс көрсетілмейді."</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Кеңістік үшін Cube аккаунтын жасау"</b>\n"Арнайы аккаунтыңыз болса, синхрондалған файлдар, фотосуреттер мен электрондық хаттар кеңістігіңізден тыс көрсетілмейді."</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Құлыптау функциясын орнату"</b>\n"Кеңістігіңізді басқа адамдар ашып алмауы үшін, оны құлыптаңыз."</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Қолданбалар орнату"</b>\n"Кеңістігіңізге құпия сақтағыңыз келетін қолданбаларды орнатуға болады."</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Есте сақтаңыз"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIM карталарын өшіру мүмкін емес"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Белгісіз қате шыққандықтан, eSIM карталары өшірілмеді.\n\nҚұрылғыны өшіріп қосып, әрекетті қайталаңыз."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Құпия кеңістікті жою"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Құрылғыңызда құпия кеңістік болса, ол біржола жойылып, оған қосылған Google аккаунтыңыз өшіріледі. \n\nКеңістіктегі барлық қолданба мен олардың деректері де телефоныңыздың "<b>"ішкі жадынан"</b>" біржола жойылады."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Құрылғыңызда құпия кеңістік болса, ол біржола жойылып, оған қосылған Cube аккаунтыңыз өшіріледі. \n\nКеңістіктегі барлық қолданба мен олардың деректері де телефоныңыздың "<b>"ішкі жадынан"</b>" біржола жойылады."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Барлық деректі өшіру (зауыттық параметрлерге қайтару)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Барлық деректі өшіру (зауыттық параметрлерді қайтару)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"музыка;"</li>\n<li>"фотосуреттер;"</li>\n<li>"пайдаланушының басқа деректері."</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"PIN кодын растау"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Құпия сөзді растау"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Жеке басты растау"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google аккаунттарын, параметрлерін және т.б. тасымалдау үшін басқа құрылғыңыздың өрнегін енгізіңіз. Өрнегіңіз шифрланды."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google аккаунттарын, параметрлерін және т.б. тасымалдау үшін басқа құрылғыңыздың PIN кодын енгізіңіз. PIN кодыңыз шифрланған."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google аккаунттарын, параметрлерін және т.б. тасымалдау үшін басқа құрылғыңыздың құпия сөзін енгізіңіз. Құпия сөзіңіз шифрланды."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube аккаунттарын, параметрлерін және т.б. тасымалдау үшін басқа құрылғыңыздың өрнегін енгізіңіз. Өрнегіңіз шифрланды."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube аккаунттарын, параметрлерін және т.б. тасымалдау үшін басқа құрылғыңыздың PIN кодын енгізіңіз. PIN кодыңыз шифрланған."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube аккаунттарын, параметрлерін және т.б. тасымалдау үшін басқа құрылғыңыздың құпия сөзін енгізіңіз. Құпия сөзіңіз шифрланды."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Құрылғының құлпын ашу үшін өрнекті пайдалану"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Құрылғының құлпын ашу үшін PIN кодын пайдалану"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Құрылғының құлпын ашу үшін құпия сөзді пайдалану"</string>

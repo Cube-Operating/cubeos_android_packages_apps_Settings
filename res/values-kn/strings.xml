@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"ಬಯೋಮೆಟ್ರಿಕ್ಸ್ ಹಲವು ಬಾರಿ ವಿಫಲವಾಗಿದೆ. ಪುನಃ ಪ್ರಯತ್ನಿಸಿ."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"\'ಕಳ್ಳತನದಿಂದ ರಕ್ಷಣೆ\' ಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ನೀವು ಗುರುತಿನ ಪರಿಶೀಲನೆಯನ್ನು ನಿರ್ವಹಿಸಬಹುದು. ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಹೋಗಿ"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"ಮುಂದುವರಿಸಲು ಬಯೋಮೆಟ್ರಿಕ್ ಅಗತ್ಯವಿದೆ"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ಗುರುತಿನ ಪರಿಶೀಲನೆ ಆನ್ ಆಗಿದೆ ಮತ್ತು ಬಯೋಮೆಟ್ರಿಕ್‌ನ ಅಗತ್ಯವಿದೆ, ಆದರೆ ನಿಮ್ಮ ಫೇಸ್ ಮತ್ತು ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್‌‌ ಲಭ್ಯವಿಲ್ಲ\n"<ul><li>"ನಿಮ್ಮ ಕ್ಯಾಮರಾ ಆನ್ ಆಗಿದೆಯೇ ಎಂಬುದನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ"</li>\n<li>"ನಿಮ್ಮ Google ಖಾತೆಯನ್ನು ಬಳಸಿಕೊಂಡು ನೀವು ಗುರುತಿನ ಪರಿಶೀಲನೆಯನ್ನು ಆಫ್ ಮಾಡಬಹುದು"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ಗುರುತಿನ ಪರಿಶೀಲನೆ ಆನ್ ಆಗಿದೆ ಮತ್ತು ಬಯೋಮೆಟ್ರಿಕ್‌ನ ಅಗತ್ಯವಿದೆ, ಆದರೆ ನಿಮ್ಮ ಫೇಸ್ ಮತ್ತು ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್‌‌ ಲಭ್ಯವಿಲ್ಲ\n"<ul><li>"ನಿಮ್ಮ ಕ್ಯಾಮರಾ ಆನ್ ಆಗಿದೆಯೇ ಎಂಬುದನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ"</li>\n<li>"ನಿಮ್ಮ Cube ಖಾತೆಯನ್ನು ಬಳಸಿಕೊಂಡು ನೀವು ಗುರುತಿನ ಪರಿಶೀಲನೆಯನ್ನು ಆಫ್ ಮಾಡಬಹುದು"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"ರದ್ದುಮಾಡಿ"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"ಸರಿ"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"ಗುರುತಿನ ಪರಿಶೀಲನೆಗೆ ಹೋಗಿ"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"ರದ್ದುಗೊಳಿಸಿ"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"ಸೆಟಪ್ ಮಾಡಿ"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"ಪ್ರೈವೆಟ್ ಸ್ಪೇಸ್"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"ಪ್ರೈವೆಟ್ ಆ್ಯಪ್‌ಗಳನ್ನು ಪ್ರತ್ಯೇಕ ಸ್ಪೇಸ್‌ನಲ್ಲಿ ಮರೆಮಾಡಿ ಅಥವಾ ಲಾಕ್ ಮಾಡಿ. ಹೆಚ್ಚುವರಿ ಭದ್ರತೆಗಾಗಿ ಸಮರ್ಪಿತ Google ಖಾತೆಯನ್ನು ಬಳಸಿ."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"ಪ್ರೈವೆಟ್ ಆ್ಯಪ್‌ಗಳನ್ನು ಪ್ರತ್ಯೇಕ ಸ್ಪೇಸ್‌ನಲ್ಲಿ ಮರೆಮಾಡಿ ಅಥವಾ ಲಾಕ್ ಮಾಡಿ. ಹೆಚ್ಚುವರಿ ಭದ್ರತೆಗಾಗಿ ಸಮರ್ಪಿತ Cube ಖಾತೆಯನ್ನು ಬಳಸಿ."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"ಅದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"ನಿಮ್ಮ ಸ್ಪೇಸ್‌ಗಾಗಿ Google ಖಾತೆಯನ್ನು ರಚಿಸಿ"</b>\n"ನೀವು ಮೀಸಲಿರುವ ಖಾತೆಯನ್ನು ಬಳಸಿದರೆ, ಸಿಂಕ್ ಮಾಡಿದ ಫೈಲ್‌ಗಳು, ಫೋಟೋಗಳು ಮತ್ತು ಇಮೇಲ್‌ಗಳು ನಿಮ್ಮ ಸ್ಪೇಸ್‌ನ ಹೊರಗೆ ಕಾಣಿಸಿಕೊಳ್ಳುವುದನ್ನು ನಿಲ್ಲಿಸುವುದಕ್ಕೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"ನಿಮ್ಮ ಸ್ಪೇಸ್‌ಗಾಗಿ Cube ಖಾತೆಯನ್ನು ರಚಿಸಿ"</b>\n"ನೀವು ಮೀಸಲಿರುವ ಖಾತೆಯನ್ನು ಬಳಸಿದರೆ, ಸಿಂಕ್ ಮಾಡಿದ ಫೈಲ್‌ಗಳು, ಫೋಟೋಗಳು ಮತ್ತು ಇಮೇಲ್‌ಗಳು ನಿಮ್ಮ ಸ್ಪೇಸ್‌ನ ಹೊರಗೆ ಕಾಣಿಸಿಕೊಳ್ಳುವುದನ್ನು ನಿಲ್ಲಿಸುವುದಕ್ಕೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"ಲಾಕ್ ಅನ್ನು ಸೆಟ್ ಮಾಡಿ"</b>\n"ಇತರ ಜನರು ನಿಮ್ಮ ಸ್ಪೇಸ್ ತೆರೆಯುವುದನ್ನು ತಡೆಯಲು ಅದನ್ನು ಲಾಕ್ ಮಾಡಿ"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"ಆ್ಯಪ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ"</b>\n"ನಿಮ್ಮ ಸ್ಪೇಸ್‌ನಲ್ಲಿ ನೀವು ಖಾಸಗಿಯಾಗಿ ಇರಿಸಿಕೊಳ್ಳಲು ಬಯಸುವ ಆ್ಯಪ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"ನೆನಪಿನಲ್ಲಿಡಿ"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIM ಗಳನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"ಏನೋ ತಪ್ಪಾಗಿದೆ ಮತ್ತು ನಿಮ್ಮ eSIM ಗಳನ್ನು ಅಳಿಸಲಾಗಿಲ್ಲ.\n\nನಿಮ್ಮ ಸಾಧನವನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"ಪ್ರೈವೆಟ್ ಸ್ಪೇಸ್ ಅನ್ನು ಅಳಿಸಿ"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ನೀವು ಪ್ರೈವೆಟ್ ಸ್ಪೇಸ್ ಅನ್ನು ಹೊಂದಿದ್ದರೆ, ಅದನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ನಿಮ್ಮ ಸ್ಪೇಸ್‌ಗೆ ಸೇರಿಸಲಾದ Google ಖಾತೆಯನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ. \n\nನಿಮ್ಮ ಸ್ಪೇಸ್‌ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಆ್ಯಪ್‌ಗಳು ಮತ್ತು ಅವುಗಳ ಡೇಟಾವನ್ನು ನಿಮ್ಮ ಫೋನ್‌ನ "<b>"ಆಂತರಿಕ ಸಂಗ್ರಹಣೆಯಿಂದ"</b>" ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ನೀವು ಪ್ರೈವೆಟ್ ಸ್ಪೇಸ್ ಅನ್ನು ಹೊಂದಿದ್ದರೆ, ಅದನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ನಿಮ್ಮ ಸ್ಪೇಸ್‌ಗೆ ಸೇರಿಸಲಾದ Cube ಖಾತೆಯನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ. \n\nನಿಮ್ಮ ಸ್ಪೇಸ್‌ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಆ್ಯಪ್‌ಗಳು ಮತ್ತು ಅವುಗಳ ಡೇಟಾವನ್ನು ನಿಮ್ಮ ಫೋನ್‌ನ "<b>"ಆಂತರಿಕ ಸಂಗ್ರಹಣೆಯಿಂದ"</b>" ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ."</string>
     <string name="main_clear_title" msgid="277664302144837723">"ಎಲ್ಲಾ ಡೇಟಾ ಅಳಿಸಿ (ಫ್ಯಾಕ್ಟರಿ ರೀಸೆಟ್)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"ಡೇಟಾ ಅಳಿಸಿ (ಫ್ಯಾಕ್ಟರಿ ರಿಸೆಟ್)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"ಸಂಗೀತ"</li>\n<li>"ಫೋಟೋಗಳು"</li>\n<li>"ಬಳಕೆದಾರರ ಇತರ ಡೇಟಾ"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"ಪಿನ್‌ ಪರಿಶೀಲಿಸಿ"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"ಪಾಸ್‌ವರ್ಡ್‌ ಪರಿಶೀಲಿಸಿ"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"ನೀವೆಂದು ದೃಢೀಕರಿಸಿ"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google ಖಾತೆಗಳು, ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ಇನ್ನಷ್ಟನ್ನು ವರ್ಗಾಯಿಸಲು, ನಿಮ್ಮ ಇತರ ಸಾಧನದ ಪ್ಯಾಟರ್ನ್ ಅನ್ನು ನಮೂದಿಸಿ. ನಿಮ್ಮ ಪ್ಯಾಟರ್ನ್ ಅನ್ನು ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗಿದೆ."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google ಖಾತೆಗಳು, ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ಇನ್ನಷ್ಟನ್ನು ವರ್ಗಾಯಿಸಲು, ನಿಮ್ಮ ಇತರ ಸಾಧನದ PIN ಅನ್ನು ನಮೂದಿಸಿ. ನಿಮ್ಮ ಪಿನ್ ಅನ್ನು ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗಿದೆ."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google ಖಾತೆಗಳು, ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ಇನ್ನಷ್ಟನ್ನು ವರ್ಗಾಯಿಸಲು, ನಿಮ್ಮ ಇತರ ಸಾಧನದ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ನಮೂದಿಸಿ. ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗಿದೆ."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube ಖಾತೆಗಳು, ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ಇನ್ನಷ್ಟನ್ನು ವರ್ಗಾಯಿಸಲು, ನಿಮ್ಮ ಇತರ ಸಾಧನದ ಪ್ಯಾಟರ್ನ್ ಅನ್ನು ನಮೂದಿಸಿ. ನಿಮ್ಮ ಪ್ಯಾಟರ್ನ್ ಅನ್ನು ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗಿದೆ."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube ಖಾತೆಗಳು, ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ಇನ್ನಷ್ಟನ್ನು ವರ್ಗಾಯಿಸಲು, ನಿಮ್ಮ ಇತರ ಸಾಧನದ PIN ಅನ್ನು ನಮೂದಿಸಿ. ನಿಮ್ಮ ಪಿನ್ ಅನ್ನು ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗಿದೆ."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube ಖಾತೆಗಳು, ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ಇನ್ನಷ್ಟನ್ನು ವರ್ಗಾಯಿಸಲು, ನಿಮ್ಮ ಇತರ ಸಾಧನದ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ನಮೂದಿಸಿ. ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗಿದೆ."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"ಈ ಸಾಧನವನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಪ್ಯಾಟರ್ನ್ ಬಳಸಿ"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"ಈ ಸಾಧನವನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಪಿನ್ ಸಹ ಬಳಸಿ"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"ಈ ಸಾಧನವನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ"</string>

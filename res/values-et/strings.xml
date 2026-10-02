@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Biomeetria nurjus liiga palju kordi. Proovige uuesti."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Saate hallata identiteedikontrolli vargusevastase kaitse seadetes. Ava seaded"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Jätkamiseks on vaja biomeetrilisi andmeid"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Identiteedikontroll on sisse lülitatud ja nõuab biomeetrilist teavet, kuid teie näo- või sõrmejäljeandur pole saadaval\n"<ul><li>"Kontrollige, kas kaamera on sisse lülitatud, seejärel proovige uuesti"</li>\n<li>"Saate oma Google\'i konto abil identiteedikontrolli välja lülitada"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Identiteedikontroll on sisse lülitatud ja nõuab biomeetrilist teavet, kuid teie näo- või sõrmejäljeandur pole saadaval\n"<ul><li>"Kontrollige, kas kaamera on sisse lülitatud, seejärel proovige uuesti"</li>\n<li>"Saate oma Cube\'i konto abil identiteedikontrolli välja lülitada"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Tühista"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"OK"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Ava identiteedikontroll"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Tühista"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Seadistamine"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Privaatne ruum"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Peitke või lukustage privaatsed rakendused eraldi ruumis. Lisaturvalisuse jaoks kasutage spetsiaalselt Google\'i kontot."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Peitke või lukustage privaatsed rakendused eraldi ruumis. Lisaturvalisuse jaoks kasutage spetsiaalselt Cube\'i kontot."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Kuidas see toimib?"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Looge oma ruumi jaoks Google\'i konto"</b>\n"Eraldi Google\'i konto kasutamine aitab vältida sünkroonitud failide, fotode ja meilide kuvamist väljaspool teie ruumi."</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Looge oma ruumi jaoks Cube\'i konto"</b>\n"Eraldi Cube\'i konto kasutamine aitab vältida sünkroonitud failide, fotode ja meilide kuvamist väljaspool teie ruumi."</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Luku seadistamine"</b>\n"Lukustage oma ruum, et teised ei saaks seda avada."</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Installige rakendused"</b>\n"Installige rakendused, mille soovite oma ruumis privaatsena hoida."</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Pidage meeles"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIM-e ei saa kustutada"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Midagi läks valesti ja teie eSIM-e ei kustutatud.\n\nTaaskäivitage seade ja proovige uuesti."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Privaatse ruumi kustutamine"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Kui teie seadmes on privaatne ruum, kustutatakse see jäädavalt ja ruumi lisatud Google\'i konto eemaldatakse. \n\nKõik teie ruumis olevad rakendused ja nende andmed kustutatakse jäädavalt ka teie telefoni "<b>"sisemisest salvestusruumist"</b>"."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Kui teie seadmes on privaatne ruum, kustutatakse see jäädavalt ja ruumi lisatud Cube\'i konto eemaldatakse. \n\nKõik teie ruumis olevad rakendused ja nende andmed kustutatakse jäädavalt ka teie telefoni "<b>"sisemisest salvestusruumist"</b>"."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Kõigi andmete kustutamine (tehaseseaded)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Kõigi andmete kustutamine (tehaseseaded)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Muusika"</li>\n<li>"Fotod"</li>\n<li>"Muud kasutajaandmed"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"PIN-koodi kinnitamine"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Parooli kinnitamine"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Isiku kinnitamine"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google\'i kontode, seadete ja muu ülekandmiseks sisestage oma teise seadme muster. Teie muster on krüpteeritud."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google\'i kontode, seadete ja muu ülekandmiseks sisestage oma teise seadme PIN-kood. Teie PIN-kood on krüpteeritud."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google\'i kontode, seadete ja muu ülekandmiseks sisestage oma teise seadme parool. Teie parool on krüpteeritud."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube\'i kontode, seadete ja muu ülekandmiseks sisestage oma teise seadme muster. Teie muster on krüpteeritud."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube\'i kontode, seadete ja muu ülekandmiseks sisestage oma teise seadme PIN-kood. Teie PIN-kood on krüpteeritud."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube\'i kontode, seadete ja muu ülekandmiseks sisestage oma teise seadme parool. Teie parool on krüpteeritud."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Kasuta mustrit ka selle seadme avamiseks"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Kasuta PIN-koodi ka selle seadme avamiseks"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Kasuta parooli ka selle seadme avamiseks"</string>

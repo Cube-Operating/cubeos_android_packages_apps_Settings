@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Troppi tentativi di biometria non riusciti. Riprova."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Puoi gestire la verifica dell\'identità nelle impostazioni di protezione dai furti. Vai alle Impostazioni"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Biometria obbligatoria per continuare"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"La verifica dell\'identità è attiva e richiede la biometria, ma il sensore di impronte digitali o del volto non è disponibile\n"<ul><li>"Controlla che la fotocamera sia accesa e riprova"</li>\n<li>"Puoi disattivare la verifica dell\'identità utilizzando il tuo Account Google"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"La verifica dell\'identità è attiva e richiede la biometria, ma il sensore di impronte digitali o del volto non è disponibile\n"<ul><li>"Controlla che la fotocamera sia accesa e riprova"</li>\n<li>"Puoi disattivare la verifica dell\'identità utilizzando il tuo Account Cube"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Annulla"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"Ok"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Vai alla verifica dell\'identità"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Annulla"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Configurazione"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Spazio privato"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Nascondi o blocca le app private in uno spazio separato. Usa un Account Google dedicato per una maggiore sicurezza."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Nascondi o blocca le app private in uno spazio separato. Usa un Account Cube dedicato per una maggiore sicurezza."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Come funziona"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Crea un Account Google per il tuo spazio"</b>\n"L\'utilizzo di un account dedicato consente di interrompere la sincronizzazione di file, foto e email al di fuori del tuo spazio"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Crea un Account Cube per il tuo spazio"</b>\n"L\'utilizzo di un account dedicato consente di interrompere la sincronizzazione di file, foto e email al di fuori del tuo spazio"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Imposta un blocco"</b>\n"Blocca il tuo spazio per impedire ad altre persone di aprirlo"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Installa le app"</b>\n"Installa le app che vuoi mantenere private nel tuo spazio"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Aspetti da considerare"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Impossibile resettare le eSIM"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Si è verificato un problema e le eSIM non sono state resettate.\n\nRiavvia il dispositivo e riprova."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Elimina spazio privato"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Se hai uno spazio privato sul tuo dispositivo, verrà eliminato definitivamente e l\'Account Google aggiunto allo spazio verrà rimosso. \n\nTutte le app e i relativi dati presenti nel tuo spazio verranno inoltre eliminati definitivamente dalla "<b>"memoria interna"</b>" dello smartphone."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Se hai uno spazio privato sul tuo dispositivo, verrà eliminato definitivamente e l\'Account Cube aggiunto allo spazio verrà rimosso. \n\nTutte le app e i relativi dati presenti nel tuo spazio verranno inoltre eliminati definitivamente dalla "<b>"memoria interna"</b>" dello smartphone."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Cancella tutti i dati (ripristino dei dati di fabbrica)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Cancella tutti i dati"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Musica"</li>\n<li>"Foto"</li>\n<li>"Altri dati utente"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Verifica PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Verifica password"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Verifica identità"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Per trasferire gli Account Google, le impostazioni e altro ancora, inserisci la sequenza dell\'altro dispositivo. La tua sequenza è criptata."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Per trasferire gli Account Google, le impostazioni e altro ancora, inserisci il PIN dell\'altro dispositivo. Il tuo PIN è criptato."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Per trasferire gli Account Google, le impostazioni e altro ancora, inserisci la password dell\'altro dispositivo. La tua password è criptata."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Per trasferire gli Account Cube, le impostazioni e altro ancora, inserisci la sequenza dell\'altro dispositivo. La tua sequenza è criptata."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Per trasferire gli Account Cube, le impostazioni e altro ancora, inserisci il PIN dell\'altro dispositivo. Il tuo PIN è criptato."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Per trasferire gli Account Cube, le impostazioni e altro ancora, inserisci la password dell\'altro dispositivo. La tua password è criptata."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Usa sequenza per sbloccare dispositivo"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Usa il PIN per sbloccare questo dispositivo"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Usa password per sbloccare dispositivo"</string>

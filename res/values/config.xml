@@ -254,7 +254,8 @@
     <bool name="config_show_branded_account_in_device_info">true</bool>
 
     <!-- Whether or not device header widget tile should display in device info page -->
-    <bool name="config_show_device_header_in_device_info">true</bool>
+    <!-- CubeOS: off; About phone shows the CubeOS header (cube_device_header) instead. -->
+    <bool name="config_show_device_header_in_device_info">false</bool>
 
     <!-- Whether or not TopLevelSettings should force rounded icon for injected tiles -->
     <bool name="config_force_rounded_icon_TopLevelSettings">false</bool>

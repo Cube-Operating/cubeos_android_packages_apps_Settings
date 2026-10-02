@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"ជីវមាត្រមិនបានសម្រេចច្រើនដងពេក។ សូមព្យាយាមម្ដងទៀត។"</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"អ្នកអាចគ្រប់គ្រងការត្រួតពិនិត្យអត្តសញ្ញាណនៅក្នុងការកំណត់ការការពារចោរលួច។ ចូលទៅកាន់ការកំណត់"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"តម្រូវឱ្យមានជីវមាត្រ ដើម្បីបន្ត"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ការត្រួតពិនិត្យអត្តសញ្ញាណត្រូវបានបើក និងតម្រូវឱ្យមានជីវមាត្រ ប៉ុន្តែមិនអាចប្រើសេនស័រចាប់ស្នាមម្រាមដៃ ឬមុខរបស់អ្នកបានទេ\n"<ul><li>"ពិនិត្យមើលថាកាមេរ៉ារបស់អ្នកត្រូវបានបើក រួចព្យាយាមម្ដងទៀត"</li>\n<li>"អ្នកអាចបិទការត្រួតពិនិត្យអត្តសញ្ញាណដោយប្រើគណនី Google របស់អ្នក"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ការត្រួតពិនិត្យអត្តសញ្ញាណត្រូវបានបើក និងតម្រូវឱ្យមានជីវមាត្រ ប៉ុន្តែមិនអាចប្រើសេនស័រចាប់ស្នាមម្រាមដៃ ឬមុខរបស់អ្នកបានទេ\n"<ul><li>"ពិនិត្យមើលថាកាមេរ៉ារបស់អ្នកត្រូវបានបើក រួចព្យាយាមម្ដងទៀត"</li>\n<li>"អ្នកអាចបិទការត្រួតពិនិត្យអត្តសញ្ញាណដោយប្រើគណនី Cube របស់អ្នក"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"បោះបង់"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"យល់ព្រម"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"ចូលទៅកាន់ការត្រួតពិនិត្យអត្តសញ្ញាណ"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"បោះបង់"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"រៀបចំ"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"លំហ​ឯកជន"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"លាក់ ឬចាក់សោកម្មវិធីឯកជននៅក្នុងលំហដាច់ដោយឡែក។ ប្រើគណនី Google ដាច់ដោយឡែកសម្រាប់សុវត្ថិភាពបន្ថែម។"</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"លាក់ ឬចាក់សោកម្មវិធីឯកជននៅក្នុងលំហដាច់ដោយឡែក។ ប្រើគណនី Cube ដាច់ដោយឡែកសម្រាប់សុវត្ថិភាពបន្ថែម។"</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"របៀបដែលវាដំណើរការ"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"បង្កើតគណនី Google សម្រាប់លំហរបស់អ្នក"</b>\n"ប្រសិនបើអ្នកប្រើគណនីដាច់ដោយឡែក ការធ្វើបែបនេះជួយបញ្ឈប់ឯកសារ រូបថត និងអ៊ីមែលដែលបានធ្វើសមកាលកម្ម មិនឱ្យបង្ហាញឡើងនៅខាងក្រៅលំហរបស់អ្នក"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"បង្កើតគណនី Cube សម្រាប់លំហរបស់អ្នក"</b>\n"ប្រសិនបើអ្នកប្រើគណនីដាច់ដោយឡែក ការធ្វើបែបនេះជួយបញ្ឈប់ឯកសារ រូបថត និងអ៊ីមែលដែលបានធ្វើសមកាលកម្ម មិនឱ្យបង្ហាញឡើងនៅខាងក្រៅលំហរបស់អ្នក"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"កំណត់សោ"</b>\n"ចាក់សោលំហរបស់អ្នក ដើម្បីកុំឱ្យអ្នកដទៃបើកវាបាន"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"ដំឡើងកម្មវិធី"</b>\n"ដំឡើងកម្មវិធីដែលអ្នកចង់រក្សាឱ្យមានភាពឯកជននៅក្នុងលំហរបស់អ្នក"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"សូមចងចាំ"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"មិនអាចលុប eSIM បានទេ"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"មានអ្វីមួយ​ខុសប្រក្រតី ហើយ eSIM របស់អ្នកមិនត្រូវបានលុបទេ។\n\nសូមចាប់ផ្ដើមឧបករណ៍របស់អ្នកឡើងវិញ រួចព្យាយាមម្ដងទៀត។"</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"លុបលំហឯកជន"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"ប្រសិនបើអ្នកមានលំហឯកជននៅលើឧបករណ៍របស់អ្នក លំហនោះនឹងត្រូវបានលុបជាអចិន្ត្រៃយ៍ ហើយគណនី Google ដែលបានបញ្ចូលទៅលំហរបស់អ្នកនឹងត្រូវបានដកចេញ។ \n\nកម្មវិធីទាំងអស់នៅក្នុងលំហរបស់អ្នក និងទិន្នន័យរបស់កម្មវិធីទាំងនោះក៏នឹងត្រូវបានលុបជាអចិន្ត្រៃយ៍ពី"<b>"ទំហំ​​ផ្ទុក​ខាង​ក្នុង"</b>"របស់ទូរសព្ទអ្នកផងដែរ។"</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"ប្រសិនបើអ្នកមានលំហឯកជននៅលើឧបករណ៍របស់អ្នក លំហនោះនឹងត្រូវបានលុបជាអចិន្ត្រៃយ៍ ហើយគណនី Cube ដែលបានបញ្ចូលទៅលំហរបស់អ្នកនឹងត្រូវបានដកចេញ។ \n\nកម្មវិធីទាំងអស់នៅក្នុងលំហរបស់អ្នក និងទិន្នន័យរបស់កម្មវិធីទាំងនោះក៏នឹងត្រូវបានលុបជាអចិន្ត្រៃយ៍ពី"<b>"ទំហំ​​ផ្ទុក​ខាង​ក្នុង"</b>"របស់ទូរសព្ទអ្នកផងដែរ។"</string>
     <string name="main_clear_title" msgid="277664302144837723">"លុបទិន្នន័យទាំងអស់ (កំណត់ដូច​ចេញពីរោងចក្រ)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"លុបទិន្នន័យទាំងអស់ (កំណត់ដូច​ចេញពីរោងចក្រ)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"តន្ត្រី"</li>\n<li>"រូបថត"</li>\n<li>"ទិន្នន័យ​អ្នក​ប្រើ​ប្រាស់ផ្សេង​ទៀត"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"ផ្ទៀងផ្ទាត់កូដ​PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"ផ្ទៀងផ្ទាត់​ពាក្យសម្ងាត់"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"ផ្ទៀងផ្ទាត់ថាជាអ្នក"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"ដើម្បីផ្ទេរគណនី Google, ការកំណត់ និងអ្វីៗជាច្រើនទៀត សូមបញ្ចូលលំនាំឧបករណ៍ផ្សេងទៀតរបស់អ្នក។ លំនាំរបស់អ្នកត្រូវបានអ៊ីនគ្រីប។"</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"ដើម្បីផ្ទេរគណនី Google, ការកំណត់ និងអ្វីៗជាច្រើនទៀត សូមបញ្ចូលកូដ PIN ឧបករណ៍ផ្សេងទៀតរបស់អ្នក។ កូដ PIN របស់អ្នកត្រូវបានអ៊ីនគ្រីប។"</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"ដើម្បីផ្ទេរគណនី Google, ការកំណត់ និងអ្វីៗជាច្រើនទៀត សូមបញ្ចូលពាក្យសម្ងាត់ឧបករណ៍ផ្សេងទៀតរបស់អ្នក។ ពាក្យសម្ងាត់របស់អ្នកត្រូវបានអ៊ីនគ្រីប។"</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"ដើម្បីផ្ទេរគណនី Cube, ការកំណត់ និងអ្វីៗជាច្រើនទៀត សូមបញ្ចូលលំនាំឧបករណ៍ផ្សេងទៀតរបស់អ្នក។ លំនាំរបស់អ្នកត្រូវបានអ៊ីនគ្រីប។"</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"ដើម្បីផ្ទេរគណនី Cube, ការកំណត់ និងអ្វីៗជាច្រើនទៀត សូមបញ្ចូលកូដ PIN ឧបករណ៍ផ្សេងទៀតរបស់អ្នក។ កូដ PIN របស់អ្នកត្រូវបានអ៊ីនគ្រីប។"</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"ដើម្បីផ្ទេរគណនី Cube, ការកំណត់ និងអ្វីៗជាច្រើនទៀត សូមបញ្ចូលពាក្យសម្ងាត់ឧបករណ៍ផ្សេងទៀតរបស់អ្នក។ ពាក្យសម្ងាត់របស់អ្នកត្រូវបានអ៊ីនគ្រីប។"</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"ប្រើលំនាំដើម្បីដោះសោឧបករណ៍នេះផងដែរ"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"ប្រើកូដ PIN ដើម្បីដោះសោឧបករណ៍នេះផងដែរ"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"ប្រើពាក្យសម្ងាត់ដើម្បីដោះសោឧបករណ៍នេះផងដែរ"</string>

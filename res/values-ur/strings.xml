@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"بایومیٹرکس کئی بار ناکام ہوئے۔ دوبارہ کوشش کریں۔"</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"آپ چوری سے تحفظ کی ترتیبات میں شناختی چیک کا نظم کر سکتے ہیں۔ ترتیبات پر جائیں"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"جاری رکھنے کے لیے بائیو میٹرک درکار ہے"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"‏شناختی چیک آن ہے اور اس کے لیے بائیو میٹرک کی ضرورت ہے، لیکن آپ کا چہرہ یا فنگر پرنٹ سینسر دستیاب نہیں ہے\n"<ul><li>"چیک کریں کہ آپ کا کیمرا آن ہے اور دوبارہ کوشش کریں"</li>\n<li>"آپ اپنے Google اکاؤنٹ کا استعمال کر کے شناختی چیک کو آف کر سکتے ہیں"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"‏شناختی چیک آن ہے اور اس کے لیے بائیو میٹرک کی ضرورت ہے، لیکن آپ کا چہرہ یا فنگر پرنٹ سینسر دستیاب نہیں ہے\n"<ul><li>"چیک کریں کہ آپ کا کیمرا آن ہے اور دوبارہ کوشش کریں"</li>\n<li>"آپ اپنے Cube اکاؤنٹ کا استعمال کر کے شناختی چیک کو آف کر سکتے ہیں"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"منسوخ کریں"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"ٹھیک ہے"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"شناختی چیک پر جائیں"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"منسوخ کریں"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"سیٹ اپ کریں"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"پرائیویٹ اسپیس"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"‏نجی ایپس کو الگ اسپیس میں چھپائیں یا مقفل کریں۔ اضافی سیکیورٹی کے لیے ایک مخصوص Google اکاؤنٹ استعمال کریں۔"</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"‏نجی ایپس کو الگ اسپیس میں چھپائیں یا مقفل کریں۔ اضافی سیکیورٹی کے لیے ایک مخصوص Cube اکاؤنٹ استعمال کریں۔"</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"یہ کیسے کام کرتی ہے"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320">"‏"<b>"اپنی اسپیس کیلئے ایک Google اکاؤنٹ بنائیں"</b>\n"اگر آپ ایک وقف شدہ اکاؤنٹ استعمال کرتے ہیں تو اس سے آپ کی اسپیس کے باہر دکھائی دینے والی سنک کردہ فائلز، تصاویر اور ای میلز کو روکنے میں مدد ملتی ہے"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320">"‏"<b>"اپنی اسپیس کیلئے ایک Cube اکاؤنٹ بنائیں"</b>\n"اگر آپ ایک وقف شدہ اکاؤنٹ استعمال کرتے ہیں تو اس سے آپ کی اسپیس کے باہر دکھائی دینے والی سنک کردہ فائلز، تصاویر اور ای میلز کو روکنے میں مدد ملتی ہے"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"ایک قفل سیٹ کریں"</b>\n" دوسرے لوگوں کو اسے کھولنے سے روکنے کے لیے اپنی اسپیس کو مقفل کریں"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"ایپس انسٹال کریں"</b>\n"وہ ایپس انسٹال کریں جنہیں آپ اپنی اسپیس میں نجی رکھنا چاہتے ہیں"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"یاد رکھیں"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"‏eSIMs کو مٹایا نہیں کیا جا سکتا"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"‏کچھ غلط ہو گیا اور آپ کی eSIMs نہیں مٹائی گئیں۔\n\nاپنا آلہ ری سٹارٹ کریں اور دوبارہ کوشش کریں۔"</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"پرائیویٹ اسپیس حذف کریں"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"‏اگر آپ کے آلے پر پرائیویٹ اسپیس ہے تو اسے مستقل طور پر حذف کر دیا جائے گا اور آپ کی اسپیس میں شامل کردہ Google اکاؤنٹ کو ہٹا دیا جائے گا۔ \n\nآپ کی اسپیس میں موجود تمام ایپس اور ان کا ڈیٹا بھی آپ کے فون کی "<b>"داخلی اسٹوریج"</b>" سے مستقل طور پر حذف ہو جائے گا۔"</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"‏اگر آپ کے آلے پر پرائیویٹ اسپیس ہے تو اسے مستقل طور پر حذف کر دیا جائے گا اور آپ کی اسپیس میں شامل کردہ Cube اکاؤنٹ کو ہٹا دیا جائے گا۔ \n\nآپ کی اسپیس میں موجود تمام ایپس اور ان کا ڈیٹا بھی آپ کے فون کی "<b>"داخلی اسٹوریج"</b>" سے مستقل طور پر حذف ہو جائے گا۔"</string>
     <string name="main_clear_title" msgid="277664302144837723">"سبھی ڈیٹا کو حذف کریں (فیکٹری ری سیٹ)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"سبھی ڈیٹا کو حذف کریں (فیکٹری ری سیٹ)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"موسیقی"</li>\n<li>"تصاویر"</li>\n<li>"صارف کا دیگر ڈیٹا"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"‏PIN کی توثیق کریں"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"پاس ورڈ کی توثیق کریں"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"توثیق کریں کہ یہ آپ ہیں"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"‏Google اکاؤنٹس، ترتیبات وغیرہ کو منتقل کرنے کیلئے، اپنے دوسرے آلے کا پیٹرن درج کریں۔ آپ کا پیٹرن مرموز کردہ ہے۔"</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"‏Google اکاؤنٹس، ترتیبات وغیرہ کو منتقل کرنے کیلئے، اپنے دوسرے آلے کا PIN درج کریں۔ آپ کا PIN مرموز کردہ ہے۔"</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"‏Google اکاؤنٹ، ترتیبات وغیرہ کو منتقل کرنے کیلئے، اپنے دوسرے آلے کا پاس ورڈ درج کریں۔ آپ کا پاس ورڈ مرموز کردہ ہے۔"</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"‏Cube اکاؤنٹس، ترتیبات وغیرہ کو منتقل کرنے کیلئے، اپنے دوسرے آلے کا پیٹرن درج کریں۔ آپ کا پیٹرن مرموز کردہ ہے۔"</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"‏Cube اکاؤنٹس، ترتیبات وغیرہ کو منتقل کرنے کیلئے، اپنے دوسرے آلے کا PIN درج کریں۔ آپ کا PIN مرموز کردہ ہے۔"</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"‏Cube اکاؤنٹ، ترتیبات وغیرہ کو منتقل کرنے کیلئے، اپنے دوسرے آلے کا پاس ورڈ درج کریں۔ آپ کا پاس ورڈ مرموز کردہ ہے۔"</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"اس آلے کو غیر مقفل کرنے کیلئے پیٹرن بھی استعمال کریں"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"‏اس آلے کو غیر مقفل کرنے کیلئے PIN بھی استعمال کریں"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"اس آلے کو غیر مقفل کرنے کیلئے پاس ورڈ بھی استعمال کریں"</string>

@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Hệ thống nhận dạng sinh trắc học xác minh không thành công quá nhiều lần. Hãy thử lại."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Bạn có thể quản lý tính năng Kiểm tra danh tính trong phần cài đặt bảo vệ chống trộm. Chuyển đến phần Cài đặt"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Cần có dữ liệu sinh trắc học để tiếp tục"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Tính năng Kiểm tra danh tính đang bật và cần có dữ liệu sinh trắc học, nhưng cảm biến vân tay hoặc khuôn mặt của bạn không hoạt động\n"<ul><li>"Hãy kiểm tra xem camera của bạn có đang bật hay không rồi thử lại"</li>\n<li>"Bạn có thể tắt tính năng Kiểm tra danh tính bằng Tài khoản Google của mình"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Tính năng Kiểm tra danh tính đang bật và cần có dữ liệu sinh trắc học, nhưng cảm biến vân tay hoặc khuôn mặt của bạn không hoạt động\n"<ul><li>"Hãy kiểm tra xem camera của bạn có đang bật hay không rồi thử lại"</li>\n<li>"Bạn có thể tắt tính năng Kiểm tra danh tính bằng Tài khoản Cube của mình"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Huỷ"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"OK"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Chuyển đến phần kiểm tra danh tính"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Huỷ"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Thiết lập"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Không gian riêng tư"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Ẩn hoặc khoá các ứng dụng riêng tư trong một không gian riêng biệt. Sử dụng một Tài khoản Google chuyên dụng để tăng cường bảo mật."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Ẩn hoặc khoá các ứng dụng riêng tư trong một không gian riêng biệt. Sử dụng một Tài khoản Cube chuyên dụng để tăng cường bảo mật."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Cách hoạt động"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Tạo Tài khoản Google cho không gian của bạn"</b>\n"Việc bạn dùng một tài khoản chuyên dụng sẽ giúp ngăn không cho các tệp, ảnh và email đã đồng bộ hoá xuất hiện bên ngoài không gian của bạn"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Tạo Tài khoản Cube cho không gian của bạn"</b>\n"Việc bạn dùng một tài khoản chuyên dụng sẽ giúp ngăn không cho các tệp, ảnh và email đã đồng bộ hoá xuất hiện bên ngoài không gian của bạn"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Thiết lập khoá"</b>\n"Khoá không gian của bạn để người khác không mở được"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Cài đặt ứng dụng"</b>\n"Cài đặt những ứng dụng bạn muốn giữ riêng tư trong không gian của mình"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Lưu ý"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Không xoá được eSIM"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Đã xảy ra lỗi nên không xoá được eSIM của bạn.\n\nHãy khởi động lại thiết bị rồi thử lại."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Xoá không gian riêng tư"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Nếu bạn có một không gian riêng tư trên thiết bị, thì không gian đó sẽ bị xoá vĩnh viễn và Tài khoản Google được thêm vào không gian đó sẽ bị xoá. \n\nMọi ứng dụng (và dữ liệu của ứng dụng) trong không gian đó cũng sẽ bị xoá vĩnh viễn khỏi "<b>"bộ nhớ trong"</b>" của điện thoại."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Nếu bạn có một không gian riêng tư trên thiết bị, thì không gian đó sẽ bị xoá vĩnh viễn và Tài khoản Cube được thêm vào không gian đó sẽ bị xoá. \n\nMọi ứng dụng (và dữ liệu của ứng dụng) trong không gian đó cũng sẽ bị xoá vĩnh viễn khỏi "<b>"bộ nhớ trong"</b>" của điện thoại."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Xóa mọi dữ liệu (đặt lại về trạng thái ban đầu)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Xóa mọi dữ liệu (đặt lại về trạng thái ban đầu)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Nhạc"</li>\n<li>"Ảnh"</li>\n<li>"Dữ liệu khác của người dùng"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Xác minh mã PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Xác minh mật khẩu"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Xác minh danh tính của bạn"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Để chuyển các Tài khoản Google, chế độ cài đặt và nhiều mục khác, hãy nhập hình mở khoá của thiết bị khác của bạn. Hình mở khoá của bạn được mã hoá."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Để chuyển các Tài khoản Google, chế độ cài đặt và nhiều mục khác, hãy nhập mã PIN của thiết bị khác của bạn. Mã PIN của bạn được mã hoá."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Để chuyển các Tài khoản Google, chế độ cài đặt và nhiều mục khác, hãy nhập mật khẩu của thiết bị khác của bạn. Mật khẩu của bạn được mã hoá."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Để chuyển các Tài khoản Cube, chế độ cài đặt và nhiều mục khác, hãy nhập hình mở khoá của thiết bị khác của bạn. Hình mở khoá của bạn được mã hoá."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Để chuyển các Tài khoản Cube, chế độ cài đặt và nhiều mục khác, hãy nhập mã PIN của thiết bị khác của bạn. Mã PIN của bạn được mã hoá."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Để chuyển các Tài khoản Cube, chế độ cài đặt và nhiều mục khác, hãy nhập mật khẩu của thiết bị khác của bạn. Mật khẩu của bạn được mã hoá."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Cũng dùng hình mở khoá để mở khoá thiết bị này"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Cũng dùng mã PIN để mở khoá thiết bị này"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Cũng dùng mật khẩu để mở khoá thiết bị này"</string>

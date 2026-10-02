@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Կենսաչափական տվյալները հաստատելու չափազանց շատ անհաջող փորձեր են արվել։ Նորից փորձեք։"</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Դուք կարող եք փոխել ինքնության ստուգման կարգավորումները գողությունից պաշտպանության կարգավորումներում։ Անցնել Կարգավորումներ"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Պահանջվում է կենսաչափական տվյալների հաստատում"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Ինքնության ստուգումը միացված է, սակայն կենսաչափական տվյալները չհաջողվեց հաստատել, քանի որ դեմքի կամ մատնահետքերի սկաները հասանելի չէ\n"<ul><li>"Համոզվեք, որ ձեր տեսախցիկը միացված է, և նորից փորձեք"</li>\n<li>"Դուք կարող եք անջատել ինքնության ստուգումը ձեր Google հաշվում"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Ինքնության ստուգումը միացված է, սակայն կենսաչափական տվյալները չհաջողվեց հաստատել, քանի որ դեմքի կամ մատնահետքերի սկաները հասանելի չէ\n"<ul><li>"Համոզվեք, որ ձեր տեսախցիկը միացված է, և նորից փորձեք"</li>\n<li>"Դուք կարող եք անջատել ինքնության ստուգումը ձեր Cube հաշվում"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Չեղարկել"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"Եղավ"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Ինքնության ստուգման կարգավորումներ"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Չեղարկել"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Կարգավորել"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Մասնավոր տարածք"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Թաքցրեք կամ կողպեք անձնական հավելվածները առանձին տարածքում։ Անվտանգության նկատառումներից ելնելով՝ օգտագործեք առանձին Google հաշիվ։"</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Թաքցրեք կամ կողպեք անձնական հավելվածները առանձին տարածքում։ Անվտանգության նկատառումներից ելնելով՝ օգտագործեք առանձին Cube հաշիվ։"</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Ինչպես է դա աշխատում"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Ստեղծեք Google հաշիվ ձեր տարածքի համար"</b>\n"Եթե առանձին հաշիվ եք օգտագործում, դա կօգնի կանխել համաժամացված ֆայլերի, լուսանկարների և էլ. նամակների հայտնվելը ձեր տարածքից դուրս"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Ստեղծեք Cube հաշիվ ձեր տարածքի համար"</b>\n"Եթե առանձին հաշիվ եք օգտագործում, դա կօգնի կանխել համաժամացված ֆայլերի, լուսանկարների և էլ. նամակների հայտնվելը ձեր տարածքից դուրս"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Կարգավորեք կողպում"</b>\n"Կողպեք ձեր տարածքը, որպեսզի մյուսները չկարողանան բացել այն"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Տեղադրեք հավելվածներ"</b>\n"Ձեր տարածքում տեղադրեք հավելվածներ, որոնք չեք ուզում, որ ցուցադրվեն"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Հիշեք"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Չհաջողվեց ջնջել eSIM քարտերը"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Սխալի պատճառով eSIM քարտերը չեն ջնջվել։\n\nՎերագործարկեք սարքը և նորից փորձեք։"</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Ջնջել մասնավոր տարածքը"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Եթե ձեր սարքում մասնավոր տարածք ունեք, այն ընդմիշտ կջնջվի, և ձեր տարածքում ավելացված Google հաշիվը կհեռացվի։ \n\nՁեր տարածքի բոլոր հավելվածները և դրանց տվյալները նույնպես ընդմիշտ կջնջվեն ձեր հեռախոսի "<b>"ներքին հիշողությունից"</b>"։"</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Եթե ձեր սարքում մասնավոր տարածք ունեք, այն ընդմիշտ կջնջվի, և ձեր տարածքում ավելացված Cube հաշիվը կհեռացվի։ \n\nՁեր տարածքի բոլոր հավելվածները և դրանց տվյալները նույնպես ընդմիշտ կջնջվեն ձեր հեռախոսի "<b>"ներքին հիշողությունից"</b>"։"</string>
     <string name="main_clear_title" msgid="277664302144837723">"Ջնջել բոլոր տվյալները (գործ. վերակայում)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Ջնջել բոլոր տվյալները (գործ. վերակայում)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Երաժշտությունը"</li>\n<li>"Լուսանկարները"</li>\n<li>"Օգտատիրոջ մյուս տվյալները"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Հաստատեք PIN կոդը"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Հաստատեք գաղտնաբառը"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Անձի հաստատում"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Մուտքագրեք ձեր մյուս սարքի նախշը՝ Google հաշիվները, կարգավորումները և այլ տվյալներ տեղափոխելու համար։ Նախշը գաղտնագրված է։"</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Մուտքագրեք ձեր մյուս սարքի PIN կոդը՝ Google հաշիվները, կարգավորումները և այլ տվյալներ տեղափոխելու համար։ PIN-ը գաղտնագրված է։"</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Մուտքագրեք ձեր մյուս սարքի գաղտնաբառը՝ Google հաշիվները, կարգավորումները և այլ տվյալներ տեղափոխելու համար։ Գաղտնաբառը գաղտնագրված է։"</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Մուտքագրեք ձեր մյուս սարքի նախշը՝ Cube հաշիվները, կարգավորումները և այլ տվյալներ տեղափոխելու համար։ Նախշը գաղտնագրված է։"</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Մուտքագրեք ձեր մյուս սարքի PIN կոդը՝ Cube հաշիվները, կարգավորումները և այլ տվյալներ տեղափոխելու համար։ PIN-ը գաղտնագրված է։"</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Մուտքագրեք ձեր մյուս սարքի գաղտնաբառը՝ Cube հաշիվները, կարգավորումները և այլ տվյալներ տեղափոխելու համար։ Գաղտնաբառը գաղտնագրված է։"</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Սարքն ապակողպել նաև նախշի միջոցով"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Սարքն ապակողպել նաև PIN կոդի միջոցով"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Սարքն ապակողպել նաև գաղտնաբառի միջոցով"</string>

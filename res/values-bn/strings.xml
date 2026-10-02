@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"একাধিকবার বায়োমেট্রিক কাজ করেনি। আবার চেষ্টা করুন।"</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"চুরি থেকে সুরক্ষা পাওয়ার সেটিংসে গিয়ে আপনি পরিচয় চেক করার সেটিংস ম্যানেজ করতে পারবেন। সেটিংসে যান"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"চালিয়ে যেতে বায়োমেট্রিক প্রয়োজন"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"পরিচয় চেক করার সেটিংস চালু করা আছে এবং বায়োমেট্রিক প্রয়োজন, কিন্তু আপনার ফেস বা ফিঙ্গারপ্রিন্ট সেন্সর উপলভ্য নেই\n"<ul><li>"আপনার ক্যামেরা চালু করা আছে কিনা তা দেখে নিয়ে আবার চেষ্টা করুন"</li>\n<li>"Google অ্যাকাউন্ট ব্যবহার করে আপনি পরিচয় চেক করার সেটিংস বন্ধ করতে পারবেন"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"পরিচয় চেক করার সেটিংস চালু করা আছে এবং বায়োমেট্রিক প্রয়োজন, কিন্তু আপনার ফেস বা ফিঙ্গারপ্রিন্ট সেন্সর উপলভ্য নেই\n"<ul><li>"আপনার ক্যামেরা চালু করা আছে কিনা তা দেখে নিয়ে আবার চেষ্টা করুন"</li>\n<li>"Cube অ্যাকাউন্ট ব্যবহার করে আপনি পরিচয় চেক করার সেটিংস বন্ধ করতে পারবেন"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"বাতিল করুন"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"ঠিক আছে"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"পরিচয় চেক করার সেটিংসে যান"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"বাতিল করুন"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"সেট-আপ করুন"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"প্রাইভেট স্পেস"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"প্রাইভেট অ্যাপ আলাদা একটি স্পেসে লুকিয়ে রাখুন বা লক করুন। অতিরিক্ত সুরক্ষার জন্য নির্দিষ্ট Google অ্যাকাউন্ট ব্যবহার করুন।"</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"প্রাইভেট অ্যাপ আলাদা একটি স্পেসে লুকিয়ে রাখুন বা লক করুন। অতিরিক্ত সুরক্ষার জন্য নির্দিষ্ট Cube অ্যাকাউন্ট ব্যবহার করুন।"</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"এটি কীভাবে কাজ করে"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"আপনার স্পেসের জন্য Google অ্যাকাউন্ট তৈরি করুন"</b>\n"আপনি নিজের স্পেসের জন্য নির্দিষ্ট অ্যাকাউন্ট ব্যবহার করলে, সেটি স্পেসের বাইরে সিঙ্ক করা ফাইল, ফটো এবং ইমেল দেখানো বন্ধ করতে সহায়তা করে"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"আপনার স্পেসের জন্য Cube অ্যাকাউন্ট তৈরি করুন"</b>\n"আপনি নিজের স্পেসের জন্য নির্দিষ্ট অ্যাকাউন্ট ব্যবহার করলে, সেটি স্পেসের বাইরে সিঙ্ক করা ফাইল, ফটো এবং ইমেল দেখানো বন্ধ করতে সহায়তা করে"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"লক সেট করুন"</b>\n"অন্যরা যাতে এই স্পেস খুলতে না পারে সেজন্য আপনার স্পেস লক করুন"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"অ্যাপ ইনস্টল করুন"</b>\n"আপনি নিজের স্পেসে যেসব অ্যাপ ব্যক্তিগত রাখতে চান সেগুলি ইনস্টল করুন"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"মনে রাখবেন"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"ই-সিম মোছা যাচ্ছে না"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"কিছু সমস্যা হয়েছে এবং আপনার ই-সিম মোছা যায়নি।\n\nআপনার ডিভাইস আবার চালু করে চেষ্টা করুন।"</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"প্রাইভেট স্পেস মুছুন"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"আপনার ডিভাইসে কোনও প্রাইভেট স্পেস থাকলে, তা স্থায়ীভাবে মুছে ফেলা হবে এবং আপনার স্পেসে যোগ করা Google অ্যাকাউন্ট সরিয়ে দেওয়া হবে। \n\nআপনার ফোনের "<b>"ইন্টার্নাল স্টোরেজ"</b>" থেকেও সব অ্যাপ ও তার ডেটা স্থায়ীভাবে মুছে যাবে।"</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"আপনার ডিভাইসে কোনও প্রাইভেট স্পেস থাকলে, তা স্থায়ীভাবে মুছে ফেলা হবে এবং আপনার স্পেসে যোগ করা Cube অ্যাকাউন্ট সরিয়ে দেওয়া হবে। \n\nআপনার ফোনের "<b>"ইন্টার্নাল স্টোরেজ"</b>" থেকেও সব অ্যাপ ও তার ডেটা স্থায়ীভাবে মুছে যাবে।"</string>
     <string name="main_clear_title" msgid="277664302144837723">"সমস্ত ডেটা মুছুন (ফ্যাক্টরি রিসেট)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"সমস্ত ডেটা মুছুন (ফ্যাক্টরি রিসেট)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"মিউজিক"</li>\n<li>"ফটো"</li>\n<li>"অন্যান্য ব্যবহারকারী ডেটা"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"পিন যাচাই করুন"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"পাসওয়ার্ড যাচাই করুন"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"নিজের পরিচয় যাচাই করুন"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google অ্যাকাউন্ট, সেটিংস ও আরও অনেক কিছু ট্রান্সফার করতে, অন্য ডিভাইসে ব্যবহার করা প্যাটার্ন দিন। আপনার প্যাটার্ন এনক্রিপ্ট করা আছে।"</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google অ্যাকাউন্ট, সেটিংস ও আরও অনেক কিছু ট্রান্সফার করতে, অন্য ডিভাইসে ব্যবহার করা পিন লিখুন। আপনার পিন এনক্রিপ্ট করা আছে।"</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google অ্যাকাউন্ট, সেটিংস ও আরও অনেক কিছু ট্রান্সফার করতে, অন্য ডিভাইসে ব্যবহার করা পাসওয়ার্ড লিখুন। আপনার পাসওয়ার্ড এনক্রিপ্ট করা আছে।"</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube অ্যাকাউন্ট, সেটিংস ও আরও অনেক কিছু ট্রান্সফার করতে, অন্য ডিভাইসে ব্যবহার করা প্যাটার্ন দিন। আপনার প্যাটার্ন এনক্রিপ্ট করা আছে।"</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube অ্যাকাউন্ট, সেটিংস ও আরও অনেক কিছু ট্রান্সফার করতে, অন্য ডিভাইসে ব্যবহার করা পিন লিখুন। আপনার পিন এনক্রিপ্ট করা আছে।"</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube অ্যাকাউন্ট, সেটিংস ও আরও অনেক কিছু ট্রান্সফার করতে, অন্য ডিভাইসে ব্যবহার করা পাসওয়ার্ড লিখুন। আপনার পাসওয়ার্ড এনক্রিপ্ট করা আছে।"</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"এই ডিভাইস আনলক করতে প্যাটার্নও ব্যবহার করুন"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"এই ডিভাইস আনলক করতে পিনও ব্যবহার করুন"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"এই ডিভাইস আনলক করতে পাসওয়ার্ডও ব্যবহার করুন"</string>

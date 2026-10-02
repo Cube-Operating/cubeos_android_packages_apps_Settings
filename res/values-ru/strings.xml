@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Слишком много неудачных попыток подтвердить биометрические данные. Попробуйте ещё раз."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Изменить параметры проверки личности можно в настройках защиты от кражи. Открыть настройки"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Требуется подтверждение биометрических данных"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Проверка личности включена, но биометрические данные подтвердить не удалось: камера или сканер отпечатков пальцев недоступны.\n"<ul><li>"Убедитесь, что камера включена, и повторите попытку."</li>\n<li>"Вы можете отключить проверку личности в аккаунте Google."</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Проверка личности включена, но биометрические данные подтвердить не удалось: камера или сканер отпечатков пальцев недоступны.\n"<ul><li>"Убедитесь, что камера включена, и повторите попытку."</li>\n<li>"Вы можете отключить проверку личности в аккаунте Cube."</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Отмена"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"ОК"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Настройки проверки личности"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Отмена"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Создать"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Частное пространство"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Создайте пространство для личных приложений, которое можно скрыть или защитить с помощью блокировки. В целях безопасности используйте отдельный аккаунт Google."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Создайте пространство для личных приложений, которое можно скрыть или защитить с помощью блокировки. В целях безопасности используйте отдельный аккаунт Cube."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Как это работает"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Создайте аккаунт Google для частного пространства"</b>\n"Так синхронизированные файлы, фотографии и электронные письма не будут видны вне частного пространства"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Создайте аккаунт Cube для частного пространства"</b>\n"Так синхронизированные файлы, фотографии и электронные письма не будут видны вне частного пространства"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Включите блокировку"</b>\n"Заблокируйте частное пространство, чтобы другие пользователи не могли его открыть"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Установите приложения"</b>\n"Доступ к ним будет только у вас"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Важно!"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Не получилось удалить eSIM-карты"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Не получилось удалить eSIM-карты.\n\nПерезапустите устройство и повторите попытку."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Удалить частное пространство"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Если вы создавали частное пространство, оно будет стерто без возможности восстановления, а добавленный в него аккаунт Google удален с устройства. \n\nВсе приложения и их данные, хранящиеся в частном пространстве, будут удалены из "<b>"внутренней памяти"</b>" телефона."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Если вы создавали частное пространство, оно будет стерто без возможности восстановления, а добавленный в него аккаунт Cube удален с устройства. \n\nВсе приложения и их данные, хранящиеся в частном пространстве, будут удалены из "<b>"внутренней памяти"</b>" телефона."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Удалить все данные"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Удалить все данные"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"музыка;"</li>\n<li>"фото;"</li>\n<li>"другие данные."</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Подтверждение PIN-кода"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Подтверждение пароля"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Проверка личности"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Для переноса учетных записей Google, настроек и прочего введите графический ключ от другого вашего устройства. Ключ зашифрован."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Для переноса учетных записей Google, настроек и прочего введите PIN-код от другого вашего устройства. PIN-код зашифрован."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Для переноса учетных записей Google, настроек и прочего введите пароль от другого вашего устройства. Пароль зашифрован."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Для переноса учетных записей Cube, настроек и прочего введите графический ключ от другого вашего устройства. Ключ зашифрован."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Для переноса учетных записей Cube, настроек и прочего введите PIN-код от другого вашего устройства. PIN-код зашифрован."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Для переноса учетных записей Cube, настроек и прочего введите пароль от другого вашего устройства. Пароль зашифрован."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Использовать графический ключ для разблокировки"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Использовать PIN-код для разблокировки"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Использовать пароль для разблокировки"</string>

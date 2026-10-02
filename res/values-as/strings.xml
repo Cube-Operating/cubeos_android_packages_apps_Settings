@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"বায়’মেট্ৰিক বহুবাৰ বিফল হৈছিল। পুনৰ চেষ্টা কৰক।"</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"আপুনি চুৰি প্ৰতিৰোধী ছেটিঙত পৰিচয় পৰীক্ষা কৰাৰ সুবিধা পৰিচালনা কৰিব পাৰে। ছেটিঙলৈ যাওক"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"অব্যাহত ৰাখিবলৈ বায়’মেট্ৰিকৰ প্ৰয়োজন"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"পৰিচয় পৰীক্ষা কৰাৰ সুবিধাটো অন হৈ আছে আৰু ইয়াৰ বাবে বায়’মেট্ৰিকৰ প্ৰয়োজন, কিন্তু আপোনাৰ মুখাৱয়ব বা ফিংগাৰপ্ৰিণ্ট ছেন্সৰ উপলব্ধ নহয়\n"<ul><li>"আপোনাৰ কেমেৰা অন আছে নে নাই পৰীক্ষা কৰক আৰু পুনৰ চেষ্টা কৰক"</li>\n<li>"আপুনি আপোনাৰ Google একাউণ্ট ব্যৱহাৰ কৰি পৰিচয় পৰীক্ষা কৰাৰ সুবিধাটো অফ কৰিব পাৰে"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"পৰিচয় পৰীক্ষা কৰাৰ সুবিধাটো অন হৈ আছে আৰু ইয়াৰ বাবে বায়’মেট্ৰিকৰ প্ৰয়োজন, কিন্তু আপোনাৰ মুখাৱয়ব বা ফিংগাৰপ্ৰিণ্ট ছেন্সৰ উপলব্ধ নহয়\n"<ul><li>"আপোনাৰ কেমেৰা অন আছে নে নাই পৰীক্ষা কৰক আৰু পুনৰ চেষ্টা কৰক"</li>\n<li>"আপুনি আপোনাৰ Cube একাউণ্ট ব্যৱহাৰ কৰি পৰিচয় পৰীক্ষা কৰাৰ সুবিধাটো অফ কৰিব পাৰে"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"বাতিল কৰক"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"ঠিক আছে"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"পৰিচয় সম্পৰ্কীয় পৰীক্ষালৈ যাওক"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"বাতিল কৰক"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"ছেট আপ কৰক"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"প্ৰাইভেট স্পে\'চ"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"ব্যক্তিগত এপ্‌সমূহ এটা পৃথক স্পেচত লুকুৱাই ৰাখক অথবা লক কৰি ৰাখক। অতিৰিক্ত নিৰাপত্তাৰ বাবে এটা সমৰ্পিত Google একাউণ্ট ব্যৱহাৰ কৰক।"</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"ব্যক্তিগত এপ্‌সমূহ এটা পৃথক স্পেচত লুকুৱাই ৰাখক অথবা লক কৰি ৰাখক। অতিৰিক্ত নিৰাপত্তাৰ বাবে এটা সমৰ্পিত Cube একাউণ্ট ব্যৱহাৰ কৰক।"</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"ই কিদৰে কাম কৰে"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"আপোনাৰ স্পে’চৰ বাবে এটা Google একাউণ্ট সৃষ্টি কৰক"</b>\n"যদি আপুনি এটা সমৰ্পিত একাউণ্ট ব্যৱহাৰ কৰে, তেন্তে ই আপোনাৰ ছিংক কৰা ফাইল, ফট’ আৰু ইমেইলবোৰ স্পে’চৰ বাহিৰত প্ৰদৰ্শিত হোৱাটো বন্ধ কৰাত সহায় কৰে"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"আপোনাৰ স্পে’চৰ বাবে এটা Cube একাউণ্ট সৃষ্টি কৰক"</b>\n"যদি আপুনি এটা সমৰ্পিত একাউণ্ট ব্যৱহাৰ কৰে, তেন্তে ই আপোনাৰ ছিংক কৰা ফাইল, ফট’ আৰু ইমেইলবোৰ স্পে’চৰ বাহিৰত প্ৰদৰ্শিত হোৱাটো বন্ধ কৰাত সহায় কৰে"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"লক ছেট কৰক"</b>\n"অন্য লোকে খোলাটো বন্ধ কৰিবলৈ আপোনাৰ স্পেচ লক কৰক"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"এপ্‌সমূহ ইনষ্টল কৰক"</b>\n"আপুনি আপোনাৰ স্পে’চত ব্যক্তিগত কৰি ৰাখিব বিচৰা এপ্‌সমূহ ইনষ্টল কৰক"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"মনত ৰাখিব"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"ই-ছিম মচিব নোৱাৰি"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"কিবা ভুল হ’ল আৰু আপোনাৰ ই-ছিম মচা হোৱা নাছিল।\n\nআপোনাৰ ডিভাইচ ৰিষ্টাৰ্ট কৰক আৰু পুনৰ চেষ্টা কৰক।"</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"প্ৰাইভেট স্পে\'চ মচক"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"যদি আপোনাৰ ডিভাইচত প্ৰাইভেট স্পে’চ আছে, সেয়া স্থায়ীভাৱে মচা হ’ব আৰু আপোনাৰ স্পে’চটোত যোগ দিয়া Google একাউণ্টটো আঁতৰোৱা হ’ব। \n\nআপোনাৰ স্পে’চত থকা আটাইবোৰ এপ্‌ আৰু সেইসমূহৰ ডেটা আপোনাৰ ফ’নৰ "<b>"অভ্যন্তৰীণ ষ্ট’ৰেজ"</b>"ৰ পৰা মচা হ’ব।"</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"যদি আপোনাৰ ডিভাইচত প্ৰাইভেট স্পে’চ আছে, সেয়া স্থায়ীভাৱে মচা হ’ব আৰু আপোনাৰ স্পে’চটোত যোগ দিয়া Cube একাউণ্টটো আঁতৰোৱা হ’ব। \n\nআপোনাৰ স্পে’চত থকা আটাইবোৰ এপ্‌ আৰু সেইসমূহৰ ডেটা আপোনাৰ ফ’নৰ "<b>"অভ্যন্তৰীণ ষ্ট’ৰেজ"</b>"ৰ পৰা মচা হ’ব।"</string>
     <string name="main_clear_title" msgid="277664302144837723">"আটাইবোৰ ডেটা মচক (ফেক্টৰী ৰিছেট)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"আটাইবোৰ ডেটা মচক (ফেক্টৰী ৰিছেট)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"সংগীত"</li>\n<li>"ফট’"</li>\n<li>"অন্য ব্যৱহাৰকাৰীৰ ডেটা"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"পিন সত্যাপন কৰক"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"পাছৱৰ্ড সত্যাপন কৰক"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"আপুনি বুলি সত্যাপন কৰক"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google একাউণ্ট, ছেটিং আৰু অধিক স্থানান্তৰণ কৰিবলৈ, আপোনাৰ অন্য ডিভাইচৰ আৰ্হি দিয়ক। আপোনাৰ আৰ্হিটো এনক্ৰিপ্ট কৰা আছে।"</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google একাউণ্ট, ছেটিং আৰু অধিক স্থানান্তৰণ কৰিবলৈ, আপোনাৰ অন্য ডিভাইচৰ পিন দিয়ক। আপোনাৰ পিনটো এনক্ৰিপ্ট কৰা আছে।"</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google একাউণ্ট, ছেটিং আৰু অধিক স্থানান্তৰণ কৰিবলৈ, আপোনাৰ অন্য ডিভাইচৰ পাছৱৰ্ড দিয়ক। আপোনাৰ পাছৱৰ্ডটো এনক্ৰিপ্ট কৰা আছে।"</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube একাউণ্ট, ছেটিং আৰু অধিক স্থানান্তৰণ কৰিবলৈ, আপোনাৰ অন্য ডিভাইচৰ আৰ্হি দিয়ক। আপোনাৰ আৰ্হিটো এনক্ৰিপ্ট কৰা আছে।"</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube একাউণ্ট, ছেটিং আৰু অধিক স্থানান্তৰণ কৰিবলৈ, আপোনাৰ অন্য ডিভাইচৰ পিন দিয়ক। আপোনাৰ পিনটো এনক্ৰিপ্ট কৰা আছে।"</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube একাউণ্ট, ছেটিং আৰু অধিক স্থানান্তৰণ কৰিবলৈ, আপোনাৰ অন্য ডিভাইচৰ পাছৱৰ্ড দিয়ক। আপোনাৰ পাছৱৰ্ডটো এনক্ৰিপ্ট কৰা আছে।"</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"এই ডিভাইচটো আনলক কৰিবলৈ আৰ্হি ব্যৱহাৰ কৰক"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"এই ডিভাইচটো আনলক কৰিবলৈ পিন ব্যৱহাৰ কৰক"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"এই ডিভাইচটো আনলক কৰিবলৈ পাছৱৰ্ড ব্যৱহাৰ কৰক"</string>

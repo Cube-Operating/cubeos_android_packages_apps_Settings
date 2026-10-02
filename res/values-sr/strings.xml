@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Биометрија није успела превише пута. Пробајте поново."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Провером идентитета можете да управљате у подешавањима заштите од крађе. Иди у Подешавања"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Биометрија је обавезна да бисте наставили"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Провера идентитета је укључена и захтева биометрију, али сензор за лице или отисак прста није доступан\n"<ul><li>"Проверите да ли је камера укључена и пробајте поново"</li>\n<li>"Можете да искључите Проверу идентитета помоћу Google налога"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Провера идентитета је укључена и захтева биометрију, али сензор за лице или отисак прста није доступан\n"<ul><li>"Проверите да ли је камера укључена и пробајте поново"</li>\n<li>"Можете да искључите Проверу идентитета помоћу Cube налога"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Откажи"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"Потврди"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Иди на проверу идентитета"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Откажи"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Подеси"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Приватни простор"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Сакријте или закључајте приватне апликације у засебном простору. Користите наменски Google налог ради додатне безбедности."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Сакријте или закључајте приватне апликације у засебном простору. Користите наменски Cube налог ради додатне безбедности."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Принцип рада"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Направите Google налог за простор"</b>\n"Ако користите наменски налог, спречавате да се синхронизовани фајлови, слике и имејлови приказују изван простора"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Направите Cube налог за простор"</b>\n"Ако користите наменски налог, спречавате да се синхронизовани фајлови, слике и имејлови приказују изван простора"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Подесите закључавање"</b>\n"Закључајте простор да други не би могли да га отворе"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Инсталирајте апликације"</b>\n"Апликације за које желите да буду приватне инсталирајте у простору"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Имајте на уму"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Брисање eSIM картица није успело"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Дошло је до грешке и eSIM картице нису избрисане.\n\nРестартујте уређај и пробајте поново."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Избриши приватан простор"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Ако на уређају имате приватни простор, биће трајно избрисан, а Google налог који је додат у простор ће бити уклоњен. \n\nСве апликације у вашем простору и њихови подаци ће такође бити трајно избрисани из "<b>"интерне меморије"</b>" телефона."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Ако на уређају имате приватни простор, биће трајно избрисан, а Cube налог који је додат у простор ће бити уклоњен. \n\nСве апликације у вашем простору и њихови подаци ће такође бити трајно избрисани из "<b>"интерне меморије"</b>" телефона."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Обриши све податке (фабричка подешавања)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Обриши све податке (фабричка подешавања)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"музику"</li>\n<li>"слике"</li>\n<li>"друге податке корисника"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Верификујте PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Верификујте лозинку"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Потврдите идентитет"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Да бисте пренели Google налоге, подешавања и друго, унесите шаблон другог уређаја. Шаблон је шифрован."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Да бисте пренели Google налоге, подешавања и друго, унесите PIN другог уређаја. PIN је шифрован."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Да бисте пренели Google налоге, подешавања и друго, унесите лозинку другог уређаја. Лозинка је шифрована."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Да бисте пренели Cube налоге, подешавања и друго, унесите шаблон другог уређаја. Шаблон је шифрован."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Да бисте пренели Cube налоге, подешавања и друго, унесите PIN другог уређаја. PIN је шифрован."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Да бисте пренели Cube налоге, подешавања и друго, унесите лозинку другог уређаја. Лозинка је шифрована."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Користите и шаблон за откључавање уређаја"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Користите и PIN за откључавање уређаја"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Користите и лозинку за откључавање уређаја"</string>

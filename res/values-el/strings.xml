@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Η χρήση βιομετρικών στοιχείων απέτυχε πάρα πολλές φορές. Δοκιμάστε ξανά."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Μπορείτε να διαχειριστείτε τον Έλεγχο ταυτότητας στις ρυθμίσεις προστασίας από κλοπή. Μετάβαση στις Ρυθμίσεις"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Απαιτούνται βιομετρικά στοιχεία, για να συνεχίσετε"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Ο Έλεγχος ταυτότητας είναι ενεργός και απαιτεί βιομετρικά στοιχεία, αλλά ο αισθητήρας προσώπου ή ο αισθητήρας δακτυλικών αποτυπωμάτων δεν είναι διαθέσιμος\n"<ul><li>"Ελέγξτε ότι η κάμερά σας είναι ενεργοποιημένη και δοκιμάστε ξανά"</li>\n<li>"Μπορείτε να απενεργοποιήσετε τον Έλεγχο ταυτότητας χρησιμοποιώντας τον Λογαριασμό σας Google"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Ο Έλεγχος ταυτότητας είναι ενεργός και απαιτεί βιομετρικά στοιχεία, αλλά ο αισθητήρας προσώπου ή ο αισθητήρας δακτυλικών αποτυπωμάτων δεν είναι διαθέσιμος\n"<ul><li>"Ελέγξτε ότι η κάμερά σας είναι ενεργοποιημένη και δοκιμάστε ξανά"</li>\n<li>"Μπορείτε να απενεργοποιήσετε τον Έλεγχο ταυτότητας χρησιμοποιώντας τον Λογαριασμό σας Cube"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Ακύρωση"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"ΟΚ"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Μετάβαση στον έλεγχο ταυτότητας"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Ακύρωση"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Ρύθμιση"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Ιδιωτικός χώρος"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Αποκρύψτε ή κλειδώστε ιδιωτικές εφαρμογές σε ξεχωριστό χώρο. Χρησιμοποιήστε έναν αποκλειστικό Λογαριασμό Google για επιπλέον ασφάλεια."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Αποκρύψτε ή κλειδώστε ιδιωτικές εφαρμογές σε ξεχωριστό χώρο. Χρησιμοποιήστε έναν αποκλειστικό Λογαριασμό Cube για επιπλέον ασφάλεια."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Πώς λειτουργεί"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Δημιουργήστε έναν Λογαριασμό Google για τον χώρο σας"</b>\n"Εάν χρησιμοποιείτε έναν αποκλειστικό λογαριασμό, μπορείτε να αποτρέψετε την εμφάνιση συγχρονισμένων αρχείων, φωτογραφιών και μηνυμάτων ηλεκτρονικού ταχυδρομείου εκτός του χώρου σας"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Δημιουργήστε έναν Λογαριασμό Cube για τον χώρο σας"</b>\n"Εάν χρησιμοποιείτε έναν αποκλειστικό λογαριασμό, μπορείτε να αποτρέψετε την εμφάνιση συγχρονισμένων αρχείων, φωτογραφιών και μηνυμάτων ηλεκτρονικού ταχυδρομείου εκτός του χώρου σας"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Ρύθμιση κλειδώματος"</b>\n"Κλειδώστε τον χώρο σας για να μην μπορούν να τον ανοίξουν άλλα άτομα"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Εγκατάσταση εφαρμογών"</b>\n"Εγκαταστήστε εφαρμογές που θέλετε να διατηρήσετε ιδιωτικές στον χώρο σας"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Να έχετε υπόψη τα εξής"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Δεν είναι δυνατή η διαγραφή των eSIM"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Προέκυψε πρόβλημα και οι eSIM δεν διαγράφηκαν.\n\nΕπανεκκινήστε τη συσκευή και δοκιμάστε ξανά."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Διαγραφή ιδιωτικού χώρου"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Εάν έχετε ιδιωτικό χώρο στη συσκευή σας θα διαγραφεί οριστικά και ο Λογαριασμός Google που έχει προστεθεί στον χώρο θα καταργηθεί. \n\nΌλες οι εφαρμογές και τα δεδομένα τους σε αυτόν τον χώρο θα διαγραφούν και αυτά οριστικά από τον "<b>"εσωτερικό αποθηκευτικό χώρο"</b>" του τηλεφώνου σας."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Εάν έχετε ιδιωτικό χώρο στη συσκευή σας θα διαγραφεί οριστικά και ο Λογαριασμός Cube που έχει προστεθεί στον χώρο θα καταργηθεί. \n\nΌλες οι εφαρμογές και τα δεδομένα τους σε αυτόν τον χώρο θα διαγραφούν και αυτά οριστικά από τον "<b>"εσωτερικό αποθηκευτικό χώρο"</b>" του τηλεφώνου σας."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Διαγραφή όλων των δεδομένων (επαναφ. ρυθμίσεων)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Διαγρ. δεδομ. (εργ. επαναφ.)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Μουσικής"</li>\n<li>"Φωτογραφιών"</li>\n<li>"Άλλων δεδομένων χρήστη"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Επιβεβαίωση κωδικού PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Επαλήθευση κωδικού πρόσβασης"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Επαλήθ. ταυτότ."</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Για να μεταφέρετε Λογαριασμούς Google, ρυθμίσεις και άλλα, εισαγάγετε το μοτίβο της άλλης συσκευής σας. Το μοτίβο είναι κρυπτογραφημένο."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Για να μεταφέρετε Λογαριασμούς Google, ρυθμίσεις και άλλα, εισαγάγετε το PIN της άλλης συσκευής σας. Το PIN είναι κρυπτογραφημένο."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Για να μεταφέρετε Λογαριασμούς Google, ρυθμίσεις και άλλα, εισαγάγετε τον κωδικό πρόσβασης της άλλης συσκευής σας. Ο κωδικός πρόσβασης είναι κρυπτογραφημένος."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Για να μεταφέρετε Λογαριασμούς Cube, ρυθμίσεις και άλλα, εισαγάγετε το μοτίβο της άλλης συσκευής σας. Το μοτίβο είναι κρυπτογραφημένο."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Για να μεταφέρετε Λογαριασμούς Cube, ρυθμίσεις και άλλα, εισαγάγετε το PIN της άλλης συσκευής σας. Το PIN είναι κρυπτογραφημένο."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Για να μεταφέρετε Λογαριασμούς Cube, ρυθμίσεις και άλλα, εισαγάγετε τον κωδικό πρόσβασης της άλλης συσκευής σας. Ο κωδικός πρόσβασης είναι κρυπτογραφημένος."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Χρήση μοτίβου για ξεκλείδωμα της συσκευής"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Χρήση PIN για ξεκλείδωμα της συσκευής"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Χρήση κωδ. πρόσβ. για ξεκλείδωμα συσκευής"</string>

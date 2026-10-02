@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"ბიომეტრიული მონაცემების დადასტურება მეტისმეტად ბევრჯერ დასრულდა წარუმატებლად. ცადეთ ხელახლა."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"„ვიდეობის შემოწმების“ მართვა ქურდობისგან დაცვის პარამეტებიდან შეგიძლიათ. „პარამეტრებზე“ გადასვლა"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"გასაგრძელებლად საჭიროა ბიომეტრიული მონაცემები"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"„ვინაობის შემოწმება“ ჩართულია და საჭიროებს ბიომეტრიულ მონაცემებს, თუმცა თქვენი სახის ან თითის ანაბეჭდის სენსორი ხელმისაწვდომი არ არის\n"<ul><li>"დარწმუნდით, რომ კამერა ჩართულია და ხელახლა ცადეთ"</li>\n<li>"Google ანგარიშის საშუალებით შეგიძლიათ „ვინაობის შემოწმების“ გამორთვა"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"„ვინაობის შემოწმება“ ჩართულია და საჭიროებს ბიომეტრიულ მონაცემებს, თუმცა თქვენი სახის ან თითის ანაბეჭდის სენსორი ხელმისაწვდომი არ არის\n"<ul><li>"დარწმუნდით, რომ კამერა ჩართულია და ხელახლა ცადეთ"</li>\n<li>"Cube ანგარიშის საშუალებით შეგიძლიათ „ვინაობის შემოწმების“ გამორთვა"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"გაუქმება"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"კარგი"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"ვინაობის შემოწმებაზე გადასვლა"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"გაუქმება"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"დაყენება"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"კერძო სივრცე"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"დამალეთ ან ჩაკეტეთ პირადი აპები ცალკე სივრცეში. დამატებითი უსაფრთხოებისთვის გამოიყენეთ სპეციალური Google ანგარიში."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"დამალეთ ან ჩაკეტეთ პირადი აპები ცალკე სივრცეში. დამატებითი უსაფრთხოებისთვის გამოიყენეთ სპეციალური Cube ანგარიში."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"მუშაობის პრინციპი"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Google ანგარიშის შექმნა თქვენი სივრცისთვის"</b>\n"სპეციალურად გამოყოფილი ანგარიშის გამოყენებისას სინქრონიზებული ფაილები, ფოტოები და ელფოსტა თქვენი სივრცის გარეთ აღარ გამოჩნდება"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Cube ანგარიშის შექმნა თქვენი სივრცისთვის"</b>\n"სპეციალურად გამოყოფილი ანგარიშის გამოყენებისას სინქრონიზებული ფაილები, ფოტოები და ელფოსტა თქვენი სივრცის გარეთ აღარ გამოჩნდება"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"ჩაკეტვის დაყენება"</b>\n"ჩაკეტეთ თქვენი სივრცე, რათა სხვებმა არ გახსნან"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"აპების ინსტალაცია"</b>\n"დააინსტალირეთ აპები, რომლებიც გსურთ კონფიდენციალურად შეინახოთ თქვენს სივრცეში"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"გაითვალისწინეთ"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIM ბარათების წაშლა ვერ ხერხდება"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"წარმოიქმნა შეფერხება და თქვენი eSIM ბარათები არ ამოშლილა.\n\nგადატვირთეთ მოწყობილობა და ხელახლა ცადეთ."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"კერძო სივრცის წაშლა"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"თუ თქვენს მოწყობილობაზე კერძო სივრცე გაქვთ, იგი სამუდამოდ წაიშლება და თქვენს სივრცეში დამატებული Google ანგარიში ამოიშლება. \n\nთქვენს სივრცეში არსებული ყველა აპი და მათი მონაცემებიც სამუდამოდ წაიშლება თქვენი ტელეფონის "<b>"შიდა მეხსიერებიდან"</b>"."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"თუ თქვენს მოწყობილობაზე კერძო სივრცე გაქვთ, იგი სამუდამოდ წაიშლება და თქვენს სივრცეში დამატებული Cube ანგარიში ამოიშლება. \n\nთქვენს სივრცეში არსებული ყველა აპი და მათი მონაცემებიც სამუდამოდ წაიშლება თქვენი ტელეფონის "<b>"შიდა მეხსიერებიდან"</b>"."</string>
     <string name="main_clear_title" msgid="277664302144837723">"ყველა მონაცემის ამოშლა (ქარხნული პარამეტრების დაბრუნება)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"ყველა მონაცემის ამოშლა (ქარხნული პარამეტრების დაბრუნება)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"მუსიკა"</li>\n<li>"ფოტოები"</li>\n<li>"მომხმარებლის სხვა მონაცემები"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"PIN-კოდის დადასტურება"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"პაროლის დადასტურება"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"დაადასტურეთ, რომ თქვენ ხართ"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google ანგარიშების, პარამეტრების და სხვ. გადასართველად, შეიყვანეთ თქვენი მოწყობილობის ნიმუში. თქვენი ნიმუში დაშიფრულია."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google ანგარიშების, პარამეტრების და სხვ. გადასართველად, შეიყვანეთ თქვენი მოწყობილობის PIN. თქვენი PIN-კოდი დაშიფრულია."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google ანგარიშების, პარამეტრების და სხვ. გადასართველად, შეიყვანეთ თქვენი მოწყობილობის პაროლი. თქვენი პაროლი დაშიფრულია."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube ანგარიშების, პარამეტრების და სხვ. გადასართველად, შეიყვანეთ თქვენი მოწყობილობის ნიმუში. თქვენი ნიმუში დაშიფრულია."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube ანგარიშების, პარამეტრების და სხვ. გადასართველად, შეიყვანეთ თქვენი მოწყობილობის PIN. თქვენი PIN-კოდი დაშიფრულია."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube ანგარიშების, პარამეტრების და სხვ. გადასართველად, შეიყვანეთ თქვენი მოწყობილობის პაროლი. თქვენი პაროლი დაშიფრულია."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"ამ მოწყობილობის განბლოკვისთვის ასევე ნიმუში გამოიყენეთ"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"ამ მოწყობილობის განბლოკვისთვის ასევე PIN-კოდი გამოიყენეთ"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"ამ მოწყობილობის განბლოკვისთვის ასევე პაროლი გამოიყენეთ"</string>

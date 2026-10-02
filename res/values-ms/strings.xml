@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Biometrik gagal terlalu banyak kali. Cuba lagi."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Anda boleh mengurus Semakan Identiti dalam tetapan perlindungan kecurian. Akses Tetapan"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Biometrik diperlukan untuk meneruskan proses"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Semakan Identiti dihidupkan dan memerlukan biometrik tetapi penderia wajah atau cap jari anda tidak tersedia\n"<ul><li>"Pastikan bahawa kamera anda dihidupkan dan cuba lagi"</li>\n<li>"Anda boleh mematikan Semakan Identiti menggunakan Google Account anda"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Semakan Identiti dihidupkan dan memerlukan biometrik tetapi penderia wajah atau cap jari anda tidak tersedia\n"<ul><li>"Pastikan bahawa kamera anda dihidupkan dan cuba lagi"</li>\n<li>"Anda boleh mematikan Semakan Identiti menggunakan Cube Account anda"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Batal"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"OK"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Akses semakan identiti"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Batal"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Buat persediaan"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Ruang privasi"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Sembunyikan atau kunci apl peribadi dalam ruang berasingan. Gunakan Google Account khusus untuk keselamatan tambahan."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Sembunyikan atau kunci apl peribadi dalam ruang berasingan. Gunakan Cube Account khusus untuk keselamatan tambahan."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Cara ciri ini berfungsi"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Buat Google Account untuk ruang anda"</b>\n"Jika anda menggunakan akaun khusus, akaun tersebut membantu untuk menghentikan fail, foto dan e-mel yang disegerakkan daripada dipaparkan di luar ruang anda"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Buat Cube Account untuk ruang anda"</b>\n"Jika anda menggunakan akaun khusus, akaun tersebut membantu untuk menghentikan fail, foto dan e-mel yang disegerakkan daripada dipaparkan di luar ruang anda"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Tetapkan kunci"</b>\n"Kunci ruang anda untuk menghalang orang lain daripada membuka ruang tersebut"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Pasang apl"</b>\n"Pasang apl yang mahu anda rahsiakan dalam ruang anda"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Sentiasa ingat"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Tidak dapat memadamkan eSIM"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Ada yang tidak kena dan eSIM anda tidak dipadamkan.\n\nMulakan semula peranti anda dan cuba sekali lagi."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Padamkan ruang persendirian"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Jika anda mempunyai ruang persendirian pada peranti anda, ruang itu akan dipadamkan secara kekal dan Google Account yang ditambahkan pada ruang anda akan dialih keluar. \n\nSemua apl dalam ruang anda dan data apl juga akan dipadamkan secara kekal daripada "<b>"storan dalaman"</b>" telefon anda."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Jika anda mempunyai ruang persendirian pada peranti anda, ruang itu akan dipadamkan secara kekal dan Cube Account yang ditambahkan pada ruang anda akan dialih keluar. \n\nSemua apl dalam ruang anda dan data apl juga akan dipadamkan secara kekal daripada "<b>"storan dalaman"</b>" telefon anda."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Padamkan semua data (tetapan semula kilang)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Padamkan semua data (tetapan semula kilang)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Muzik"</li>\n<li>"Foto"</li>\n<li>"Data pengguna yang lain"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Sahkan PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Sahkan kata laluan"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Sahkan identiti anda"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Untuk memindahkan tetapan Google Account dan pelbagai lagi, masukkan corak peranti anda yang lain. Corak anda disulitkan."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Untuk memindahkan Google Account, tetapan dan pelbagai lagi, masukkan PIN peranti anda yang lain. PIN anda disulitkan."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Untuk memindahkan tetapan Google Account dan pelbagai lagi, masukkan kata laluan peranti anda yang lain. Kata laluan anda disulitkan."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Untuk memindahkan tetapan Cube Account dan pelbagai lagi, masukkan corak peranti anda yang lain. Corak anda disulitkan."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Untuk memindahkan Cube Account, tetapan dan pelbagai lagi, masukkan PIN peranti anda yang lain. PIN anda disulitkan."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Untuk memindahkan tetapan Cube Account dan pelbagai lagi, masukkan kata laluan peranti anda yang lain. Kata laluan anda disulitkan."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Gunakan juga corak untuk membuka kunci"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Gunakan PIN juga untuk membuka kunci peranti"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Gunakan kata laluan untuk membuka kunci"</string>

@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Producíronse demasiados erros ao usar o método biométrico. Téntao de novo."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Podes xestionar a comprobación de identidade na configuración da protección antirroubo. Vai a Configuración"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Para continuar, cómpre usar un método biométrico"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"A comprobación de identidade está activada e require un método biométrico, pero o sensor de impresión dixital ou de desbloqueo facial non está dispoñible\n"<ul><li>"Comproba que teñas a cámara acendida e téntao de novo"</li>\n<li>"Podes desactivar a comprobación de identidade coa túa Conta de Google"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"A comprobación de identidade está activada e require un método biométrico, pero o sensor de impresión dixital ou de desbloqueo facial non está dispoñible\n"<ul><li>"Comproba que teñas a cámara acendida e téntao de novo"</li>\n<li>"Podes desactivar a comprobación de identidade coa túa Conta de Cube"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Cancelar"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"Aceptar"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Ir á comprobación de identidade"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Cancelar"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Configurar"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Espazo privado"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Oculta ou bloquea as aplicacións privadas nun espazo separado. Usa unha Conta de Google específica para maior seguranza."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Oculta ou bloquea as aplicacións privadas nun espazo separado. Usa unha Conta de Cube específica para maior seguranza."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Como funciona?"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Crea unha Conta de Google para o teu espazo"</b>\n"Usar unha conta específica axuda a evitar que os ficheiros, fotos e correos electrónicos sincronizados aparezan fóra do teu espazo privado"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Crea unha Conta de Cube para o teu espazo"</b>\n"Usar unha conta específica axuda a evitar que os ficheiros, fotos e correos electrónicos sincronizados aparezan fóra do teu espazo privado"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Define un bloqueo"</b>\n"Bloquea o espazo para que ninguén máis poida abrilo"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Instala aplicacións"</b>\n"Instala no teu espazo as aplicacións que queiras manter en privado"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Importante"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Non se puideron borrar as eSIM"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Produciuse un erro e non se borraron as eSIM.\n\nReinicia o dispositivo e téntao de novo."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Eliminar espazo privado"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Se tes un espazo privado no dispositivo, eliminarase permanentemente e quitarase a Conta de Google engadida ao espazo. \n\nTamén se eliminarán para sempre do "<b>"almacenamento interno"</b>" do teu teléfono todas as aplicacións, incluídos os seus datos, que teñas no espazo."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Se tes un espazo privado no dispositivo, eliminarase permanentemente e quitarase a Conta de Cube engadida ao espazo. \n\nTamén se eliminarán para sempre do "<b>"almacenamento interno"</b>" do teu teléfono todas as aplicacións, incluídos os seus datos, que teñas no espazo."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Volver á configuración de fábrica (borrar todos os datos)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Borrar todos os datos"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Música"</li>\n<li>"Fotos"</li>\n<li>"Outros datos do usuario"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Verifica o PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Verifica o contrasinal"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Verifica quen es"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Mete o padrón do outro dispositivo para transferir Contas de Google, opcións de configuración e moito máis. O padrón está encriptado."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Mete o PIN do outro dispositivo para transferir Contas de Google, opcións de configuración e moito máis. O PIN está encriptado."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Mete o contrasinal do outro dispositivo para transferir Contas de Google, opcións de configuración e moito máis. O contrasinal está encriptado."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Mete o padrón do outro dispositivo para transferir Contas de Cube, opcións de configuración e moito máis. O padrón está encriptado."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Mete o PIN do outro dispositivo para transferir Contas de Cube, opcións de configuración e moito máis. O PIN está encriptado."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Mete o contrasinal do outro dispositivo para transferir Contas de Cube, opcións de configuración e moito máis. O contrasinal está encriptado."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Usar tamén padrón para desbloquear"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Usar PIN para desbloquear este dispositivo"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Usar tamén contrasinal para desbloquear"</string>

@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"האימות הביומטרי נכשל יותר מדי פעמים. אפשר לנסות שוב."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"יש לך אפשרות לנהל את בדיקת הזהות בהגדרות של אמצעי ההגנה למקרה גניבה. מעבר להגדרות"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"כדי להמשיך, צריך אימות ביומטרי"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"‏בדיקת הזהות מופעלת ודורשת אימות ביומטרי, אבל זיהוי הפנים או חיישן טביעות האצבע לא זמינים\n"<ul><li>"צריך לוודא שהמצלמה פועלת ולנסות שוב"</li>\n<li>"אפשר להשבית את בדיקת הזהות באמצעות חשבון Google"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"‏בדיקת הזהות מופעלת ודורשת אימות ביומטרי, אבל זיהוי הפנים או חיישן טביעות האצבע לא זמינים\n"<ul><li>"צריך לוודא שהמצלמה פועלת ולנסות שוב"</li>\n<li>"אפשר להשבית את בדיקת הזהות באמצעות חשבון Cube"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"ביטול"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"אישור"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"מעבר לבדיקת הזהות"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"ביטול"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"הגדרה"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"המרחב הפרטי"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"‏אפשר להסתיר או לנעול אפליקציות פרטיות במרחב נפרד. מומלץ להשתמש בחשבון Google ייעודי לאבטחה נוספת."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"‏אפשר להסתיר או לנעול אפליקציות פרטיות במרחב נפרד. מומלץ להשתמש בחשבון Cube ייעודי לאבטחה נוספת."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"איך זה עובד"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320">"‏"<b>"יצירת חשבון Google למרחב הפרטי"</b>\n"אם לא רוצים שקבצים, תמונות ואימיילים מסונכרנים יופיעו מחוץ למרחב, מומלץ להשתמש בחשבון ייעודי למרחב הפרטי"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320">"‏"<b>"יצירת חשבון Cube למרחב הפרטי"</b>\n"אם לא רוצים שקבצים, תמונות ואימיילים מסונכרנים יופיעו מחוץ למרחב, מומלץ להשתמש בחשבון ייעודי למרחב הפרטי"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"הגדרת נעילה"</b>\n"אפשר לנעול את המרחב הפרטי כדי למנוע מאנשים אחרים לפתוח אותו"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"התקנת אפליקציות"</b>\n"במרחב הפרטי אפשר להתקין אפליקציות שרוצים שיישארו פרטיות"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"חשוב לזכור"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"‏לא ניתן למחוק את כרטיסי ה-eSIM"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"‏משהו השתבש וכרטיסי ה-eSIM לא נמחקו.\n\nצריך להפעיל את המכשיר מחדש ולנסות שוב."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"מחיקת המרחב הפרטי"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"‏אם יש לך מרחב פרטי במכשיר, הוא יימחק לתמיד וחשבון Google שנוסף למרחב הפרטי שלך יוסר. \n\nכל האפליקציות במרחב הפרטי והנתונים שלהן יימחקו לתמיד מ"<b>"האחסון הפנימי"</b>" של הטלפון."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"‏אם יש לך מרחב פרטי במכשיר, הוא יימחק לתמיד וחשבון Cube שנוסף למרחב הפרטי שלך יוסר. \n\nכל האפליקציות במרחב הפרטי והנתונים שלהן יימחקו לתמיד מ"<b>"האחסון הפנימי"</b>" של הטלפון."</string>
     <string name="main_clear_title" msgid="277664302144837723">"מחיקת כל הנתונים (איפוס להגדרות המקוריות)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"מחיקת כל הנתונים (איפוס לנתוני היצרן)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"מוזיקה"</li>\n<li>"תמונות"</li>\n<li>"נתוני משתמש אחרים"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"אימות של קוד הגישה"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"אימות סיסמה"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"אימות הזהות שלך"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"‏צריך להזין את קו ביטול הנעילה של המכשיר כדי להעביר את חשבונות Google, ההגדרות ועוד. קו ביטול הנעילה שלך מוצפן."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"‏צריך להזין את קוד האימות של המכשיר כדי להעביר את חשבונות Google, ההגדרות ועוד. קוד האימות שלך מוצפן."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"‏צריך להזין את הסיסמה של המכשיר כדי להעביר את חשבונות Google, ההגדרות ועוד. הסיסמה שלך מוצפנת."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"‏צריך להזין את קו ביטול הנעילה של המכשיר כדי להעביר את חשבונות Cube, ההגדרות ועוד. קו ביטול הנעילה שלך מוצפן."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"‏צריך להזין את קוד האימות של המכשיר כדי להעביר את חשבונות Cube, ההגדרות ועוד. קוד האימות שלך מוצפן."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"‏צריך להזין את הסיסמה של המכשיר כדי להעביר את חשבונות Cube, ההגדרות ועוד. הסיסמה שלך מוצפנת."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"שימוש בקו ביטול הנעילה גם במכשיר הזה"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"שימוש גם בקוד אימות לביטול הנעילה במכשיר הזה"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"שימוש בסיסמה גם לביטול הנעילה במכשיר הזה"</string>

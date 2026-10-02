@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"ဇီဝမက်ထရစ်များကို အကြိမ်များစွာ အသုံးပြု၍ မရလိုက်ပါ။ ထပ်စမ်းကြည့်ပါ။"</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"‘အထောက်အထား စစ်ဆေးခြင်း’ ကို ခိုးယူမှုမှ ကာကွယ်ခြင်း ဆက်တင်များတွင် စီမံနိုင်သည်။ ဆက်တင်များသို့ သွားရန်"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"ရှေ့ဆက်ရန် ဇီဝမက်ထရစ် လိုအပ်သည်"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"‘အထောက်အထား စစ်ဆေးခြင်း’ ဖွင့်ထားပြီး ဇီဝမက်ထရစ် လိုအပ်သော်လည်း သင့်မျက်နှာ (သို့) လက်ဗွေ အာရုံခံကိရိယာကို အသုံးမပြုနိုင်ပါ\n"<ul><li>"သင့်ကင်မရာကို ဖွင့်ထားခြင်း ရှိ၊ မရှိ စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ"</li>\n<li>"သင်၏ Google Account သုံး၍ ‘အထောက်အထား စစ်ဆေးခြင်း’ ကို ပိတ်နိုင်သည်"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"‘အထောက်အထား စစ်ဆေးခြင်း’ ဖွင့်ထားပြီး ဇီဝမက်ထရစ် လိုအပ်သော်လည်း သင့်မျက်နှာ (သို့) လက်ဗွေ အာရုံခံကိရိယာကို အသုံးမပြုနိုင်ပါ\n"<ul><li>"သင့်ကင်မရာကို ဖွင့်ထားခြင်း ရှိ၊ မရှိ စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ"</li>\n<li>"သင်၏ Cube Account သုံး၍ ‘အထောက်အထား စစ်ဆေးခြင်း’ ကို ပိတ်နိုင်သည်"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"မလုပ်တော့"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"OK"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"အထောက်အထား စစ်ဆေးခြင်းသို့ သွားရန်"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"မလုပ်တော့"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"စနစ်ထည့်သွင်းရန်"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"သီးသန့်နေရာ"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"သီးခြားနေရာတွင် သီးသန့်အက်ပ်များကို ဖျောက်နိုင် (သို့) လော့ခ်ချနိုင်သည်။ အပိုဆောင်းလုံခြုံရေးအတွက် သတ်မှတ်ထားသော Google Account ကို သုံးနိုင်သည်။"</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"သီးခြားနေရာတွင် သီးသန့်အက်ပ်များကို ဖျောက်နိုင် (သို့) လော့ခ်ချနိုင်သည်။ အပိုဆောင်းလုံခြုံရေးအတွက် သတ်မှတ်ထားသော Cube Account ကို သုံးနိုင်သည်။"</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"အလုပ်လုပ်ပုံ"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"သင်၏နေရာအတွက် Google Account ပြုလုပ်ပါ"</b>\n"သီးသန့်အကောင့်တစ်ခုကို သုံးပါက စင့်ခ်လုပ်ထားသည့် ဖိုင်၊ ဓာတ်ပုံနှင့် အီးမေးလ်များကို သင့်နေရာအပြင်ဘက်တွင် မမြင်ရစေရန် ကူညီတားဆီးနိုင်သည်"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"သင်၏နေရာအတွက် Cube Account ပြုလုပ်ပါ"</b>\n"သီးသန့်အကောင့်တစ်ခုကို သုံးပါက စင့်ခ်လုပ်ထားသည့် ဖိုင်၊ ဓာတ်ပုံနှင့် အီးမေးလ်များကို သင့်နေရာအပြင်ဘက်တွင် မမြင်ရစေရန် ကူညီတားဆီးနိုင်သည်"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"လော့ခ် သတ်မှတ်ရန်"</b>\n"အခြားသူများက မဖွင့်စေရန် သင့်နေရာကို လော့ခ်ချပါ"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"အက်ပ်များ ထည့်သွင်းပါ"</b>\n"သင်၏နေရာတွင် သီးသန့်ထားလိုသော အက်ပ်များကို ထည့်သွင်းပါ"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"သတိပြုရန်"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIM များကို ဖျက်၍မရပါ"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"တစ်ခုခုမှားသွားပြီး eSIM များကို ဖျက်၍မရပါ။\n\nသင့်စက်ကို ပြန်စပြီး ထပ်စမ်းကြည့်ပါ။"</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"သီးသန့်နေရာ ဖျက်ရန်"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"သင့်စက်ပစ္စည်း၌ သီးသန့်နေရာရှိပါက ၎င်းကိုအပြီးဖျက်ပြီး ယင်းနေရာတွင် ထည့်ထားသော Google Account ကို ဖယ်ရှားမည်။ \n\nအဆိုပါနေရာရှိ အက်ပ်အားလုံးနှင့် ၎င်းတို့၏ဒေတာများကိုလည်း သင့်ဖုန်း၏ "<b>"စက်တွင်းသိုလှောင်ခန်း"</b>" မှ အပြီးဖျက်မည်။"</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"သင့်စက်ပစ္စည်း၌ သီးသန့်နေရာရှိပါက ၎င်းကိုအပြီးဖျက်ပြီး ယင်းနေရာတွင် ထည့်ထားသော Cube Account ကို ဖယ်ရှားမည်။ \n\nအဆိုပါနေရာရှိ အက်ပ်အားလုံးနှင့် ၎င်းတို့၏ဒေတာများကိုလည်း သင့်ဖုန်း၏ "<b>"စက်တွင်းသိုလှောင်ခန်း"</b>" မှ အပြီးဖျက်မည်။"</string>
     <string name="main_clear_title" msgid="277664302144837723">"ဒေတာအားလုံးဖျက်ရန် (စက်ရုံထုတ်ဆက်တင် သတ်မှတ်ရန်)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"ဒေတာအားလုံးဖျက်ခြင်း (စက်ရုံထုတ်ဆက်တင် သတ်မှတ်ရန်)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"သီချင်း"</li>\n<li>"ဓာတ်ပုံများ"</li>\n<li>"အသုံးပြုသူ၏အခြားဒေတာ"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"ပင်နံပါတ်ကို အတည်ပြုပါ"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"စကားဝှက်ကို အတည်ပြုပါ"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"သင်ဟု အတည်ပြုပါ"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Google Account၊ ဆက်တင် စသည်တို့ကို လွှဲပြောင်းရန် အခြားစက်ပစ္စည်း၏ ပုံဖော်ခြင်း ထည့်ပါ။ ပုံဖော်ခြင်းကို အသွင်ဝှက်ထားသည်။"</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Google Account၊ ဆက်တင် စသည်တို့ကို လွှဲပြောင်းရန် အခြားစက်ပစ္စည်း၏ ပင်နံပါတ် ထည့်ပါ။ ပင်နံပါတ်ကို အသွင်ဝှက်ထားသည်။"</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Google Account၊ ဆက်တင် စသည်တို့ကို လွှဲပြောင်းရန် အခြားစက်ပစ္စည်း၏ စကားဝှက် ထည့်ပါ။ စကားဝှက်ကို အသွင်ဝှက်ထားသည်။"</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Cube Account၊ ဆက်တင် စသည်တို့ကို လွှဲပြောင်းရန် အခြားစက်ပစ္စည်း၏ ပုံဖော်ခြင်း ထည့်ပါ။ ပုံဖော်ခြင်းကို အသွင်ဝှက်ထားသည်။"</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Cube Account၊ ဆက်တင် စသည်တို့ကို လွှဲပြောင်းရန် အခြားစက်ပစ္စည်း၏ ပင်နံပါတ် ထည့်ပါ။ ပင်နံပါတ်ကို အသွင်ဝှက်ထားသည်။"</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Cube Account၊ ဆက်တင် စသည်တို့ကို လွှဲပြောင်းရန် အခြားစက်ပစ္စည်း၏ စကားဝှက် ထည့်ပါ။ စကားဝှက်ကို အသွင်ဝှက်ထားသည်။"</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"ဤစက်ဖွင့်ရန် ပုံဖော်ခြင်းလည်း သုံးနိုင်သည်"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"ဤစက်ဖွင့်သည့် ပင်နံပါတ်လည်း သုံးနိုင်သည်"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"ဤစက်ဖွင့်ရန် စကားဝှက်လည်း သုံးနိုင်သည်"</string>

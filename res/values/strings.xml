@@ -989,7 +989,7 @@
     <!-- Dialog title when identity check auth is requested but biometric hardware has an error. [CHAR LIMIT=100] -->
     <string name="identity_check_general_error_title">Biometric required to continue</string>
     <!-- Dialog message when identity check auth is requested but biometric hardware has an error. [CHAR LIMIT=NONE] -->
-    <string name="identity_check_general_error_description_1">Identity Check is on and requires a biometric, but your face or fingerprint sensor is unavailable\n<ul><li>Check that your camera is on and try again</li>\n<li>You can turn off Identity Check using your Google Account</li></ul></string>
+    <string name="identity_check_general_error_description_1">Identity Check is on and requires a biometric, but your face or fingerprint sensor is unavailable\n<ul><li>Check that your camera is on and try again</li>\n<li>You can turn off Identity Check using your Cube Account</li></ul></string>
     <!-- Biometric error dialog button text for user to dismiss the dialog. [CHAR LIMIT=20] -->
     <string name="identity_check_biometric_error_cancel">Cancel</string>
     <!-- Biometric error dialog button text for user to acknowledge the message. [CHAR LIMIT=20] -->
@@ -1416,11 +1416,11 @@
     <!-- Title for Private Space setup education screen. [CHAR LIMIT=50] -->
     <string name="private_space_setup_title">Private space</string>
     <!-- Summary for the private space setup education screen. [CHAR LIMIT=NONE] -->
-    <string name="private_space_hide_apps_summary">Hide or lock private apps in a separate space. Use a dedicated Google Account for extra security.</string>
+    <string name="private_space_hide_apps_summary">Hide or lock private apps in a separate space. Use a dedicated Cube Account for extra security.</string>
     <!-- Text shown in private space setup screen which explains how the private space works [CHAR LIMIT=50] -->
     <string name="private_space_setup_sub_header">How it works</string>
     <!-- Text shown in private space setup screen which explains private space can be accessed from bottom of all apps list. [CHAR LIMIT=NONE] -->
-    <string name="private_space_separate_account_text"><b>Create a Google Account for your space</b>\nIf you use a dedicated account, it helps to stop synced files, photos, and emails appearing outside your space</string>
+    <string name="private_space_separate_account_text"><b>Create a Cube Account for your space</b>\nIf you use a dedicated account, it helps to stop synced files, photos, and emails appearing outside your space</string>
     <!-- Text shown in private space setup screen which explains private space apps are protected by a lock. [CHAR LIMIT=NONE] -->
     <string name="private_space_protected_lock_text"><b>Set a lock</b>\nLock your space to stop other people opening it</string>
     <!-- Text shown in private space setup screen which explains notifications from private space apps will not be shown when private space is locked. [CHAR LIMIT=NONE] -->
@@ -3657,7 +3657,7 @@
     <!-- Title for the Delete private space settings controller [CHAR LIMIT=40] -->
     <string name="reset_private_space_delete_title">Delete private space</string>
     <!-- Delete private space dialog mentioning that private space and the apps in it along with its data will be permanently deleted [CHAR LIMIT=NONE] -->
-    <string name="reset_private_space_delete_dialog">If you have a private space on your device, it will be permanently deleted and the Google Account added to your space will be removed. \n\nAll apps in your space and their data will also be permanently deleted from your phone\u2019s <b>internal storage</b>.</string>
+    <string name="reset_private_space_delete_dialog">If you have a private space on your device, it will be permanently deleted and the Cube Account added to your space will be removed. \n\nAll apps in your space and their data will also be permanently deleted from your phone\u2019s <b>internal storage</b>.</string>
 
     <!-- Main Clear -->
     <!-- Button title to factory data reset the entire device [CHAR LIMIT=NONE] -->
@@ -4057,11 +4057,11 @@
     <string name="lockpassword_remote_validation_header">Verify it\u0027s you</string>
 
     <!-- Details shown when pattern is prompted for remote device credential validation. [CHAR LIMIT=160] -->
-    <string name="lockpassword_remote_validation_pattern_details">To transfer Google Accounts, settings, and more, enter your other device\u0027s pattern. Your pattern is encrypted.</string>
+    <string name="lockpassword_remote_validation_pattern_details">To transfer Cube Accounts, settings, and more, enter your other device\u0027s pattern. Your pattern is encrypted.</string>
     <!-- Details shown when PIN is prompted for remote device credential validation. [CHAR LIMIT=160] -->
-    <string name="lockpassword_remote_validation_pin_details">To transfer Google Accounts, settings, and more, enter your other device\u0027s PIN. Your PIN is encrypted.</string>
+    <string name="lockpassword_remote_validation_pin_details">To transfer Cube Accounts, settings, and more, enter your other device\u0027s PIN. Your PIN is encrypted.</string>
     <!-- Details shown when password is prompted for remote device credential validation. [CHAR LIMIT=160] -->
-    <string name="lockpassword_remote_validation_password_details">To transfer Google Accounts, settings, and more, enter your other device\u0027s password. Your password is encrypted.</string>
+    <string name="lockpassword_remote_validation_password_details">To transfer Cube Accounts, settings, and more, enter your other device\u0027s password. Your password is encrypted.</string>
 
     <!-- Checkbox label to set pattern as new screen lock if remote device credential validation succeeds. [CHAR LIMIT=43] -->
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock">Also use pattern to unlock this device</string>

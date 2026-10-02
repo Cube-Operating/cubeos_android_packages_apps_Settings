@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Biometrie het te veel keer misluk. Probeer weer."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Jy kan Identiteitskontrole in die instellings vir diefstalbeskerming bestuur. Gaan na Instellings"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Biometrie word vereis om voort te gaan"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Identiteitskontrole is aan en vereis biometrie, maar jou gesig- of vingerafdruksensor is onbeskikbaar\n"<ul><li>"Maak seker jou kamera is aan en probeer weer"</li>\n<li>"Jy kan Identiteitskontrole met jou Google-rekening afskakel"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Identiteitskontrole is aan en vereis biometrie, maar jou gesig- of vingerafdruksensor is onbeskikbaar\n"<ul><li>"Maak seker jou kamera is aan en probeer weer"</li>\n<li>"Jy kan Identiteitskontrole met jou Cube-rekening afskakel"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Kanselleer"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"OK"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Gaan na identiteitskontrole"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Kanselleer"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Stel op"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Privaat ruimte"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Versteek of sluit privaat apps op ’n aparte plek. Gebruik ’n toegewyde Google-rekening vir ekstra sekuriteit."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Versteek of sluit privaat apps op ’n aparte plek. Gebruik ’n toegewyde Cube-rekening vir ekstra sekuriteit."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Hoe dit werk"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Skep ’n Google-rekening vir jou ruimte"</b>\n"As jy ’n toegewyde rekening gebruik, help dit om te verhoed dat gesinkroniseerde lêers, foto\'s en e-posse buite jou ruimte verskyn"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Skep ’n Cube-rekening vir jou ruimte"</b>\n"As jy ’n toegewyde rekening gebruik, help dit om te verhoed dat gesinkroniseerde lêers, foto\'s en e-posse buite jou ruimte verskyn"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Stel ’n slot op"</b>\n"Sluit jou ruimte om te keer dat ander mense dit oopmaak"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Installeer apps"</b>\n"Installeer apps wat jy privaat in jou ruimte wil hou"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Hou in gedagte"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Kan nie e-SIM’s uitvee nie"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Iets het skeefgeloop en jou e-SIM’s is nie uitgevee nie.\n\nHerbegin jou toestel en probeer weer."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Vee privaat ruimte uit"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"As jy ’n privaat ruimte op jou toestel het, sal dit permanent uitgevee word en die Google-rekening wat by jou ruimte gevoeg is, sal verwyder word. \n\nAlle apps in jou ruimte en hul data sal ook permanent van jou foon se "<b>"interne berging"</b>" uitgevee word."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"As jy ’n privaat ruimte op jou toestel het, sal dit permanent uitgevee word en die Cube-rekening wat by jou ruimte gevoeg is, sal verwyder word. \n\nAlle apps in jou ruimte en hul data sal ook permanent van jou foon se "<b>"interne berging"</b>" uitgevee word."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Vee alle data uit (fabriekterugstelling)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Vee alle data uit (fabriekterugstelling)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Musiek"</li>\n<li>"Foto\'s"</li>\n<li>"Ander gebruikerdata"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Verifieer PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Verifieer wagwoord"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Verifieer dis jy"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Voer jou ander toestel se patroon in om Google-rekeninge, -instellings en meer oor te dra. Jou patroon is geënkripteer."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Voer jou ander toestel se PIN in om Google-rekeninge, -instellings en meer oor te dra. Jou PIN is geënkripteer."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Voer jou ander toestel se wagwoord in om Google-rekeninge, -instellings en meer oor te dra. Jou wagwoord in geënkripteer."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Voer jou ander toestel se patroon in om Cube-rekeninge, -instellings en meer oor te dra. Jou patroon is geënkripteer."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Voer jou ander toestel se PIN in om Cube-rekeninge, -instellings en meer oor te dra. Jou PIN is geënkripteer."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Voer jou ander toestel se wagwoord in om Cube-rekeninge, -instellings en meer oor te dra. Jou wagwoord in geënkripteer."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Gebruik ook patroon om dié toestel te ontsluit"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Gebruik ook PIN om dié toestel te ontsluit"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Gebruik ook wagwoord om dié toestel te ontsluit"</string>

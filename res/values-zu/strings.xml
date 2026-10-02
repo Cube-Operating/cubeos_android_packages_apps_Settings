@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Amabiometric ahluleke izikhathi eziningi kakhulu. Zama futhi."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Ungalawula Ukuhlola Ubunikazi kumasethingi okuvikela ukweba. Iya Kumasethingi"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"IBiometric iyadingeka ukuze uqhubeke"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Ukuhlola Ubunikazi kuvuliwe futhi kudinga ibiometric, kodwa ubuso bakho noma inzwa yesigxivizo somunwe ayitholakali\n"<ul><li>"Hlola ukuthi ikhamera yakho ivuliwe bese uyazama futhi"</li>\n<li>"Ungavala Ukuhlola Ubunikazi usebenzisa iGoogle Account yakho"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Ukuhlola Ubunikazi kuvuliwe futhi kudinga ibiometric, kodwa ubuso bakho noma inzwa yesigxivizo somunwe ayitholakali\n"<ul><li>"Hlola ukuthi ikhamera yakho ivuliwe bese uyazama futhi"</li>\n<li>"Ungavala Ukuhlola Ubunikazi usebenzisa iCube Account yakho"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Khansela"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"KULUNGILE"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Iya ekuhloleni ubunikazi"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Khansela"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Setha"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Isikhala esiyimfihlo"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Fihla noma ukhiye ama-app agodliwe endaweni ehlukile. Sebenzisa i-Google Account eqondile ukuze uthole ukuvikeleka okwengeziwe."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Fihla noma ukhiye ama-app agodliwe endaweni ehlukile. Sebenzisa i-Cube Account eqondile ukuze uthole ukuvikeleka okwengeziwe."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Indlela esebenza ngayo"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Sungula iGoogle Account yesikhala sakho"</b>\n"Uma usebenzisa i-akhawunti ezinikele, isiza ukumisa amafayela avunyelanisiwe, izithombe, nama-imeyili abonakala ngaphandle kwesikhala sakho"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Sungula iCube Account yesikhala sakho"</b>\n"Uma usebenzisa i-akhawunti ezinikele, isiza ukumisa amafayela avunyelanisiwe, izithombe, nama-imeyili abonakala ngaphandle kwesikhala sakho"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Setha ukhiye"</b>\n"Khiya indawo yakho ukuze uvimbele abanye abantu ekuyivuleni"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Faka ama-app"</b>\n"Faka ama-app ofuna ukuwagcina ayimfihlo esikhaleni sakho"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Khumbula"</string>
@@ -1577,7 +1577,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Ayikwazi ukusula ama-eSIM"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Kukhona okungahambanga kahle futhi ama-eSIM awasulwanga.\n\nQala kabusha idivayisi yakho bese uphinde uyazama futhi."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Sula indawo engasese"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Uma unendawo yangasese edivayisini yakho, izosulwa unomphela futhi iGoogle Account yakho eyengezwe esikhaleni sakho izosuswa. \n\nWonke ama-app asesikhaleni sakho nedatha yawo nawo azosulwa unomphela "<b>"esitorejini sangaphakathi"</b>" sefoni yakho."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Uma unendawo yangasese edivayisini yakho, izosulwa unomphela futhi iCube Account yakho eyengezwe esikhaleni sakho izosuswa. \n\nWonke ama-app asesikhaleni sakho nedatha yawo nawo azosulwa unomphela "<b>"esitorejini sangaphakathi"</b>" sefoni yakho."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Sula yonke idatha (ukusethwa kabusha njengasekuqaleni)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Sula yonke idatha (ukusethwa kabusha njengasekuqaleni)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Umculo"</li>\n<li>"Izithombe"</li>\n<li>"Idatha yomunye umsebenzisi"</li></string>
@@ -1735,9 +1735,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Qinisekisa iphinikhodi"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Qinisekisa iphasiwedi"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Qinisekisa ukuthi nguwe"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Ukuze udlulisele ama-Google Account, amasethingi, nokuningi, faka iphethini yenye idivayisi yakho Iphethini yakho ibethelwe."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Ukuze udlulisele ama-Google Account, nokuningi, faka i-PIN yenye idivayisi yakho Iphinikhodi yakho ibethelwe."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Ukuze udlulisele ama-Google Account, amasethingi, nokuningi, faka iphasiwedi yenye idivayisi yakho Iphasiwedi yakho ibethelwe."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Ukuze udlulisele ama-Cube Account, amasethingi, nokuningi, faka iphethini yenye idivayisi yakho Iphethini yakho ibethelwe."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Ukuze udlulisele ama-Cube Account, nokuningi, faka i-PIN yenye idivayisi yakho Iphinikhodi yakho ibethelwe."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Ukuze udlulisele ama-Cube Account, amasethingi, nokuningi, faka iphasiwedi yenye idivayisi yakho Iphasiwedi yakho ibethelwe."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Futhi sebenzisa iphethini ukuvula le divayisi"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Futhi sebenzisa Iphinikhodi ukuvula le divayisi"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Futhi sebenzisa iphasiwedi ukuvula le divayisi"</string>

@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"ባዮሜትሪክስ በጣም ብዙ ጊዜ አልተሳካም። እንደገና ይሞክሩ።"</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"ማንነት ፍተሻን በስርቆት ጥበቃ ቅንብሮች ውስጥ ማስተዳደር ይችላሉ። ወደ ቅንብሮች ይሂዱ"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"ለመቀጠል ባዮሜትሪክ ያስፈልጋል"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ማንነት ፍተሻ በርቷል እና ባዮሜትሪክ ያስፈልገዋል፣ ነገር ግን የእርስዎ የፊት ወይም የጣት አሻራ ዳሳሽ አይገኝም\n"<ul><li>"ካሜራዎ እንደበራ ይፈትሹ እና እንደገና ይሞክሩ"</li>\n<li>"የGoogle መለያዎን በመጠቀም የማንነት ፍተሻን ማጥፋት ይችላሉ"</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"ማንነት ፍተሻ በርቷል እና ባዮሜትሪክ ያስፈልገዋል፣ ነገር ግን የእርስዎ የፊት ወይም የጣት አሻራ ዳሳሽ አይገኝም\n"<ul><li>"ካሜራዎ እንደበራ ይፈትሹ እና እንደገና ይሞክሩ"</li>\n<li>"የCube መለያዎን በመጠቀም የማንነት ፍተሻን ማጥፋት ይችላሉ"</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"ይቅር"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"እሺ"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"ወደ ማንነት ፍተሻ ይሂዱ"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"ይቅር"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"ያዋቅሩ"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"የግል ቦታ"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"የግል መተግበሪያዎችን በተለየ ቦታ ይደብቁ ወይም ይቆልፉ። ለተጨማሪ ደህንነት የተለየ የGoogle መለያ ይጠቀሙ።"</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"የግል መተግበሪያዎችን በተለየ ቦታ ይደብቁ ወይም ይቆልፉ። ለተጨማሪ ደህንነት የተለየ የCube መለያ ይጠቀሙ።"</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"እንዴት እንደሚሠራ"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"ለቦታዎ Google መለያ ይፍጠሩ"</b>\n"የተወሰነ መለያ የሚጠቀሙ ከሆነ የሰመሩ ፋይሎች፣ ፎቶዎች እና ኢሜይሎች ከቦታዎ ውጭ እንዳይታዩ ለማቆም ያግዛል"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"ለቦታዎ Cube መለያ ይፍጠሩ"</b>\n"የተወሰነ መለያ የሚጠቀሙ ከሆነ የሰመሩ ፋይሎች፣ ፎቶዎች እና ኢሜይሎች ከቦታዎ ውጭ እንዳይታዩ ለማቆም ያግዛል"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"መቆለፊያ ያዘጋጁ"</b>\n"ሌሎች ሰዎች እንዳይከፍቱት ለማድረግ ቦታዎን ይዝጉ"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"መተግበሪያዎችን ይጫኑ"</b>\n"በቦታዎ ውስጥ የግል አድርገው ማቆየት የሚፈልጓቸውን መተግበሪያዎች ይጫኑ"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"ከግምት ውስጥ ያስገቡ"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"ኢሲሞችን መደምሰስ አልተቻለም"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"የሆነ ስህተት ተከስቷል እና የእርስዎ ኢሲሞች አልተደመሰሱም።\n\nመሣሪያዎን እንደገና ያስጀምሩትና እንደገና ይሞክሩ።"</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"የግል ቦታን ይሰርዙ"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"በመሣሪያዎ ላይ የግል ቦታ ካለዎት በቋሚነት ይሰረዛል እና በቦታዎ ላይ የታከለው የGoogle መለያ ይወገዳል። \n\nበቦታዎ ውስጥ ያሉ ሁሉም መተግበሪያዎች እና ውሂባቸው በቋሚነት ከስልክዎ "<b>"ውስጣዊ ማህደረ ትውስታ"</b>" ላይ ይሰረዛሉ።"</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"በመሣሪያዎ ላይ የግል ቦታ ካለዎት በቋሚነት ይሰረዛል እና በቦታዎ ላይ የታከለው የCube መለያ ይወገዳል። \n\nበቦታዎ ውስጥ ያሉ ሁሉም መተግበሪያዎች እና ውሂባቸው በቋሚነት ከስልክዎ "<b>"ውስጣዊ ማህደረ ትውስታ"</b>" ላይ ይሰረዛሉ።"</string>
     <string name="main_clear_title" msgid="277664302144837723">"ሁሉንም ውሂብ ደምስስ (የፋብሪካ ዳግም ማስጀመር)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"ሁሉንም ውሂብ ደምስስ (የፋብሪካ ዳግም ማስጀመር)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"ሙዚቃ"</li>\n<li>"ፎቶዎች"</li>\n<li>"ሌላ የተጠቃሚ ውሂብ"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"ፒን ያረጋግጡ"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"የይለፍ ቃል ያረጋግጡ"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"እርስዎ መሆንዎን ያረጋግጡ"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"የGoogle መለያዎችን፣ ቅንብሮችን እና ሌሎችንም ለማስተላለፍ የሌላኛውን መሣሪያዎን ሥርዓተ-ጥለት ያስገቡ። ስርዓተ ጥለትዎ ተመስጥሯል።"</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"የGoogle መለያዎችን፣ ቅንብሮችን እና ሌሎችንም ለማስተላለፍ የሌላኛውን መሣሪያዎን ፒን ያስገቡ። ፒንዎ ተመስጥሯል።"</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"የGoogle መለያን፣ ቅንብሮች እና ሌሎችንም ለማስተላለፍ የሌላኛውን መሣሪያዎን ይለፍ ቃል ያስገቡ። የይለፍ ቃልዎ ተመስጥሯል።"</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"የCube መለያዎችን፣ ቅንብሮችን እና ሌሎችንም ለማስተላለፍ የሌላኛውን መሣሪያዎን ሥርዓተ-ጥለት ያስገቡ። ስርዓተ ጥለትዎ ተመስጥሯል።"</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"የCube መለያዎችን፣ ቅንብሮችን እና ሌሎችንም ለማስተላለፍ የሌላኛውን መሣሪያዎን ፒን ያስገቡ። ፒንዎ ተመስጥሯል።"</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"የCube መለያን፣ ቅንብሮች እና ሌሎችንም ለማስተላለፍ የሌላኛውን መሣሪያዎን ይለፍ ቃል ያስገቡ። የይለፍ ቃልዎ ተመስጥሯል።"</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"እንዲሁም ይህን መሣሪያ ለመክፈት ስርዓተ ጥለት ይጠቀሙ"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"እንዲሁም ይህን መሣሪያ ለመክፈት ፒን ይጠቀሙ"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"እንዲሁም ይህን መሣሪያ ለመክፈት የይለፍ ቃል ይጠቀሙ"</string>

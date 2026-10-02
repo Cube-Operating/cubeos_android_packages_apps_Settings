@@ -433,7 +433,7 @@
     <string name="identity_check_lockout_error_two_factor_auth_description_1" msgid="8369894114882274736">"Preveč neuspešnih poskusov preverjanja z biometričnimi podatki. Poskusite znova."</string>
     <string name="identity_check_lockout_error_description_2" msgid="5512321457771307067">"Preverjanje identitete lahko upravljate v nastavitvah zaščite ob tatvini. Odpri nastavitve"</string>
     <string name="identity_check_general_error_title" msgid="5073929400896102674">"Za nadaljevanje je potreben biometrični podatek"</string>
-    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Preverjanje identitete je vklopljeno in zahteva biometrične podatke, vendar obraz ali tipalo prstnih odtisov ni na voljo.\n"<ul><li>"Preverite, ali je fotoaparat vklopljen, in poskusite znova."</li>\n<li>"Preverjanje identitete lahko izklopite v računu Google."</li></ul></string>
+    <string name="identity_check_general_error_description_1" msgid="5260846996256699095">"Preverjanje identitete je vklopljeno in zahteva biometrične podatke, vendar obraz ali tipalo prstnih odtisov ni na voljo.\n"<ul><li>"Preverite, ali je fotoaparat vklopljen, in poskusite znova."</li>\n<li>"Preverjanje identitete lahko izklopite v računu Cube."</li></ul></string>
     <string name="identity_check_biometric_error_cancel" msgid="3353689146211669291">"Prekliči"</string>
     <string name="identity_check_biometric_error_ok" msgid="4535306787363107304">"V redu"</string>
     <string name="go_to_identity_check" msgid="5215846637575231800">"Na preverjanje identitete"</string>
@@ -638,9 +638,9 @@
     <string name="private_space_cancel_label" msgid="379259667396956886">"Prekliči"</string>
     <string name="private_space_setup_button_label" msgid="2094882154623560585">"Nastavi"</string>
     <string name="private_space_setup_title" msgid="2272968244329821450">"Zasebni prostor"</string>
-    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Skrijte ali zaklenite zasebne aplikacije v ločenem prostoru. Za dodatno varnost uporabite namenski račun Google."</string>
+    <string name="private_space_hide_apps_summary" msgid="4418722947376042418">"Skrijte ali zaklenite zasebne aplikacije v ločenem prostoru. Za dodatno varnost uporabite namenski račun Cube."</string>
     <string name="private_space_setup_sub_header" msgid="550476876393954356">"Kako deluje"</string>
-    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Ustvarite račun Google za zasebni prostor"</b>\n"Če uporabite namenski račun, to omogoča, da se sinhronizirane datoteke, fotografije in e-poštna sporočila ne prikazujejo zunaj zasebnega prostora"</string>
+    <string name="private_space_separate_account_text" msgid="790319706810190320"><b>"Ustvarite račun Cube za zasebni prostor"</b>\n"Če uporabite namenski račun, to omogoča, da se sinhronizirane datoteke, fotografije in e-poštna sporočila ne prikazujejo zunaj zasebnega prostora"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"Nastavite zaklepanje"</b>\n"Zaklenite svoj prostor, da ga druge osebe ne bodo mogle odpreti"</string>
     <string name="private_space_install_apps_text" msgid="8072027796190028830"><b>"Namestite aplikacije"</b>\n"V zasebnem prostoru namestite aplikacije, za katere želite, da ostanejo zasebne"</string>
     <string name="private_space_keep_in_mind_text" msgid="7721081172657563800">"Upoštevajte"</string>
@@ -1576,7 +1576,7 @@
     <string name="reset_esim_error_title" msgid="6516110227665862295">"Kartic e-SIM ni mogoče izbrisati"</string>
     <string name="reset_esim_error_msg" msgid="8459527827897797168">"Prišlo je do napake in kartice e-SIM niso bile izbrisane.\n\nZnova zaženite napravo in poskusite znova."</string>
     <string name="reset_private_space_delete_title" msgid="2555885198282572990">"Brisanje zasebnega prostora"</string>
-    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Če imate v napravi zasebni prostor, bo trajno izbrisan in račun Google, dodan v prostor, bo odstranjen. \n\nVse aplikacije v prostoru in njihovi podatki bodo prav tako trajno izbrisani iz "<b>"notranjega pomnilnika"</b>" telefona."</string>
+    <string name="reset_private_space_delete_dialog" msgid="2325106559507364385">"Če imate v napravi zasebni prostor, bo trajno izbrisan in račun Cube, dodan v prostor, bo odstranjen. \n\nVse aplikacije v prostoru in njihovi podatki bodo prav tako trajno izbrisani iz "<b>"notranjega pomnilnika"</b>" telefona."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Izbris vseh podatkov (tovarniška ponastavitev)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Izbriši vse podatke (tov. po.)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"glasbo"</li>\n<li>"fotografije"</li>\n<li>"druge uporabniške podatke"</li></string>
@@ -1734,9 +1734,9 @@
     <string name="lockpassword_confirm_your_pin_header_frp" msgid="8285647793164729982">"Potrdite PIN"</string>
     <string name="lockpassword_confirm_your_password_header_frp" msgid="7932240547542564033">"Potrdite geslo"</string>
     <string name="lockpassword_remote_validation_header" msgid="4992647285784962073">"Preverjanje identitete"</string>
-    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Če želite prenesti račune Google, nastavitve in druge podatke, vnesite vzorec druge naprave. Vzorec je šifriran."</string>
-    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Če želite prenesti račune Google, nastavitve in druge podatke, vnesite kodo PIN druge naprave. Koda PIN je šifrirana."</string>
-    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Če želite prenesti račune Google, nastavitve in druge podatke, vnesite geslo druge naprave. Geslo je šifrirano."</string>
+    <string name="lockpassword_remote_validation_pattern_details" msgid="4655537780358707983">"Če želite prenesti račune Cube, nastavitve in druge podatke, vnesite vzorec druge naprave. Vzorec je šifriran."</string>
+    <string name="lockpassword_remote_validation_pin_details" msgid="2373654227583206297">"Če želite prenesti račune Cube, nastavitve in druge podatke, vnesite kodo PIN druge naprave. Koda PIN je šifrirana."</string>
+    <string name="lockpassword_remote_validation_password_details" msgid="3482328925925888340">"Če želite prenesti račune Cube, nastavitve in druge podatke, vnesite geslo druge naprave. Geslo je šifrirano."</string>
     <string name="lockpassword_remote_validation_set_pattern_as_screenlock" msgid="7595104317648465901">"Ta naprava se lahko odklepa tudi z vzorcem"</string>
     <string name="lockpassword_remote_validation_set_pin_as_screenlock" msgid="509672303005547218">"Kodo PIN uporabi tudi za odklepanje te naprave"</string>
     <string name="lockpassword_remote_validation_set_password_as_screenlock" msgid="2066701840753591922">"Ta naprava se lahko odklepa tudi z geslom"</string>
