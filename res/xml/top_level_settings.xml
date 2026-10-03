@@ -22,13 +22,18 @@
 
     <!-- CubeOS: Cube Account card at the top of Settings. -->
     <Preference
-        android:fragment="com.android.settings.cube.CubeAccountFragment"
         android:icon="@drawable/cube_account_avatar"
         android:key="top_level_cube_account"
         android:layout="@layout/cube_account_card"
         android:order="-200"
         android:title="@string/cube_account_title"
-        android:summary="@string/cube_account_summary"/>
+        android:summary="@string/cube_account_summary"
+        settings:controller="com.android.settings.cube.CubeAccountPreferenceController">
+        <intent
+            android:action="org.cubeapp.account.MANAGE"
+            android:targetPackage="org.cubeapp.account"
+            android:targetClass="org.cubeapp.account.AccountActivity" />
+    </Preference>
 
     <com.android.settings.widget.HomepagePreference
         android:fragment="com.android.settings.network.NetworkDashboardFragment"

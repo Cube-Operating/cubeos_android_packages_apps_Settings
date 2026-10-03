@@ -45,9 +45,8 @@
     <!-- Settings home. Cube Account card at the top. -->
     <string name="cube_account_title" translatable="false">Cube Account</string>
     <string name="cube_account_summary">Sign in for backup, sync and AppHub</string>
-    <!-- Cube Account screen shown until the account service exists. -->
-    <string name="cube_account_coming_soon">Coming soon</string>
-    <string name="cube_account_coming_soon_body">Sign in with a Cube Account to back up your phone, sync across devices and get apps from AppHub. Cube Account isn’t available yet.</string>
+    <!-- Cube Account card summary when signed in: display name and Cubemail address. -->
+    <string name="cube_account_signed_in_summary"><xliff:g id="name">%1$s</xliff:g> · <xliff:g id="email">%2$s</xliff:g></string>
 
     <!-- About phone header. -->
     <string name="cube_device_marketing_name" translatable="false">Cube Phone</string>
