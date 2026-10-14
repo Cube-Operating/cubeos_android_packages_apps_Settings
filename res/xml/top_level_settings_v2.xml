@@ -20,7 +20,7 @@
     xmlns:settings="http://schemas.android.com/apk/res-auto"
     android:key="top_level_settings">
 
-    <!-- CubeOS: Cube Account card at the top of Settings. -->
+    <!-- CubeOS: Cubeline account card at the top of Settings. -->
     <PreferenceCategory
         android:order="-150"
         android:key="top_level_cube_account_category"

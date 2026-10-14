@@ -43,10 +43,10 @@
     <string name="cubeos_release_channel">CubeOS release channel</string>
 
     <!-- Settings home. Cube Account card at the top. -->
-    <string name="cube_account_title" translatable="false">Cube Account</string>
-    <string name="cube_account_summary">Sign in for backup, sync and AppHub</string>
+    <string name="cube_account_title" translatable="false">Cubeline</string>
+    <string name="cube_account_summary">Create your Cubeline for messages, calls and AppHub</string>
     <!-- Cube Account card summary when signed in: display name and Cubemail address. -->
-    <string name="cube_account_signed_in_summary"><xliff:g id="name">%1$s</xliff:g> · <xliff:g id="email">%2$s</xliff:g></string>
+    <string name="cube_account_signed_in_summary"><xliff:g id="name">%1$s</xliff:g> · <xliff:g id="cubeline">%2$s</xliff:g></string>
 
     <!-- About phone header. -->
     <string name="cube_device_marketing_name" translatable="false">Cube Phone</string>

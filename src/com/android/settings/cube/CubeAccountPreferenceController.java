@@ -26,12 +26,13 @@ import com.android.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 /**
- * The Cube Account card at the top of Settings: shows who is signed in, or invites the user
- * to sign in. Tapping it opens the Cube Account app (org.cubeapp.account).
+ * The Cubeline card at the top of Settings: shows the phone's Cubeline account ("@username" and
+ * the Cubeline), or invites the user to create one. Tapping it opens the account app
+ * (org.cubeapp.account), which signs in through Cube App.
  */
 public class CubeAccountPreferenceController extends BasePreferenceController {
 
-    static final String ACCOUNT_TYPE = "org.cubeapp.cubemail";
+    static final String ACCOUNT_TYPE = "org.cubeapp.cubeline";
     private static final String CUBE_ACCOUNT_PACKAGE = "org.cubeapp.account";
     private static final String KEY_DISPLAY_NAME = "display_name";
 
@@ -59,8 +60,7 @@ public class CubeAccountPreferenceController extends BasePreferenceController {
         final Account account = accounts[0];
         String name = am.getUserData(account, KEY_DISPLAY_NAME);
         if (TextUtils.isEmpty(name)) {
-            name = account.name.contains("@") ? account.name.substring(0, account.name.indexOf('@'))
-                    : account.name;
+            name = account.name;
         }
         return mContext.getString(R.string.cube_account_signed_in_summary, name, account.name);
     }
